@@ -37,6 +37,12 @@ items:
       image: "/images/mathieu_hex.png"
       text: "est chercheur en informatique, spécialisé en data science et machine learning. Il développe des méthodes et des outils pour améliorer la découvrabilité et la qualité des données ouvertes, au bénéfice des producteurs et des réutilisateurs."
       email: "mathieu@datactivist.coop"
+  - Clara Maximovitch-Rodaminoff:
+      image: "/images/Clara_hex.png"
+      text : "a rejoint Datactivist pour son stage de fin d'études à Sciences Po. C'est en intégrant un master sur la gouvernance des métropoles qu'elle a finalement découvert les enjeux de l'open data, qu’elle approfondit désormais en travaillant sur la numérisation des services urbains et la dématérialisation de la commande publique."
+      email: "clara@datactivist.coop"
+
+
 ---
 
 Les membres de l’équipe que nous avons constituée sont tous et toutes marqués, dans leur trajectoire, par le fait d’avoir noué une relation personnelle forte à la donnée, en souhaitant la mettre au service du bien commun et du plus grand nombre, que ce soit au travers de leurs choix professionnels ou de leurs engagements personnels, qui sont souvent entremêlés. La donnée sera un outil d’empowerment ou ne sera pas.
