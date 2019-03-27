@@ -13,10 +13,12 @@
       </header>
       <div class="grid-6-small-2 has-gutter-l">
         {{ range $index, $v := .Params.items }}
-
+	<!-- uncomment to restore 3-2 alternating lines -->
+	<!--
         {{ if or (modBool (add $index 1) 4) (modBool (add $index 1) 9) }}
         <div class="col-1-small-0"></div>
         {{ end }}
+	-->
 
         {{ range $key, $value := . }}
         <div class="col-2 txtcenter ptl item_list">

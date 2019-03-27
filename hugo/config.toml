@@ -1,7 +1,7 @@
 baseURL = "https://datactivist.coop/"
 title = "Datactivist"
 
-theme = "Datacthemist"
+theme = "datacthemist"
 
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
