@@ -17,18 +17,25 @@ hugo server
 3 - modifier les fichiers markdown dans les dossiers
 `/content/français/homepage`, `/content/français/a-propos` etc.
 
-4 - Press Ctrl+C to kill the server, then remove the `public` folder
+4 - Press Ctrl+C to kill the server, then remove the `public` folder and submodule
 ```sh
-git rm -r public
+cd ..
+rm -rf .git/modules/hugo/public/
+# edit .git/config (ex: emacs .git/config)
+# delete [submodule "hugo/public"] and its daughters
+rm -rf .gitmodules
+git rm -r --cached hugo/public
+rm -rf hugo/public
 ```
 
-5 - Faire submodule
+5 - Ajouter en submodule
 ```sh
-git submodule add -b master git@github.com:datactivist/datactivist.github.io.git public
+git submodule add -b master git@github.com:datactivist/datactivist.github.io.git hugo/public
 ```
 
 6 - taper la commande
 ```sh
+cd hugo
 hugo
 ```
 
