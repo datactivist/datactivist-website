@@ -1,0 +1,61 @@
+
+
+<h1 id="datactivist-website">datactivist website</h1>
+
+<h2 id="instructions-déploiement">Instructions déploiement</h2>
+
+<p>1 - faites un fork de <a href="https://github.com/Peh4/datactivist-website">https://github.com/Peh4/datactivist-website</a></p>
+
+<p>2 - dans un terminal
+&gt;cd ~
+&gt;git clone <a href="https://github.com/datactivist/datactivist-website">https://github.com/datactivist/datactivist-website</a>
+&gt;cd datactivist-website/hugo/</p>
+
+<blockquote>
+<p>hugo server</p>
+</blockquote>
+
+<p>3 - modifier les fichiers markdown dans les dossiers
+&gt; /content/français/homepage
+&gt; /content/français/a-propos</p>
+
+<p>4 -Press Ctrl+C to kill the server
+&gt; rm -rf public to completely remove the public directory</p>
+
+<p>5 - Faire submodule
+&gt;git submodule add -b master git@github.com:datactivist/datactivist.github.io.git public</p>
+
+<p>6 - taper la commande
+&gt;hugo</p>
+
+<p>7 - On commit le dossier /public dans le submodule datactivist.github.io
+Go To Public folder
+&gt; cd public</p>
+
+<p>Add changes to git.
+&gt;git add .</p>
+
+<blockquote>
+<p>git commit -m &ldquo;MESSAGE DE COMMIT&rdquo;</p>
+</blockquote>
+
+<p>8-
+git push origin master</p>
+
+<p>9 - cd ..</p>
+
+<p>10 -
+&gt; git add .</p>
+
+<blockquote>
+<p>git commit -m &ldquo;MESSAGE DE COMMIT&rdquo;</p>
+</blockquote>
+
+<p>11 - faire un commit du md des pages
+&gt; cd ..</p>
+
+<blockquote>
+<p>git add .</p>
+
+<p>git commit -m &ldquo;MESSAGE DE COMMIT&rdquo;</p>
+</blockquote>
