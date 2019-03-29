@@ -56,17 +56,14 @@ git push origin master
 9 -
 ```sh
 cd ..
-```
-
-10 -
-```sh
 git add .
 git commit -m "MESSAGE DE COMMIT"
 ```
 
-11 - faire un commit du md des pages
+10 - faire un commit du md des pages
 ```sh
 cd ..
 git add .
 git commit -m "MESSAGE DE COMMIT"
+git push
 ```
