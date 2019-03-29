@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Datactivist</title>
-    <link>https://datactivist.coop/en/</link>
-    <description>Recent content on Datactivist</description>
+    <title>Homepages on Datactivist</title>
+    <link>https://datactivist.coop/en/homepage/</link>
+    <description>Recent content in Homepages on Datactivist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Sep 2018 16:37:24 +0200</lastBuildDate>
     
-	<atom:link href="https://datactivist.coop/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://datactivist.coop/en/homepage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -65,21 +65,6 @@ Our mission : to reduce information asymmetries, and allow everyone to seize dat
       
       <guid>https://datactivist.coop/en/homepage/actualites/</guid>
       <description>📆 11-13 novembre 2018 : nous animons le hackathon du Paris Peace Forum sur la transparence des données financières. Plus d&amp;rsquo;infos : https://parispeaceforum.org/fr/hackathon/</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://datactivist.coop/en/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://datactivist.coop/en/readme/</guid>
-      <description>datactivist website Instructions déploiement 1 - faites un fork de https://github.com/Peh4/datactivist-website
-2 - dans un terminal &amp;gt;cd ~ &amp;gt;git clone https://github.com/datactivist/datactivist-website &amp;gt;cd datactivist-website/hugo/
- hugo server
- 3 - modifier les fichiers markdown dans les dossiers &amp;gt; /content/français/homepage &amp;gt; /content/français/a-propos
-4 -Press Ctrl+C to kill the server &amp;gt; rm -rf public to completely remove the public directory
-5 - Faire submodule &amp;gt;git submodule add -b master git@github.com:datactivist/datactivist.github.io.git public
-6 - taper la commande &amp;gt;hugo</description>
     </item>
     
   </channel>
