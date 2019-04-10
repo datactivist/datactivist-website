@@ -1,23 +1,36 @@
 # datactivist website
+Instructions pour pouvoir contribuer du contenu au site.
 
+## Mise en place pour nouveau contributeur
 
-## Instructions déploiement
+1. Sur GitHub, faire un fork de https://github.com/datactivist/datactivist-website
 
-1 - faites un fork de https://github.com/Peh4/datactivist-website
-
-2 - dans un terminal
+2. Dans un terminal, cloner le fork et ajouter un lien vers le repo datactivist"upstream":
 ```sh
-cd ~
-git clone https://github.com/datactivist/datactivist-website
+cd /path/to/wherever
+git clone https://github.com/<your_login>/datactivist-website
+git remote add upstream https://github.com/datactivist/datactivist-website
+```
+
+Puis pour tenir son fork à jour :
+https://help.github.com/en/articles/syncing-a-fork
+
+
+## Modifier le contenu
+1. Dans un terminal:
+```sh
+cd /path/to/wherever
 cd datactivist-website/hugo/
 
 hugo server
 ```
 
-3 - modifier les fichiers markdown dans les dossiers
+2. Modifier les fichiers markdown dans les dossiers
 `/content/français/homepage`, `/content/français/a-propos` etc.
 
-4 - Press Ctrl+C to kill the server, then remove the `public` folder and submodule
+3. Appuyer sur Ctrl+C pour tuer le serveur
+
+4. Supprimer le dossier `public` et le submodule git correspondant:
 ```sh
 cd ..
 rm -rf .git/modules/hugo/public/
@@ -28,42 +41,38 @@ rm -rf hugo/public
 git rm -r --cached hugo/public
 ```
 
-5 - Ajouter en submodule
+5 - Ajouter le submodule git:
 ```sh
 git submodule add -b master git@github.com:datactivist/datactivist.github.io.git hugo/public
 ```
 
-6 - taper la commande
+6 - Générer le site statique à partir du contenu:
 ```sh
 cd hugo
 hugo
 ```
 
-7 - On commit le dossier `public/` dans le submodule `datactivist.github.io`
+7 - Déployer la nouvelle version du site en poussant le contenu du dossier `public/` sur `datactivist.github.io` (via le submodule git):
 ```sh
 # go to public folder
 cd public
 # add changes to git and commit
 git add .
 git commit -m "MESSAGE DE COMMIT"
-```
-
-8-
-```sh
+# push changes
 git push origin master
 ```
 
-9 -
+8 - Committer et pousser les modifs du contenu sur son fork:
 ```sh
+# commit modifs in the folder hugo/ only
 cd ..
 git add .
 git commit -m "MESSAGE DE COMMIT"
-```
-
-10 - faire un commit du md des pages
-```sh
+# commit modifs in the root folder for datactivist-website
 cd ..
 git add .
-git commit -m "MESSAGE DE COMMIT"
+git commit -m "AUTRE MESSAGE DE COMMIT"
+# push all modifs
 git push
 ```
