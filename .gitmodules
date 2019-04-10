@@ -1,0 +1,4 @@
+[submodule "hugo/public"]
+	path = hugo/public
+	url = git@github.com:datactivist/datactivist.github.io.git
+	branch = master
