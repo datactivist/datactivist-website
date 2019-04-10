@@ -24,8 +24,8 @@ rm -rf .git/modules/hugo/public/
 # edit .git/config (ex: emacs .git/config)
 # delete [submodule "hugo/public"] and its daughters
 rm -rf .gitmodules
-git rm -r --cached hugo/public
 rm -rf hugo/public
+git rm -r --cached hugo/public
 ```
 
 5 - Ajouter en submodule
