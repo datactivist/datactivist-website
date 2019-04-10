@@ -1,19 +1,18 @@
 ---
-title: "Notre Mission"
+title: "Our Mission"
 type: "block_one-column"
 image: "photo-equipe.jpg"
-baseline: "Ouvrir des données, les rendre utiles et utilisées"
+baseline: "To open data, and make them used and useful"
 date: 2018-09-17T16:35:24+02:00
 draft: false
 weight: 100
 ---
+The research in social science of Datactivist's founders entertained a belief that it is essential to **put users at the centre of open data policies**. In his [doctoral dissertation](http://www.theses.fr/2016ENST0045), Samuel Goëta showed that the datasets published on open data portals often come out of the logic of the offer: the administrations employees choose the datasets to be open and how they will be published without taking into account the users needs about data.
 
-Les recherches en sciences sociales des fondateurs de Datactivist ont nourri une conviction : il est essentiel de **placer les usagers au coeur des politiques d’open data**. Dans sa [thèse de doctorat](http://www.theses.fr/2016ENST0045), Samuel Goëta a montré que les données publiées sur les portails open data répondent souvent à une logique de l'offre : les agents dans les administrations choisissent quelles données sont ouvertes et comment elles seront publiées sans prendre en compte les besoins des usagers des données. 
+In his work on electoral sociology, Joël Gombin has experienced **the limits of open data:** : too aggregated, rarely updated, poorly documented, sometimes unusable. And, for administration employees, it’s a lot of work for datasets that are sometimes little used or not used.
 
-Dans ses travaux en sociologie électorale, Joël Gombin a éprouvé **les limites des données ouvertes** : trop agrégées, rarement à jour mal documentées, parfois inutilisables. Et, pour les agents, c'est un travail considérable pour des données qui sont parfois peu ou pas utilisées.
+It is our wish to **put our expertise into data producers and reusers**, that made us create Datactivist, to open data and make them used and useful. 
 
-Voulant **mettre notre expertise au service des producteurs de données ouvertes et de leurs réutilisateurs**, nous avons créé la société coopérative Datactivist pour ouvrir les données et les rendre utiles et utilisées.
+The cooperative company quickly expanded to **support organizations of all types** (public sector, companies, NGOs) about the opening of their data, the uses and requests of open data. 
 
-La coopérative s'est vite agrandie pour **accompagner des organisations de tout type** (secteur public, entreprises, ONG) dans l’ouverture de leurs données, l’utilisation de données ouvertes et les demandes d’ouverture de données. 
-
-**Pure player de l'open data**, nous accompagnons nos clients à travers des activités de conseil allant de la définition à la mise en œuvre opérationnelle d'une stratégie open data, de formation replaçant l’ouverture des données dans le contexte général des révolutivons des données et de la data science, et de médiation pour accompagner la réutilisation de données par un public de spécialistes ou de novices.
+**As an open data pure player**, we help our customers through consulting activities ranging from the definition to the operational implementation of an open data strategy ; training that puts open data in the general context of the data revolution and data science ; and facilitation to help data reuse by experts and beginners. 
