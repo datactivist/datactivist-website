@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo -e "Avez vous pensé à committer et pusher les modifications des sources ?"
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
