@@ -20,7 +20,7 @@ actus:
     image: "/images/gtfs.png"
     alt: "Pourquoi et comment ouvrir ses données de transport ? une méthode simple en 3 étapes"
     text: "Pourquoi et comment ouvrir ses données de transport ? une méthode simple en 3 étapes"
-    date: "14/01/10"
+    date: "14/01/19"
 ---
 
 📆 April 29th 2019 : join us for the first Infrabel hackathon. More info : https://www.infrabel.be/en/open-data-hackathon
