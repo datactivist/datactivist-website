@@ -34,8 +34,9 @@ build:
   publish_env:
   - HUGO_ENV=production
   - HUGO_VERSION=0.54.0
+  - BUILD_DIR=hugo
   preview_output_directory: hugo/public
-  output_directory: public
+  output_directory: hugo/public
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
 version: 0.54.0
