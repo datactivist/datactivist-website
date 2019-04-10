@@ -105,7 +105,15 @@ All members of the team we gathered are marked, in their path, by having develop
       image: "/images/mathieu_hex.png"
       text: "is a researcher in computer science, specialized in data science and machine learning. He develops methods and tools to improve the discoverability and quality of open data, for the benefit of producers and re-users."
       email: "mathieu@datactivist.coop"
+  - Clara Maximovitch-Rodaminoff:
+      image: "/images/clara_hex.png"
+      text : "joined Datactivist for her final year internship from Sciences Po. During her studies in the Master's program Governing the Large Metropolis, she discovered the stakes of open data that she now explores further through her work on the digital transformation of urban services and the transition to e-procurement."
+      email: "clara@datactivist.coop"
+
 ---
 
 All members of the team we gathered are marked, in their path, by having developped a strong personal link with data, that they wish to serve general good and everyone's interest. Data will be an empowerment tool or won't be. 
+<<<<<<< HEAD
 >>>>>>> ENH en: team, values, mission (Etienne)
+=======
+>>>>>>> FIX add clara en
