@@ -23,4 +23,4 @@ actus:
     date: "14/01/19"
 ---
 
-📆 29 avril 2019 : nous vous donnons rendez-vous à Bruxelles au hackathon d'Infrabel. Plus d'infos : https://www.infrabel.be/fr/open-data-hackathon
+📆 28 avril 2019 : nous vous donnons rendez-vous à Bruxelles au hackathon d'Infrabel. Plus d'infos : https://www.infrabel.be/fr/open-data-hackathon
