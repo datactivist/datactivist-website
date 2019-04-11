@@ -12,7 +12,7 @@ actus:
     text: "Des analytics à l’impact, pourquoi évaluer une politique open data ?"
     date: "03/04/19"
   - "Actu 2":
-    image: "/images/scposgl.png"
+    image: "/images/scposgl.jpeg"
     alt: "Challenge Data — Une semaine à Sciences Po Saint-Germain pour concevoir des usages autour de données ouvertes !"
     text: "Challenge Data — Une semaine à Sciences Po Saint-Germain pour concevoir des usages autour de données ouvertes !"
     date: "13/03/19"
