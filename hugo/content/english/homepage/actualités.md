@@ -23,4 +23,4 @@ actus:
     date: "14/01/19"
 ---
 
-📆 April 29th 2019 : join us for the first Infrabel hackathon. More info : https://www.infrabel.be/en/open-data-hackathon
+📆 April 28th 2019 : join us for the first Infrabel hackathon. More info : https://www.infrabel.be/en/open-data-hackathon
