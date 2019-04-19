@@ -9,6 +9,7 @@ Instructions pour pouvoir contribuer du contenu au site.
 ```sh
 cd /path/to/wherever
 git clone https://github.com/<your_login>/datactivist-website
+cd datactivist-website
 git remote add upstream https://github.com/datactivist/datactivist-website
 ```
 
