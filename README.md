@@ -3,6 +3,25 @@ Instructions pour pouvoir contribuer du contenu au site.
 
 ## Mise en place pour nouveau contributeur
 
+0. Installer le framework hugo sur la machine.
+
+Pour Ubuntu :
+```sh
+sudo apt-get install hugo
+```
+
+Pour macOS avec Homebrew :
+```sh
+brew install hugo
+```
+
+Pour Windows avec Chocolatey :
+```sh
+choco install hugo -confirm
+```
+
+En cas de soucis ou pour d'autres options, [reportez-vous au site de Hugo](https://gohugo.io/getting-started/installing/).
+
 1. Sur GitHub, faire un fork de https://github.com/datactivist/datactivist-website
 
 2. Dans un terminal, cloner le fork et ajouter un lien vers le repo datactivist"upstream":
