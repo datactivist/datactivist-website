@@ -53,11 +53,9 @@ hugo server
 4. Supprimer le dossier `public` et le submodule git correspondant:
 ```sh
 cd ..
-rm -rf .git/modules/hugo/public/
+rm -rf .git/modules/hugo/public/ .gitmodules hugo/public
 # edit .git/config (ex: emacs .git/config)
 # delete [submodule "hugo/public"] and its daughters
-rm -rf .gitmodules
-rm -rf hugo/public
 git rm -r --cached hugo/public
 ```
 
