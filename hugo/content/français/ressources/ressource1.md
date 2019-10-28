@@ -1,15 +1,9 @@
 ---
-title: "Lorem ipsum Dolor sit amet"
-link: "#"
-date: 2018-09-17T16:35:39+02:00
+title: "Commande publique ouverte locale : une initiative mondiale pour partager les bonnes pratiques et valoriser l’entraide"
+link: "https://medium.com/datactivist/commande-publique-ouverte-locale-une-initiative-mondiale-pour-partager-les-bonnes-pratiques-et-9bcb78ec01e3"
+date: 2019-10-2
 tags: ["blog"]
-draft: true
+draft: false
 weight: 300
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+L’initiative pour une commande publique ouverte locale, LOCI, cherche à valoriser les initiatives locales en matière de commande publique ouverte. Focus sur quelques exemples et les engagements de la ville de Paris pour approfondir l'ouverture des données de la commande publique.
