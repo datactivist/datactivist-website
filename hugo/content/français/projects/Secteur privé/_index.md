@@ -1,4 +1,4 @@
 ---
-title: "Secteur privé"
+title: "Entreprises"
 color: "#4ed9cc"
 ---
