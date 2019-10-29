@@ -1,4 +1,4 @@
 ---
-title: "Secteur public"
+title: "Administrations centrales"
 color: "#e95459"
 ---
