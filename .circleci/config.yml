@@ -5,7 +5,7 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:latest
-    working_directory: ~/hugo
+    working_directory: ~
     environment:
       HUGO_BUILD_DIR: ~/hugo/public
     steps:
@@ -17,39 +17,19 @@ jobs:
       - run: git submodule sync && git submodule update --init
       # 3. install something to deploy to GH Pages?
       # 4. build with hugo
+      - run: cd hugo
       - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
       # 5. test with Htmlproofer
       - run: htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html --empty-alt-ignore --disable-external
-
-  # https://circleci.com/blog/deploying-documentation-to-github-pages-with-continuous-integration/
-  deploy:
-    docker:
-      - image: node:8.10.0
-    steps:
-      - checkout
-      - attach_workspace:
-          at: docs/_build
-      - run:
-          name: Install and configure dependencies
-          command: |
-            npm install -g --silent gh-pages@2.0.1
-            git config user.email "ci-build@datactivist.coop"
-            git config user.name "ci-build"
-      - add_ssh_keys:
-          fingerprints:
-            - "19:42:b6:fd:8d:9e:6f:94:4d:d3:3b:13:75:ab:1d:14"
-      - run:
-          name: Deploy website to gh-pages branch
-          command: gh-pages --dist $HUGO_BUILD_DIR
+      # deploy the new version of the website by pushing public/ to datactivist.github.io
+      # through the git submodule
+      - run: cd public && git add . && git commit -m "[circle ci] deploy" && git push origin master
 
 workflows:
   version: 2
   build:
     jobs:
       - build
-      - deploy:
-          requires:
-            - build
           filters:
             branches:
               only: master
