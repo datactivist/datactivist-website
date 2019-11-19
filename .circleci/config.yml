@@ -10,7 +10,8 @@ jobs:
       HUGO_BUILD_DIR: ~/hugo/public
     steps:
       # 1. install git and checkout the repository
-      - run: apk update && apk add git
+      # (2019-10 useless after switching to Ubuntu: https://github.com/cibuilds/hugo/issues/27)
+      # - run: apt-get update && apt-get install git
       - checkout
       # 2. install submodules (I think we need them)
       - run: git submodule sync && git submodule update --init
