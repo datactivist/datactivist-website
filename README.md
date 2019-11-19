@@ -46,7 +46,7 @@ hugo server
 ```
 
 2. Modifier les fichiers markdown dans les dossiers
-`/content/français/homepage`, `/content/français/a-propos` etc.
+`/content/francais/homepage`, `/content/francais/a-propos` etc.
 
 3. Appuyer sur Ctrl+C pour tuer le serveur
 
