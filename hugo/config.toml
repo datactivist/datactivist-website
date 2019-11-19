@@ -29,7 +29,7 @@ footerButton = "OK !"
 [languages.fr]
 languageCode = "fr_FR"
 title = "Datactivist"
-contentDir = "content/français"
+contentDir = "content/francais"
 languageName = "Français"
 [languages.fr.params]
 footerEmail = "Mail : hello@datactivist.coop"
