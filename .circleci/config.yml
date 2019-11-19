@@ -34,8 +34,11 @@ jobs:
             npm install -g --silent gh-pages@2.0.1
             git config user.email "ci-build@datactivist.coop"
             git config user.name "ci-build"
+      - add_ssh_keys:
+          fingerprints:
+            - "19:42:b6:fd:8d:9e:6f:94:4d:d3:3b:13:75:ab:1d:14"
       - run:
-          name: Deploy docs to gh-pages branch
+          name: Deploy website to gh-pages branch
           command: gh-pages --dist $HUGO_BUILD_DIR
 
 workflows:
