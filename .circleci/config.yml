@@ -1,0 +1,51 @@
+version: 2
+
+jobs:
+  # https://forestry.io/blog/automate-deploy-w-circle-ci/
+  build:
+    docker:
+      - image: cibuilds/hugo:latest
+    working_directory: ~/hugo
+    environment:
+      HUGO_BUILD_DIR: ~/hugo/public
+    steps:
+      # 1. install git and checkout the repository
+      - run: apk update && apk add git
+      - checkout
+      # 2. install submodules (I think we need them)
+      - run: git submodule sync && git submodule update --init
+      # 3. install something to deploy to GH Pages?
+      # 4. build with hugo
+      - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
+      # 5. test with Htmlproofer
+      - run: htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html --empty-alt-ignore --disable-external
+
+  # https://circleci.com/blog/deploying-documentation-to-github-pages-with-continuous-integration/
+  deploy:
+    docker:
+      - image: node:8.10.0
+    steps:
+      - checkout
+      - attach_workspace:
+          at: docs/_build
+      - run:
+          name: Install and configure dependencies
+          command: |
+            npm install -g --silent gh-pages@2.0.1
+            git config user.email "ci-build@datactivist.coop"
+            git config user.name "ci-build"
+      - run:
+          name: Deploy docs to gh-pages branch
+          command: gh-pages --dist $HUGO_BUILD_DIR
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
