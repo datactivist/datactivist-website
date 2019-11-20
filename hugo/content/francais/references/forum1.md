@@ -21,8 +21,9 @@ topPicto: "/images/clock.svg"
 ![Picto outils](/images/tools.svg)
 ## Approche adoptée
 
-- Sensibilistaion à l'open data…
-- Définition collective d'une charte…
+- Sensibilisation à l'open data en comité directeur, accompagnement à la désignation des référents open data
+- Définition collective d'une charte régionale de l'open data
+- ...
 
 > ![Picto Soleil loupe](/images/search-sun.svg)
 > ## Résultats obtenus
