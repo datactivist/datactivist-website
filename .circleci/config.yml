@@ -17,13 +17,13 @@ jobs:
       - run: git submodule sync && git submodule update --init
       # 3. install something to deploy to GH Pages?
       # 4. build with hugo
-      - run: cd hugo && pwd && ls -R
-      - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
+      - run: ls ~/hugo
+      - run: HUGO_ENV=production hugo -v -s ~/hugo -d $HUGO_BUILD_DIR
       # 5. test with Htmlproofer
       - run: htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html --empty-alt-ignore --disable-external
       # deploy the new version of the website by pushing public/ to datactivist.github.io
       # through the git submodule
-      - run: cd public && git add . && git commit -m "[circle ci] deploy" && git push origin master
+      - run: cd $HUGO_BUILD_DIR && git add . && git commit -m "[circle ci] deploy" && git push origin master
 
 workflows:
   version: 2
