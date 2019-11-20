@@ -22,7 +22,7 @@ jobs:
       # through the git submodule
       - add_ssh_keys:
           fingerprints:
-            - "19:42:b6:fd:8d:9e:6f:94:4d:d3:3b:13:75:ab:1d:14"
+            - "64:a9:a5:48:c0:03:4d:49:4a:05:08:bc:84:4c:05:87"
       - run: cd ~/project/hugo/public && git config user.email "circleci@circleci" && git config user.name "CircleCI" && git add . && git commit -m "[circle ci] deploy" && git push origin master
 
 workflows:
