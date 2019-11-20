@@ -11,8 +11,8 @@ jobs:
       # (2019-10 useless after switching to Ubuntu: https://github.com/cibuilds/hugo/issues/27)
       # - run: apt-get update && apt-get install git
       - checkout
-      # 2. install submodules (I think we need them)
-      - run: git submodule sync && git submodule update --init
+      # 2. install submodules
+      - run: rm -rf .git/modules/hugo/public/ .gitmodules hugo/public && git rm -r --cached hugo/public && git submodule add -b master git@github.com:datactivist/datactivist.github.io.git hugo/public
       # 3. install something to deploy to GH Pages?
       # 4. build with hugo
       - run: HUGO_ENV=production hugo -v -s ~/project/hugo -d public
