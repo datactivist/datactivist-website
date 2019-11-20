@@ -20,9 +20,7 @@ jobs:
       - run: htmlproofer ~/project/hugo/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
       # deploy the new version of the website by pushing public/ to datactivist.github.io
       # through the git submodule
-      - run: git config user.email "circleci@circleci"
-      - run: git config user.name "CircleCI"
-      - run: cd ~/project/hugo/public && git add . && git commit -m "[circle ci] deploy" && git push origin master
+      - run: cd ~/project/hugo/public && git config user.email "circleci@circleci" && git config user.name "CircleCI" && git add . && git commit -m "[circle ci] deploy" && git push origin master
 
 workflows:
   version: 2
