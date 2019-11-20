@@ -5,9 +5,9 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:latest
-    working_directory: ~
+    working_directory: ~/project
     environment:
-      HUGO_BUILD_DIR: ~/hugo/public
+      HUGO_BUILD_DIR: ~/project/hugo/public
     steps:
       # 1. install git and checkout the repository
       # (2019-10 useless after switching to Ubuntu: https://github.com/cibuilds/hugo/issues/27)
@@ -17,8 +17,7 @@ jobs:
       - run: git submodule sync && git submodule update --init
       # 3. install something to deploy to GH Pages?
       # 4. build with hugo
-      - run: ls ~/hugo
-      - run: HUGO_ENV=production hugo -v -s ~/hugo -d $HUGO_BUILD_DIR
+      - run: HUGO_ENV=production hugo -v -s ~/project/hugo -d $HUGO_BUILD_DIR
       # 5. test with Htmlproofer
       - run: htmlproofer $HUGO_BUILD_DIR --allow-hash-href --check-html --empty-alt-ignore --disable-external
       # deploy the new version of the website by pushing public/ to datactivist.github.io
