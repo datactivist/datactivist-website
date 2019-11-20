@@ -1,9 +1,9 @@
 ---
 title: "Conception et animation d'un Hackathon au Ghana"
-longTitle: "Conception et animation d'un Hackathon au Ghana sur l'utilisation des données géospatiales pour le développement de l'agiculture."
+longTitle: "Conception et animation d'un Hackathon au Ghana sur l'utilisation des données géospatiales pour le développement de l'agriculture."
 image: "/images/logos/Logo_agdic_VF.png"
 date: 2019-10-27
-projects: ["cat3"]
+projects: ["cooperation_internationale"]
 weight: 300
 topQuestion: "Durée du hackathon ![Fleche vers la droite](/images/white-dotted-arrow.svg)"
 topAnswer: "3 jours"
