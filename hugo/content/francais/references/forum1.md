@@ -14,8 +14,9 @@ topPicto: "/images/clock.svg"
 ![Picto Cible](/images/target.svg)
 ## Objectifs
 
-- Faire de la région Occitanie…
-- Accompagner …
+- Faire de la région Occitanie un leader national et international de l'ouverture des données
+- Accompagner l'organisation dans la transition vers l'open data par défaut
+- Faire de la région le chef de file de l'ouverture des données territoriales
 
 ![Picto outils](/images/tools.svg)
 ## Approche adoptée
