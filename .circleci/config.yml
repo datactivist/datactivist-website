@@ -16,13 +16,13 @@ jobs:
       # 4. build with hugo
       - run: cd hugo && HUGO_ENV=production hugo -v
       # 5. test with Htmlproofer
-      - run: htmlproofer public --allow-hash-href --check-html --empty-alt-ignore --disable-external
+      - run: htmlproofer hugo/public --allow-hash-href --check-html --empty-alt-ignore --disable-external
       # deploy the new version of the website by pushing public/ to datactivist.github.io
       # through the git submodule
       - add_ssh_keys:
           fingerprints:
             - "64:a9:a5:48:c0:03:4d:49:4a:05:08:bc:84:4c:05:87"
-      - run: cd public && git config user.email "circleci@circleci" && git config user.name "CircleCI" && git add . && git commit -m "[circle ci] deploy" && git push origin master
+      - run: cd hugo/public && git config user.email "circleci@circleci" && git config user.name "CircleCI" && git add . && git commit -m "[circle ci] deploy" && git push origin master
 
 workflows:
   version: 2
