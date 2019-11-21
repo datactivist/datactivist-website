@@ -1,6 +1,6 @@
 {{ define "main" }}
 <!-- Ranges through content/post/*.md -->
-{{ range where .Pages "Section" "homepage" }}
+{{ range where .Site.RegularPages "Section" "homepage" }}
 {{ .Render "li"}}
 {{ end }}
 
