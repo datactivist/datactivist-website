@@ -34,7 +34,7 @@ languageName = "Français"
 [languages.fr.params]
 footerEmail = "Mail : hello@datactivist.coop"
 footerAdress1 = "7 bis, Avenue Saint-Jérôme — 13100 Aix-en-Provence"
-footerAdress2 = "23, rue Blondel — 75002 Paris"
+footerAdress2 = ""
 footerNewsletter = "Entrez votre email (pas de spam, promis !)"
 footerImage = "images/stickers.png"
 footerAlt = "Stickers"
