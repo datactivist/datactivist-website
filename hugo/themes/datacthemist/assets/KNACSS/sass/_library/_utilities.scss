@@ -74,6 +74,10 @@
   text-align: center;
 }
 
+img.txtcenter {
+  padding-bottom: 10px;
+}
+
 @if variable-exists(hyphens) and $hyphens==true {
   @media (max-width: ($small - 1)) {
     div,
