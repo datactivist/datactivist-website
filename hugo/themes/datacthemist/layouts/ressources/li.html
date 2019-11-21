@@ -14,11 +14,6 @@ dark
 background-color: {{ .Params.color }};
 {{ end }}{{ end }}{{ end }}'>
 <a href="{{ .Params.link }}">
-  {{ if .Params.image }}
-  <div class="txtcenter">
-    <img class="txtcenter" src="{{ .Params.image }}" alt="{{ .Title }}">
-  </div>
-  {{ end }}
   {{ if .Params.tags }}
   <ul class="tags">
     {{ range .Params.tags }}
@@ -27,6 +22,11 @@ background-color: {{ .Params.color }};
     {{ end }}
     {{ end }}
   </ul>
+  {{ end }}
+  {{ if .Params.image }}
+  <div class="txtcenter">
+    <img class="txtcenter" src="{{ .Params.image }}" alt="{{ .Title }}">
+  </div>
   {{ end }}
   <h2>{{ .Title }}</h2>
   {{ .Content }}
