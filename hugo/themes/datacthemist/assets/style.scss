@@ -678,7 +678,7 @@ a {
 
       text-transform: uppercase;
       &::before {
-        content: "_"
+        content: ""
       }
     }
     .button--info {
