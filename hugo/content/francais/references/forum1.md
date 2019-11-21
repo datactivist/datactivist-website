@@ -4,7 +4,7 @@ longTitle: "Assistance à maitrise d’ouvrage de la région Occitanie sur l’o
 image: "/images/logos/logos_02-square.png"
 date: 2018-09-17T16:35:39+02:00
 projects: ["collectivites"]
-draft: false
+draft: true
 weight: 10
 topQuestion: "Durée de l'intervention (en cours) ![Fleche vers la droite](/images/white-dotted-arrow.svg)"
 topAnswer: "3 ans"
