@@ -10,6 +10,7 @@ weight: "10"
 topQuestion: Durée de l'intervention (en cours) ![Fleche vers la droite](/images/white-dotted-arrow.svg)
 topAnswer: 3 ans
 topPicto: "/images/clock.svg"
+draft: true
 
 ---
 ![Picto Cible](/images/target.svg)
