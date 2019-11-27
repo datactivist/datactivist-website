@@ -23,7 +23,7 @@ items:
       email: "timothee@datactivist.coop"
   - Cécile Le Guen:
      image: "/images/cecile_hex.png"
-     text: "est spécialisée sur les questions de gouvernement ouvert. Ancienne salariée d’Open Knowledge International, elle a parcouru le monde à la rencontre des communautés open data et continuera de le faire chez Datactivist, notamment avec le Programme d’Appui aux Gouvernements Ouverts d’Afrique Francophone."
+     text: "associée, elle porte l'expertise de Datactivist sur les thématiques de commande publique ouverte et de coopération internationale, et assure également l’accompagnement stratégique sur l’ouverture et la valorisation des données. Formatrice et auteure de plusieurs modules de formation à la culture des données, elle réalise tout aussi bien les outils de cartographie ou d’aide à la décision. Ancienne salariée d’Open Knowledge International, elle a parcouru le monde à la rencontre des communautés open data et continue de le faire, au gré des missions."
      email: "cecile@datactivist.coop"
   - Etienne Pichot Damon:
       image: "/images/etienne_hex.png"
