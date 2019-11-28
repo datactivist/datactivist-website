@@ -1,15 +1,17 @@
 ---
-title: "Conception et animation d'un Hackathon au Ghana"
-longTitle: "Conception et animation d'un Hackathon au Ghana sur l'utilisation des données géospatiales pour le développement de l'agriculture."
+title: Conception et animation d'un hackathon au Ghana
+longTitle: Conception et animation d'un Hackathon au Ghana sur l'utilisation des données
+  géospatiales pour le développement de l'agriculture.
 image: "/images/logos/Logo_agdic_VF.png"
 date: 2019-10-27
-projects: ["cooperation_internationale"]
-weight: 300
-topQuestion: "Durée du hackathon ![Fleche vers la droite](/images/white-dotted-arrow.svg)"
-topAnswer: "3 jours"
+projects:
+- cooperation_internationale
+weight: "300"
+topQuestion: Durée du hackathon ![Fleche vers la droite](/images/white-dotted-arrow.svg)
+topAnswer: 3 jours
 topPicto: "/images/clock.svg"
----
 
+---
 ![Picto Cible](/images/target.svg)
 ## Objectifs
 
@@ -39,4 +41,4 @@ Le hackathon a permis de faire émerger des idées d’utilisation de données i
 > - Une documentation complète des travaux des équipes
 > - Une utilisation concrète de données
 > - Une action de sensibilisation et d'acculturation au travail de la donnée
-> - Une rencontre avec des entrepreneurs locaux et réutilisateurs de données  
+> - Une rencontre avec des entrepreneurs locaux et réutilisateurs de données
