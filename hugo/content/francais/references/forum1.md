@@ -2,7 +2,7 @@
 title: AMO Région Occitanie
 longTitle: Assistance à maitrise d’ouvrage de la région Occitanie sur l’ouverture
   des données et l'animation territoriale de l'open data.
-image: "/uploads/Logo_occitanie-square.png"
+image: "/upload/Logo_occitanie-square.png"
 date: 2018-09-17T14:35:39.000+00:00
 projects:
 - collectivites
