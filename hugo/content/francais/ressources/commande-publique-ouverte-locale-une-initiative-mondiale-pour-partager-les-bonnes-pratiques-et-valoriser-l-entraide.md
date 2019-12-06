@@ -1,11 +1,11 @@
 +++
-date = 2019-10-02T00:00:00Z
+date = 2019-11-27T23:00:00Z
 draft = true
 image = "https://miro.medium.com/max/2498/1*9qlNYRJnEM7s9tJJkPNYpQ.png"
-link = "https://medium.com/datactivist/commande-publique-ouverte-locale-une-initiative-mondiale-pour-partager-les-bonnes-pratiques-et-9bcb78ec01e3"
-tags = ["blog"]
-title = "Commande publique ouverte locale : une initiative mondiale pour partager les bonnes pratiques et valoriser l’entraide"
+link = "https://datactivist.coop/infolab_poitiers/facto_sandwich/#1"
+tags = ["présentation"]
+title = "Factualité / Factfullness ou comment corriger ses mauvaises intuitions par les données"
 weight = 300
 
 +++
-L’initiative pour une commande publique ouverte locale, LOCI, cherche à valoriser les initiatives locales en matière de commande publique ouverte. Focus sur quelques exemples et les engagements de la ville de Paris pour approfondir l'ouverture des données de la commande publique.
+Notre monde est traversé par des mauvaises intuitions qui ne reposant sur aucun élément factuel : celle du destin, de la ligne droite, du fossé ou de la peur.. Le médecin et statisticien Hans Rosling a compilé dans Factfullness les 10 mauvais réflexes qui tordent notre vision du monde et 10 méthodes pour les contrer en utilisant sa philosophie des faits : la factualité ! Une approche que nous vous proposons d'introduire, exemples et exercice à l'appui, pour ce Data'Sandwich, rebaptisé pour l'occasion : "Facto'Sandwich" !
