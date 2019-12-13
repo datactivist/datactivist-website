@@ -844,6 +844,9 @@ a {
 
 .panel-poste {
   padding: $spacer-large;
+     &::before {
+      content: '';
+    }
   img {
     // position: absolute;
     background: none none;
