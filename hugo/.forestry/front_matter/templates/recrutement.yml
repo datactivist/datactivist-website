@@ -11,5 +11,3 @@ fields:
 - type: text
   name: type
   label: type
-pages:
-- hugo/content/francais/Recrutement/datactivist-recrute-un⋅e-consultant-senior.md
