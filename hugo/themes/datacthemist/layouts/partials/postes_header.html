@@ -8,7 +8,7 @@
           <li><a href="{{ .Permalink }}">{{ .Params.txturl }}</a></li>
           {{end}}
 
-          {{ range $key, $value := .Site.Taxonomies.projects }}
+          {{ range $key, $value := .Site.Taxonomies.postes }}
           {{ with $.Site.GetPage (printf "/postes/%s" $key) }}
           <li><a style="color: {{ .Params.color }}" href="{{ .Permalink }}">{{ .Name }}</a></li>
           {{ end }}
