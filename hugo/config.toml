@@ -20,7 +20,7 @@ languageName = "English"
 [languages.en.params]
 footerEmail = "Mail : hello@datactivist.coop"
 footerAdress1 = "7 bis, Avenue Saint-Jérôme — 13100 Aix-en-Provence FRANCE"
-footerAdress2 = "23, rue Blondel — 75002 Paris FRANCE"
+footerAdress2 = ""
 footerNewsletter = "Enter your email address (no spam, we promise !)"
 footerImage = "images/stickers.png"
 footerAlt = "Stickers"
@@ -76,4 +76,5 @@ name   = "Fr"
 
 [taxonomies]
 project = "projects"
+poste = "postes"
 tag = "tags"
