@@ -1,0 +1,46 @@
+{{ define "main" }}
+<section class="poste {{ range .Params.categories }} {{ . }}{{ end }}">
+  <div class="wrap">
+    <div class="content">
+      {{ $button := .Params.button }}
+      {{ with $.Site.GetPage .Section }}
+      <div class="h1-like title_left-border"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+      <a href="{{ .Permalink }}" class="button--danger mll">{{ .Params.button }}</a>
+      {{ end }}
+    </div>
+  </div>
+  <div class="wrap">
+    <div class="content">
+      <header class="grid-6 has-gutter-l ptl pbl mll mrl">
+        <div class="col-1">
+          <img src="{{ .Params.image }}" alt="{{ .Title }}" class="fl">
+        </div>
+        <div class="col-5 txtcenter">
+          {{ if .Params.longTitle }}
+          {{ .Params.longTitle }}
+          {{ else }}
+          {{ .Title }}
+          {{ end }}
+        </div>
+      </header>
+    </div>
+    <div class="panel-poste">
+      {{ if .Params.topRubrique }}
+      <aside>
+        {{ if .Params.topPicto }}
+        <img src="{{ .Params.topPicto }}" alt="">
+        {{ end }}
+        {{ .Params.topRubrique | markdownify }}
+      </aside>
+      {{ end }}
+      {{ .Content }}
+      {{ $button := .Params.button }}
+      {{ with $.Site.GetPage .Section }}
+      <p class="txtcenter ptl">
+        <a href="{{ .Permalink }}" class="button--danger txtcenter">{{ .Params.button }}</a>
+      </p>  
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

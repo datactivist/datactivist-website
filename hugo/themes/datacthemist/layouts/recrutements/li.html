@@ -1,0 +1,16 @@
+<article class="pts pbs pls prs poste {{ range .Params.postes }} {{ . }} {{ with $.Site.GetPage (printf "/postes/%s" .) }} {{ if .Params.light }} light {{ end }} {{ end }} {{ end }}" style="{{ range first 1 .Params.postes }} {{ with $.Site.GetPage (printf "/postes/%s" .) }} background-color: {{ .Params.color }}; {{ end }}{{ end }}">
+  <p class="cats">
+    {{ if .Params.light }} light {{ end }}
+    {{ range .Params.postes }}
+    {{ with $.Site.GetPage (printf "/postes/%s" .) }}
+    <span>{{ .Name }}</span>
+    {{end}}
+    {{ end }}
+  </p>
+  <a href="{{ .Permalink }}">
+    <div class="illustration flex-container">
+      <img class="item-center" src="{{ .Params.image }}" alt="{{ .Title }}">
+    </div>
+    <h1>{{ .Title }}</h1>
+  </a>
+</article>
