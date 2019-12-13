@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 longTitle: "Titre description"
 date: {{ .Date }}
 draft: true
-image: "noun_job_opening.svg"
+image: "/images/noun_job_opening.svg"
 weight: 300
 postes: [""]
 topRubrique: "Descriptif du poste"
