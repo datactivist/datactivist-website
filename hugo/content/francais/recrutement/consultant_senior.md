@@ -11,8 +11,7 @@ topRubrique: "Descriptif du poste"
 topPicto: "/images/noun_job.svg"
 ---
 
-![Picto coop](/images/noun_cocreations.svg)
-## L'entreprise
+![Picto coop](/images/noun_cocreations.svg) ## L'entreprise
 
 Datactivist est une jeune société coopérative, fondée il y a 3 ans, et spécialisée dans la conception et la mise en œuvre de stratégies d'ouverture et de réutilisation de données, la formation et la médiation, à destination des acteurs publics, privés mais aussi des ONG. Nous comptons aujourd’hui huit salarié⋅e⋅s qui mettent en commun leurs compétences et leur savoir-faire pour progresser ensemble et faire durer l’entreprise. 
 
@@ -25,8 +24,7 @@ Nous accompagnons nos clients de l’élaboration de leur stratégie d’ouvertu
 **Nous recherchons un⋅e consultant⋅e senior (plus de 5 ans d’expérience professionnelle) pour rejoindre notre équipe.**
 
 
-![Picto team](/images/noun_remote_team.svg)
-## L'équipe
+![Picto team](/images/noun_remote_team.svg) ## L'équipe
 
 Nous sommes une équipe de huit salarié⋅e⋅s avec des profils variés, à dominante généraliste : certains viennent du monde de la recherche, l’une d’entre nous était archéologue, un autre était agent public dans une collectivité, un autre encore est datajournaliste… Nous tirons notre force de cette complémentarité entre des profils pas toujours parfaitement rectilignes, mais riches de leurs expériences. Nous construisons notre entreprise ensemble, en égaux : outre les missions auprès des clients, une fraction du temps de travail pourra être consacrée à des chantiers internes.
 
