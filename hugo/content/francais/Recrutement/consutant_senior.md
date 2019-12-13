@@ -7,7 +7,6 @@ image: "noun_job_opening.svg"
 weight: 300
 postes:
 - consultant
-postes: [""]
 topRubrique: "Descriptif du poste"
 topPicto: "/images/noun_job.svg"
 ---
