@@ -1055,6 +1055,27 @@ a {
       width: 75%;
     }
   }
+    .postes_header {
+    ul {
+      text-align: center;
+      padding-top: $spacer-extra-large;
+    }
+    li {
+      display: inline;
+    }
+    a::after {
+      content: "";
+      border-left: 3px solid $pink-100;
+      padding-left: $spacer-small;
+      margin-left: $spacer-small-plus;
+    }
+  }
+  .panel-poste {
+    padding: $spacer-medium $spacer-extra-large;
+    blockquote {
+      width: 75%;
+    }
+  }
 }
 
 // 1200px
