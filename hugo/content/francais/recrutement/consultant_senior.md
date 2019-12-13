@@ -102,7 +102,7 @@ C’est un plus (et donc pas indispensable) si :
 > **Date limite de candidature : 15 janvier 2020**
 > **Date envisagée de prise de fonction : dès que possible**
 >
-> **Si vous n'êtes pas sûr⋅e de remplir tous les critères... candidatez quand même, ou parlez-nous en à [recrutement@datactivist.coop](mailto:recrutement@datactivist.coop) !
+> **Si vous n'êtes pas sûr⋅e de remplir tous les critères... candidatez quand même, ou parlez-nous en à [recrutement@datactivist.coop](mailto:recrutement@datactivist.coop) !**
 
 ![picto candidater](/images/noun_resume.svg) 
 ## Candidater
