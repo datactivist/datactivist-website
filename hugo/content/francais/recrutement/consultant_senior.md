@@ -11,7 +11,8 @@ topRubrique: "Descriptif du poste"
 topPicto: "/images/noun_job.svg"
 ---
 
-![Picto coop](/images/noun_cocreations.svg) ## L'entreprise
+![Picto coop](/images/noun_cocreations.svg) 
+## L'entreprise
 
 Datactivist est une jeune société coopérative, fondée il y a 3 ans, et spécialisée dans la conception et la mise en œuvre de stratégies d'ouverture et de réutilisation de données, la formation et la médiation, à destination des acteurs publics, privés mais aussi des ONG. Nous comptons aujourd’hui huit salarié⋅e⋅s qui mettent en commun leurs compétences et leur savoir-faire pour progresser ensemble et faire durer l’entreprise. 
 
@@ -24,7 +25,8 @@ Nous accompagnons nos clients de l’élaboration de leur stratégie d’ouvertu
 **Nous recherchons un⋅e consultant⋅e senior (plus de 5 ans d’expérience professionnelle) pour rejoindre notre équipe.**
 
 
-![Picto team](/images/noun_remote_team.svg) ## L'équipe
+![Picto team](/images/noun_remote_team.svg) 
+## L'équipe
 
 Nous sommes une équipe de huit salarié⋅e⋅s avec des profils variés, à dominante généraliste : certains viennent du monde de la recherche, l’une d’entre nous était archéologue, un autre était agent public dans une collectivité, un autre encore est datajournaliste… Nous tirons notre force de cette complémentarité entre des profils pas toujours parfaitement rectilignes, mais riches de leurs expériences. Nous construisons notre entreprise ensemble, en égaux : outre les missions auprès des clients, une fraction du temps de travail pourra être consacrée à des chantiers internes.
 
@@ -56,7 +58,8 @@ Notre équipe est distribuée dans cinq villes différentes, et nous travaillons
 
 
 
-![Picto attentes](/images/noun_skill.svg) ## Ce que nous attendons de vous
+![Picto attentes](/images/noun_skill.svg) 
+## Ce que nous attendons de vous
 
 
 Vous avez une (ou plusieurs) expérience(s) réussie(s) d’au moins 5 ans dans l’accompagnement des évolutions de l’action publique, dans le secteur public, en cabinet de conseil ou dans le secteur privé. 
@@ -99,6 +102,7 @@ C’est un plus (et donc pas indispensable) si :
 >
 > **Si vous n'êtes pas sûr⋅e de remplir tous les critères... candidatez quand même, ou parlez-nous en à [recrutement@datactivist.coop](mailto:recrutement@datactivist.coop) !
 
-![picto candidater](/images/noun_resume.svg) ## Candidater
+![picto candidater](/images/noun_resume.svg) 
+## Candidater
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrc7P5mBA4OhuCPE?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="3760" style="background: transparent; border: 1px solid #ccc;"></iframe>
