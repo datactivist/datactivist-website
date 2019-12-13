@@ -728,6 +728,170 @@ a {
 
 /* END RESSOURCES */
 
+/* RECRUTEMENTS */
+.postes_header {
+  background: $background-base url('/images/background.jpg') no-repeat center top scroll ; 
+  padding: $spacer-extra-large*2 0 $spacer-small;
+  position: relative;
+  .content {
+    padding-bottom: $spacer-small;
+  }
+  h1 {
+    border-color: $background-base;
+    width: 10px;
+  }
+  ul {
+    text-align: left;
+    padding-top: $spacer-large;
+  }
+  li {
+    list-style: none;
+    padding-top: $spacer-small;
+    text-align: center;
+    &:last-child {
+      a::after {
+        border: none;
+      }
+    }
+  }
+  a {
+    text-decoration: none;
+    color: $pink-100;
+    font-weight: 600;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+.recrutements, .postes {
+  background: $pink-100;
+  padding-top: 0;
+  article {
+    position: relative;
+    .cats {
+      @include font-size(h6);
+      text-align: right;
+      position: absolute;
+      top: $spacer-small;
+      right: $spacer-small;
+      span::after {
+        content: ", "
+      }
+      span:last-child::after {
+        content: ""
+      }
+    }
+    .illustration {
+      text-align: center;
+      height: 250px;
+      opacity: 0.6;
+    }
+    a {
+      text-decoration: none;
+    }
+    h1 {
+      @include font-size(h5);
+      font-weight: 600;
+      text-transform: none;
+      padding: 0 $spacer-medium;
+      color: $pink-100;
+    }
+    &.light, &.light h1 {
+      color: $background-base;
+    }
+  }
+}
+
+.poste {
+  padding-top: 0; 
+  padding-bottom: 0; 
+  background: $pink-100 none;
+  color: $background-base;
+
+  aside {
+    width: 100%;
+    font-family: Montserrat;
+    line-height: 1;
+    font-weight: 600;
+    background: $green-300 none;
+    margin: -$spacer-large auto $spacer-large;
+    padding: $spacer-small;
+    color: #fff;
+    text-align: center;
+    img {
+      padding: 0 $spacer-small;
+    }
+    strong {
+      color: $background-base;
+      font-weight: 900;
+      font-size: 2.3rem;
+    }
+
+  }
+  header {
+    font-weight: 600;
+  }
+  .h1-like {
+    width: 10px;
+    border-color: $background-base;
+  }
+  .wrap:first-child {
+    background: $background-base url('/images/background.jpg') no-repeat center top scroll;
+    padding: $spacer-extra-large*2 0 $spacer-large;
+  }
+}
+
+
+.panel-poste {
+  padding: $spacer-large;
+  img {
+    padding: 0 $spacer-large;
+  }
+  h2 {
+    font-weight: 600;
+    color: $color-brand;
+    padding: $spacer-medium $spacer-large;
+  }
+  ul {
+    padding: 0 0 $spacer-large;
+    margin: 0;
+  }
+  li::before {
+    content: '';
+    background: transparent url('/images/green-dotted-arrow.svg') no-repeat 0 center scroll;
+    width: $spacer-large;
+    height: 20px;
+    display: block;
+    float: left;
+  }
+  blockquote {
+    background: $green-300 none;
+    position: relative;
+    margin: $spacer-large auto;
+    width: 85%;
+    &::before {
+      content: '';
+    }
+    h2 {
+      color: #fff;
+    }
+    img {
+      position: absolute;
+      background: $background-base none;
+      left: -$spacer-large;
+      top: -$spacer-large;
+      padding: $spacer-medium;
+    }
+    li{
+      color: $background-base;
+      &::before {
+        background: transparent url('/images/white-dotted-arrow.svg') no-repeat 0 center scroll;
+      }
+    }
+  }
+}
+
+/* END RECRUTEMENTS */
 
 
 // 576px
