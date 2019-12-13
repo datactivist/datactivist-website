@@ -1,10 +1,11 @@
 ---
-title: "Our references"
+title: Our references
+date: 2018-09-17T14:33:08.000+00:00
+button: More references
+txturl: All references
 menu:
   main:
-    weight: 200
-date: 2018-09-17T16:33:08+02:00
+    weight: 4
 draft: true
-button: "More references"
-txturl: "All references"
+
 ---

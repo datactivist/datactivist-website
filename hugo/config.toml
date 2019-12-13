@@ -1,80 +1,65 @@
 baseURL = "https://datactivist.coop/"
-title = "Datactivist"
-
-theme = "datacthemist"
-
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
-removePathAccents=true
-
+removePathAccents = true
+theme = "datacthemist"
+title = "Datactivist"
+[languages.en]
+contentDir = "content/english"
+languageCode = "en-us"
+languageName = "English"
+title = "Datactivist"
+[[languages.en.menu.lang]]
+name = "Fr"
+url = "/fr"
+[[languages.en.menu.social]]
+name = "github"
+url = "https://github.com/datactivist"
+weight = 100
+[[languages.en.menu.social]]
+name = "twitter"
+url = "https://twitter.com/datactivi_st"
+weight = 200
+[languages.en.params]
+footerAdress1 = "7 bis, Avenue Saint-Jérôme — 13100 Aix-en-Provence FRANCE"
+footerAdress2 = ""
+footerAlt = "Stickers"
+footerButton = "OK !"
+footerEmail = "Mail : hello@datactivist.coop"
+footerImage = "images/stickers.png"
+footerNewsletter = "Enter your email address (no spam, we promise !)"
+[languages.fr]
+contentDir = "content/francais"
+languageCode = "fr_FR"
+languageName = "Français"
+title = "Datactivist"
+[[languages.fr.menu.lang]]
+name = "En"
+url = "/en"
+[[languages.fr.menu.main]]
+name = "Blog"
+url = "https://medium.com/datactivist"
+weight = 300
+[[languages.fr.menu.social]]
+name = "github"
+url = "https://github.com/datactivist"
+weight = 100
+[[languages.fr.menu.social]]
+name = "twitter"
+url = "https://twitter.com/datactivi_st"
+weight = 200
+[languages.fr.params]
+footerAdress1 = "7 bis, Avenue Saint-Jérôme — 13100 Aix-en-Provence"
+footerAdress2 = ""
+footerAlt = "Stickers"
+footerButton = "OK !"
+footerEmail = "Mail : hello@datactivist.coop"
+footerImage = "images/stickers.png"
+footerNewsletter = "Entrez votre email (pas de spam, promis !)"
 [params]
 logo = "/images/datactivist_logo.svg"
 logoWhite = "/images/datactivist_logo-white.svg"
-
-[languages]
-[languages.en]
-languageCode = "en-us"
-title = "Datactivist"
-contentDir = "content/english"
-languageName = "English"
-[languages.en.params]
-footerEmail = "Mail : hello@datactivist.coop"
-footerAdress1 = "7 bis, Avenue Saint-Jérôme — 13100 Aix-en-Provence FRANCE"
-footerAdress2 = ""
-footerNewsletter = "Enter your email address (no spam, we promise !)"
-footerImage = "images/stickers.png"
-footerAlt = "Stickers"
-footerButton = "OK !"
-
-[languages.fr]
-languageCode = "fr_FR"
-title = "Datactivist"
-contentDir = "content/francais"
-languageName = "Français"
-[languages.fr.params]
-footerEmail = "Mail : hello@datactivist.coop"
-footerAdress1 = "7 bis, Avenue Saint-Jérôme — 13100 Aix-en-Provence"
-footerAdress2 = ""
-footerNewsletter = "Entrez votre email (pas de spam, promis !)"
-footerImage = "images/stickers.png"
-footerAlt = "Stickers"
-footerButton = "OK !"
-
-
-[[languages.fr.menu.main]]
-url    = "https://medium.com/datactivist"
-name   = "Blog"
-weight = 300
-
-[[languages.fr.menu.social]]
-url    = "https://github.com/datactivist"
-name   = "github"
-weight = 100
-
-[[languages.fr.menu.social]]
-url    = "https://twitter.com/datactivi_st"
-name   = "twitter"
-weight = 200
-
-[[languages.fr.menu.lang]]
-url    = "/en"
-name   = "En"
-
-[[languages.en.menu.social]]
-url    = "https://github.com/datactivist"
-name   = "github"
-weight = 100
-
-[[languages.en.menu.social]]
-url    = "https://twitter.com/datactivi_st"
-name   = "twitter"
-weight = 200
-
-[[languages.en.menu.lang]]
-url    = "/fr"
-name   = "Fr"
-
 [taxonomies]
-project = "projects"
 poste = "postes"
+project = "projects"
 tag = "tags"

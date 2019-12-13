@@ -1,10 +1,12 @@
 ---
-title: "Datactivist recrute!"
+title: Datactivist recrute!
+date: 2019-12-13
+button: Plus d'offres
+txturl: Toutes les offres
 menu:
   main:
-    weight: 200
-date: 2019-12-13
+    name: Emplois
+    weight: 3
 draft: true
-button: "Plus d'offres"
-txturl: "Toutes les offres"
+
 ---
