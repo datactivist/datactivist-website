@@ -5,7 +5,8 @@ draft: false
 longTitle: "Datactivist recrute un⋅e consultant⋅e senior"
 image: "/images/noun_job_opening.svg"
 weight: 300
-postes: Consultant
+postes: 
+- Consultant
 topRubrique: "Descriptif du poste"
 topPicto: "/images/noun_job.svg"
 ---
