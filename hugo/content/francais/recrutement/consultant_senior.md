@@ -1,7 +1,7 @@
 ---
 title: "Consultant⋅e senior"
 date: 13 décembre 2019
-draft: false
+draft: true
 longTitle: "Datactivist recrute un⋅e consultant⋅e senior"
 image: "/images/noun_job_opening.svg"
 weight: 300
