@@ -846,6 +846,11 @@ a {
   padding: $spacer-large;
   img {
     padding: 0 $spacer-large;
+    position: absolute;
+    background: none none;
+    left: -$spacer-large;
+    top: -$spacer-large;
+    padding: $spacer-medium;
   }
   h2 {
     font-weight: 600;
