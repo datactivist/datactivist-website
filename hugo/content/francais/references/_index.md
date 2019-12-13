@@ -5,7 +5,7 @@ button: Plus de références
 txturl: Toutes les références
 menu:
   main:
-    weight: 5
+    weight: 4
 draft: true
 
 ---

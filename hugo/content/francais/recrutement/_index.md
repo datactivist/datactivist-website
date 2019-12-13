@@ -6,7 +6,7 @@ txturl: Toutes les offres
 menu:
   main:
     name: Emplois
-    weight: 3
+    weight: 6
 draft: true
 
 ---

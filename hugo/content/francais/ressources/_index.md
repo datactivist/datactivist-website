@@ -6,7 +6,7 @@ txturl: Tous les tags
 menu:
   main:
     name: Ressources
-    weight: 6
+    weight: 5
 draft: true
 
 ---
