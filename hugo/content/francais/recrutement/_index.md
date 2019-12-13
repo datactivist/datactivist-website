@@ -1,5 +1,5 @@
 ---
-title: "Datactivist recrute !"
+title: "Datactivist recrute!"
 menu:
   main:
     weight: 200
