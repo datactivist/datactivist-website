@@ -73,17 +73,19 @@ Votre sens du relationnel est excellent : vous savez fidéliser les clients avec
 Vous faites preuve d’une réelle culture de la donnée. Idéalement, vous avez déjà abordé l’open data dans une expérience personnelle ou professionnelle. 
 
 Vous avez :
+
 - une forte capacité de travail, de la rigueur, de l’autonomie, un sens pratique ;
 - des capacités d'analyse ;
 - une culture de l'écrit et de la documentation. 
 
 
 C’est un plus (et donc pas indispensable) si : 
+
 - vous avez une expérience de travail à distance ;
 - vous savez utiliser git/github et écrire du markdown ;
 - vous savez utiliser des outils techniques de collecte, de manipulation, d’analyse ou de visualisation de données ;
-• vous avez une expérience associative ;
-• vous êtes capables de travailler en anglais sur des sujets complexes. 
+- vous avez une expérience associative ;
+- vous êtes capables de travailler en anglais sur des sujets complexes. 
 
 
 > ![Picto conditions](/images/noun_revenue.svg)
