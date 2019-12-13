@@ -1,0 +1,20 @@
+<div class="wrap postes_header">
+  <div class="content">
+    <header>
+      {{ with $.Site.GetPage (printf "recrutements") }}
+      <h1 class="title_left-border">{{ .Title }}</h1>
+      <nav class="categories">
+        <ul>
+          <li><a href="{{ .Permalink }}">{{ .Params.txturl }}</a></li>
+          {{end}}
+
+          {{ range $key, $value := .Site.Taxonomies.projects }}
+          {{ with $.Site.GetPage (printf "/postes/%s" $key) }}
+          <li><a style="color: {{ .Params.color }}" href="{{ .Permalink }}">{{ .Name }}</a></li>
+          {{ end }}
+          {{ end }}
+        </ul>
+      </nav>
+    </header>
+  </div>
+</div>
