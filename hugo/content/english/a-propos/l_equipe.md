@@ -36,10 +36,10 @@ items:
     image: "/images/mathieu_hex.png"
     text: "is a researcher in computer science, specialized in data science and machine learning. He develops methods and tools to improve the discoverability and quality of open data, for the benefit of producers and re-users."
     email: "mathieu@datactivist.coop"
-  - name: "Clara Maximovitch-Rodaminoff"
-    image: "/images/clara_hex.png"
-    text : "joined Datactivist for her final year internship from Sciences Po. During her studies in the Master's program Governing the Large Metropolis, she discovered the stakes of open data that she now explores further through her work on the digital transformation of urban services and the transition to e-procurement."
-    email: "clara@datactivist.coop"
+  - name: "Allyson Pallisser"
+    image: "/images/allyson_hex.png"
+    text : "holds a Masters in Policital expertise and Public affairs. He works on the development of public policies of open data, in particular in Brazil."
+    email: "allyson@datactivist.coop"
 
 ---
 

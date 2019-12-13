@@ -28,7 +28,7 @@ items:
   - name: "Etienne Pichot Damon"
     image: "/images/etienne_hex.png"
     text: "a rejoint Datactivist pour accompagner des acteurs publics et privés dans l'ouverture et la réutilisation de leurs données. Avant cela, il a été en charge de la politique d'open data pour la Métropole Européenne de Lille, et cette expérience l'a mené à s'investir plus particulièrement dans le sujet des transports."
-      email: "etienne@datactivist.coop"
+    email: "etienne@datactivist.coop"
   - name: "Magalie Dartus"
     image: "/images/magalie_hex.png"
     text: "Archéologue pendant une quinzaine d'année, elle a dirigé des opérations de fouille en France et à l’étranger avant de se reconvertir dans la géomatique. Ses centres d’intérêts professionnels la poussent désormais vers l’open data et l’animation d’équipes. Elle a une prédilection toute particulière pour la cartographie libre et le crowdsourcing."
@@ -39,7 +39,7 @@ items:
     email: "mathieu@datactivist.coop"
   - name: "Allyson Pallisser"
     image: "/images/allyson_hex.png"
-    text : "a rejoint Datactivist pour son stage de fin d’études à l’Université de Nice. Il intègre le master Expertise du politique et Affaires publiques où il enquête également sur la mise en place des politiques publiques d’open data, notamment au Brésil."
+    text : "est titulaire d'un master Expertise du politique et Affaires publiques. Dans le prolongement de son mémoire, il travaille sur la mise en place des politiques publiques d'open data, notamment au Brésil."
     email: "allyson@datactivist.coop"
 
 ---
