@@ -56,8 +56,7 @@ Notre équipe est distribuée dans cinq villes différentes, et nous travaillons
 
 
 
-![Picto attentes](/images/noun_skill.svg)
-## Ce que nous attendons de vous
+![Picto attentes](/images/noun_skill.svg) ## Ce que nous attendons de vous
 
 
 Vous avez une (ou plusieurs) expérience(s) réussie(s) d’au moins 5 ans dans l’accompagnement des évolutions de l’action publique, dans le secteur public, en cabinet de conseil ou dans le secteur privé. 
@@ -100,7 +99,6 @@ C’est un plus (et donc pas indispensable) si :
 >
 > **Si vous n'êtes pas sûr⋅e de remplir tous les critères... candidatez quand même, ou parlez-nous en à [recrutement@datactivist.coop](mailto:recrutement@datactivist.coop) !
 
-![picto candidater](/images/noun_resume.svg)
-## Candidater
+![picto candidater](/images/noun_resume.svg) ## Candidater
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrc7P5mBA4OhuCPE?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="3760" style="background: transparent; border: 1px solid #ccc;"></iframe>
