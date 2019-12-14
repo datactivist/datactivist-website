@@ -1,0 +1,28 @@
+---
+label: Fiche de poste
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: date
+  label: date
+- type: text
+  name: longTitle
+  label: longTitle
+- type: file
+  name: image
+  label: image
+- type: number
+  name: weight
+  label: weight
+- type: list
+  name: postes
+  label: postes
+- type: text
+  name: topRubrique
+  label: topRubrique
+- type: file
+  name: topPicto
+  label: topPicto
