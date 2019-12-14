@@ -1,6 +1,6 @@
 ---
 title: "Construire un jeu de données GTFS: un guide complet pour l'open data des transports"
-link: "#"
+link: "http://doc.digitaltransport.io/data-transport-mali-GTFS/"
 date: 2018-09-17T16:35:39+02:00
 tags: ["publication"]
 draft: false
