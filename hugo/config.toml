@@ -66,6 +66,7 @@ tag = "tags"
 [params.matomo]
 url = "https://matomo.datactivist.coop"
 id = 1
+disableSRI = true
 [params.matomo.track]
 button = "Autoriser le suivi"
 message = "J'autorise Datactivist à enregistrer des données de navigation à des fins statistiques."
