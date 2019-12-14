@@ -63,3 +63,12 @@ logoWhite = "/images/datactivist_logo-white.svg"
 poste = "postes"
 project = "projects"
 tag = "tags"
+[params.matomo]
+url = "https://matomo.datactivist.coop"
+id = 1
+[params.matomo.track]
+button = "Autoriser le suivi"
+message = "J'autorise Datactivist à enregistrer des données de navigation à des fins statistiques."
+[params.matomo.block]
+button = "Bloquer le suivi"
+message = "Aucune donnée de navigation ne sera conservée."
