@@ -2,7 +2,7 @@ baseURL = "https://datactivist.coop/"
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 removePathAccents = true
-theme = "datacthemist"
+theme = ["datacthemist", "matomo"]
 title = "Datactivist"
 [languages.en]
 contentDir = "content/english"
