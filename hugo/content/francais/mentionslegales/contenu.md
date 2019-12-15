@@ -36,4 +36,8 @@ HÉBERGEMENT
 
 Le site est hébergé par [Github](https://github.com/), et généré en [Hugo](https://gohugo.io/). Le thème Datacthemist a été créé par [Pierre-Alain Leboucher](https://peh4.com/#/).
 
+MATOMO
+
+Ce site utilise [Matomo](https://fr.matomo.org/) pour analyser sa fréquentation. Vous pouvez désactiver ce suivi ci-dessous. 
+
 {{< matomo-optout >}}
