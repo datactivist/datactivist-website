@@ -56,7 +56,7 @@ footerButton = "OK !"
 footerEmail = "hello@datactivist.coop"
 footerImage = "images/stickers.png"
 footerNewsletter = "Entrez votre email (pas de spam, promis !)"
-footerMentionsLegales = "/fr/mentionslegales/index.html"
+footerMentionsLegales = "/fr/mentionslegales/"
 [params]
 logo = "/images/datactivist_logo.svg"
 logoWhite = "/images/datactivist_logo-white.svg"
