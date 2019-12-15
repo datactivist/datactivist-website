@@ -24,9 +24,11 @@ Siège social : 7 bis avenue Saint-Jérôme 13100 Aix-en-pProvence
 Immatriculée au Registre du Commerce et des Sociétés d'Aix-en-Provence sous le numéro 823 798 871 00013 .
 
 Numéro de TVA intracommunautaire : FR70 823 798 871
+
 Adresse de courrier électronique : hello@datactivist.coop 
  
 Directeur de la  publication : Joël Gombin
+
 Contactez le responsable de la publication : joel@datactivist.coop
 
  
