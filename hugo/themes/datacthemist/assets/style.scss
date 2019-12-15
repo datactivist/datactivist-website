@@ -586,6 +586,9 @@ a {
   padding: $spacer-large;
   img {
     padding: 0 $spacer-large;
+    left: -$spacer-large;
+    top: -$spacer-large;
+    
   }
   h2 {
     font-weight: 600;
