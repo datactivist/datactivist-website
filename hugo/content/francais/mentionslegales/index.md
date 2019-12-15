@@ -18,7 +18,7 @@ SCOP au capital de capital variable
 
 Gérant : Joël Gombin
 
-Siège sovial : 7 bis avenue Saint-Jérôme 13100 Aix-en-pProvence
+Siège social : 7 bis avenue Saint-Jérôme 13100 Aix-en-pProvence
 
 Immatriculée au Registre du Commerce et des Sociétés d'Aix-en-Provence sous le numéro 823 798 871 00013 .
 
