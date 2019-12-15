@@ -37,6 +37,6 @@ topPicto: "/images/clock.svg"
 >
 > ## Résultats obtenus
 >
-> * Mars 2018 : premières retombées presse au démarrage de la mission en  dans la [Gazette des Communes](https://www.lagazettedescommunes.com/555166/loccitanie-batit-sa-strategie-de-la-donnee-en-general-et-de-lopendata-en-particulier/) du fait de l’ambition forte du projet
+> * Mars 2018 : premières retombées presse au démarrage de la mission dans la [Gazette des Communes](https://www.lagazettedescommunes.com/555166/loccitanie-batit-sa-strategie-de-la-donnee-en-general-et-de-lopendata-en-particulier/) du fait de l’ambition forte du projet
 > * Octobre 2018 : constitution d'un réseau interne d’une quarantaine de correspondants, sensibilisation de toutes les directions à l'open data, un [portail](https://data.laregion.fr) lancé avec plus de 120 jeux de données
 > * Novembre 2019 : [remise d'un trophée open data pour les territoires](https://www.lagazettedescommunes.com/649397/trophees-de-lopendata-pour-les-territoires-2019-les-huit-laureats/) pour l'accompagnement des collectivités locales de la région dans l’ouverture
