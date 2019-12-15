@@ -49,13 +49,14 @@ name = "twitter"
 url = "https://twitter.com/datactivi_st"
 weight = 200
 [languages.fr.params]
-footerAdress1 = "7 bis, Avenue Saint-Jérôme — 13100 Aix-en-Provence"
+footerAdress1 = "7 bis, Avenue Saint-Jérôme <BR>13100 Aix-en-Provence"
 footerAdress2 = ""
 footerAlt = "Stickers"
 footerButton = "OK !"
-footerEmail = "Mail : hello@datactivist.coop"
+footerEmail = "Mail : [hello@datactivist.coop](mailto:hello@datactivist.coop)"
 footerImage = "images/stickers.png"
 footerNewsletter = "Entrez votre email (pas de spam, promis !)"
+footerMentionsLegales = "/mentionslegales/index.html"
 [params]
 logo = "/images/datactivist_logo.svg"
 logoWhite = "/images/datactivist_logo-white.svg"
