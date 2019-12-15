@@ -1,10 +1,13 @@
 ---
-title: "Mentions légales"
+title: Mentions légales
+type: block_one-column
+image: photo-equipe.jpg
 baseline: Ce que vous devez savoir
-date: 2019-12-14T23:51:00.000+00:00
+date: 2018-09-17T14:35:24.000+00:00
 weight: "100"
 
 ---
+
 
 Conformément aux dispositions des articles 6-III et 19 de la Loi n° 2004-575 du 21 juin 2004 pour la Confiance dans l'économie numérique, dite L.C.E.N., nous portons à la connaissance des utilisateurs et visiteurs du site : www.datactivist.coop les informations suivantes :
 
