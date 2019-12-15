@@ -5,7 +5,7 @@
       <div class="grid-2">
         <div class="grid-2 has-gutter-xl">
           <div>
-            <p class="pbl">{{ .Site.Params.footerEmail }}</p>
+            <p class="pbl">Email : [{{ .Site.Params.footerEmail }}](mailto:{{ .Site.Params.footerEmail }})</p>
             <p class="pbm">{{ .Site.Params.footerAdress1 }}</p>
             <p class="pbl">{{ .Site.Params.footerAdress2 }}</p>
           </div>
@@ -22,10 +22,10 @@
           </div>
           <div>
             <img class="ptl pbl" src="{{ .Site.Params.logoWhite }}" alt="{{ .Site.Title }}">
+            <p class="mlg">[*Mentions légales*]({{ .Site.Params.footerMentionsLegales }})</p>
           </div>
         </div> <!-- END .grid-2 -->
         <img src="/{{ .Site.Params.footerImage }}" alt="">
-        <p class="mlg"><a href='{{ .Site.Params.footerMentionsLegales }}'>Mentions légales</a></p>
       </div> <!-- END .grid-2 -->
     </div> <!-- END .content -->
   </div> <!-- END .wrap -->
