@@ -12,11 +12,10 @@ topAnswer: 3 ans
 topPicto: "/images/clock.svg"
 
 ---
-<div class="alignement">
 ![Picto Cible](/images/target.svg)
 
 ## Objectifs
-</div>
+
 
 * Faire de la région Occitanie un leader national et international de l'ouverture des données
 * Accompagner l'organisation dans la transition vers l'open data par défaut
