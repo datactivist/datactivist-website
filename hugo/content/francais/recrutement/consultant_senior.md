@@ -107,6 +107,6 @@ C’est un plus (et donc pas indispensable) si :
 
 **Les candidatures se font obligatoirement via le formulaire ci-dessous - pas de mails, merci !**
 
-Les candidatures seront évaluées par les associé⋅e⋅s de Datactivist, et un retour sera fait à l'ensemble des candidats. 
+Les candidatures seront évaluées par les associé⋅e⋅s de Datactivist, et un retour sera fait à l'ensemble des candidats.
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrc7P5mBA4OhuCPE?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="3760" style="background: transparent; border: 1px solid #ccc;"></iframe>
