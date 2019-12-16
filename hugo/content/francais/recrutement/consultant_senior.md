@@ -23,7 +23,7 @@ Datactivist travaille pour des clients variés, majoritairement dans le secteur 
 
 Nous accompagnons nos clients de l’élaboration de leur stratégie d’ouverture de données, ou de réutilisation de données ouvertes, à sa mise en œuvre opérationnelle (cartographies de données, audits stratégiques, appui à la publication, mise en qualité et valorisation de données, conception de stratégies d’animation territoriale, organisation de hackathons...) et travaillons en partenariat avec un écosystème dense de spécialistes et d’experts reconnus, notamment au travers de l’alliance [Data Publica](https://www.data-publica.eu), dont nous sommes membres fondateurs. Notre approche part des usages, des organisations, des individus et des stratégies : nous ne sommes pas une SSII ; pour nous, l’open data n’est pas avant tout un sujet technique, même si ses dimensions techniques doivent être maîtrisées et prises en compte.
 
-**Nous recherchons un⋅e consultant⋅e senior (plus de 5 ans d’expérience professionnelle) pour rejoindre notre équipe.**
+**Nous recherchons un⋅e consultant⋅e senior (plus de 5 ans d’expérience professionnelle) pour rejoindre notre équipe parisienne.**
 
 ![Picto team](/images/noun_remote_team.svg)
 
@@ -90,7 +90,7 @@ C’est un plus (et donc pas indispensable) si :
 > ## Les conditions
 >
 > * Contrat en CDI, statut cadre (convention collective Syntech)
-> * vous devez être disponible pour des réunions et RDV réguliers à Paris et en Île-de-France
+> * vous devez être disponible pour des réunions et RDV hebdomadaires à Paris et en Île-de-France
 > * des déplacements en France et à l’étranger sont à prévoir (jusqu'à 20% du temps)
 > * votre équipement est pris en charge (ordinateur, téléphone, forfait...)
 > * vous pouvez travailler depuis votre domicile, dans un espace de coworking ou dans l’un de nos bureaux, toute l’équipe est en remote.
@@ -100,10 +100,14 @@ C’est un plus (et donc pas indispensable) si :
 > **Date limite de candidature : 15 janvier 2020**
 > **Date envisagée de prise de fonction : dès que possible**
 >
-> **Si vous n'êtes pas sûr⋅e de remplir tous les critères... candidatez quand même, ou parlez-nous en à** [**recrutement@datactivist.coop**](mailto:recrutement@datactivist.coop) **!**
+> **Si vous n'êtes pas sûr⋅e de remplir tous les critères... candidatez quand même** **!**
 
 ![picto candidater](/images/noun_resume.svg)
 
 ## Candidater
+
+**Les candidatures se font obligatoirement via le formulaire ci-dessous - pas de mails, merci !**
+
+Les candidatures seront évaluées par les associé⋅e⋅s de Datactivist, et un retour sera fait à l'ensemble des candidats. 
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrc7P5mBA4OhuCPE?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="3760" style="background: transparent; border: 1px solid #ccc;"></iframe>
