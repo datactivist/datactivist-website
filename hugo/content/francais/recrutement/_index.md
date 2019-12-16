@@ -4,7 +4,8 @@ date: 2019-12-13
 button: Plus d'offres
 txturl: Toutes les offres
 menu:
-  main:
+  a-propos:
+    parent: a-propos
     name: Emplois
     weight: 6
 draft: true
