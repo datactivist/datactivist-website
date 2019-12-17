@@ -12,9 +12,11 @@ topPicto: "/images/noun_job.svg"
 ---
 
 <div class='aligment'>
+
 ![Picto coop](/images/noun_cocreations.svg)
 
 ## L'entreprise
+
 </div>
 
 Datactivist est une jeune société coopérative, fondée il y a 3 ans, et spécialisée dans la conception et la mise en œuvre de stratégies d'ouverture et de réutilisation de données, la formation et la médiation, à destination des acteurs publics, privés mais aussi des ONG. Nous comptons aujourd’hui huit salarié⋅e⋅s qui mettent en commun leurs compétences et leur savoir-faire pour progresser ensemble et faire durer l’entreprise.
