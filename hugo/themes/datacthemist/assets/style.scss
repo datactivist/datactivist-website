@@ -584,6 +584,10 @@ a {
 
 .panel-project {
   padding: $spacer-large;
+  .alignement {
+    display: 'flex';
+    align-items: 'center'; 
+  }
   img {
     padding: 0 $spacer-large;
   }
