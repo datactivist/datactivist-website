@@ -10,13 +10,9 @@ topRubrique = "Candidature spontanée"
 weight = 100
 
 +++
-<div class='aligment'>
-
 ![Picto coop](/images/noun_cocreations.svg)
 
 ## L'entreprise
-
-</div>
 
 Datactivist est une jeune société coopérative, fondée il y a 3 ans, et spécialisée dans la conception et la mise en œuvre de stratégies d'ouverture et de réutilisation de données, la formation et la médiation, à destination des acteurs publics, privés mais aussi des ONG. Nous comptons aujourd’hui huit salarié⋅e⋅s qui mettent en commun leurs compétences et leur savoir-faire pour progresser ensemble et faire durer l’entreprise.
 
@@ -38,7 +34,7 @@ Notre équipe est distribuée dans cinq villes différentes, et nous travaillons
 
 ## Candidater
 
-**Les candidatures se font obligatoirement via le formulaire ci-dessous - pas de mails, merci ! Si vous avez des questions en revanche, contactez nous à** [**recrutement@datactivist.coop**](mailto:recrutement@datactivist.coop)**.** 
+**Les candidatures se font obligatoirement via le formulaire ci-dessous - pas de mails, merci ! Si vous avez des questions en revanche, contactez nous à** [**recrutement@datactivist.coop**](mailto:recrutement@datactivist.coop)**.**
 
 Les candidatures seront évaluées par les associé⋅e⋅s de Datactivist, et un retour sera fait à l'ensemble des candidats.
 
