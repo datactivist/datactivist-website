@@ -10,8 +10,6 @@ topRubrique = "Candidature spontanée"
 weight = 100
 
 +++
-![Picto coop](/images/noun_cocreations.svg)
-
 ## L'entreprise
 
 Datactivist est une jeune société coopérative, fondée il y a 3 ans, et spécialisée dans la conception et la mise en œuvre de stratégies d'ouverture et de réutilisation de données, la formation et la médiation, à destination des acteurs publics, privés mais aussi des ONG. Nous comptons aujourd’hui huit salarié⋅e⋅s qui mettent en commun leurs compétences et leur savoir-faire pour progresser ensemble et faire durer l’entreprise.
@@ -22,15 +20,11 @@ Datactivist travaille pour des clients variés, majoritairement dans le secteur 
 
 Nous accompagnons nos clients de l’élaboration de leur stratégie d’ouverture de données, ou de réutilisation de données ouvertes, à sa mise en œuvre opérationnelle (cartographies de données, audits stratégiques, appui à la publication, mise en qualité et valorisation de données, conception de stratégies d’animation territoriale, organisation de hackathons...) et travaillons en partenariat avec un écosystème dense de spécialistes et d’experts reconnus, notamment au travers de l’alliance [Data Publica](https://www.data-publica.eu), dont nous sommes membres fondateurs. Notre approche part des usages, des organisations, des individus et des stratégies : nous ne sommes pas une SSII ; pour nous, l’open data n’est pas avant tout un sujet technique, même si ses dimensions techniques doivent être maîtrisées et prises en compte.
 
-![Picto team](/images/noun_remote_team.svg)
-
 ## L'équipe
 
 Nous sommes une équipe de huit salarié⋅e⋅s avec des profils variés, à dominante généraliste : certains viennent du monde de la recherche, l’une d’entre nous était archéologue, un autre était agent public dans une collectivité, un autre encore est datajournaliste… Nous tirons notre force de cette complémentarité entre des profils pas toujours parfaitement rectilignes, mais riches de leurs expériences. Nous construisons notre entreprise ensemble, en égaux : outre les missions auprès des clients, une fraction du temps de travail pourra être consacrée à des chantiers internes.
 
 Notre équipe est distribuée dans cinq villes différentes, et nous travaillons en full remote (nous nous retrouvons tous à l’occasion de deux séminaires annuels). Nous valorisons l’esprit d’équipe, l’autonomie, l’initiative et la prise de responsabilités.
-
-> ![Picto mission](/images/noun_mission.svg)
 
 ## Candidater
 
