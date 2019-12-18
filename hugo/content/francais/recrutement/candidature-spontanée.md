@@ -3,7 +3,7 @@ date: 19 décembre 2019
 image: "/uploads/48239462607_1b8839ce5c_w.jpg"
 longTitle: Vous aimeriez travailler avec nous ? Faites nous signe !
 postes:
-- Candidature spontanée"
+- Candidature spontanée
 title: Candidature spontanée
 topPicto: ""
 topRubrique: "Candidature spontanée"

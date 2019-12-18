@@ -3,7 +3,7 @@ title: Consultant⋅e senior
 date: 13 décembre 2019
 longTitle: Datactivist recrute un⋅e consultant⋅e senior
 image: "/images/noun_job_opening.svg"
-weight: "300"
+weight: 300
 postes:
 - Consultant
 topRubrique: Descriptif du poste
