@@ -7,7 +7,7 @@ postes = ["candidature spontanée"]
 title = "Candidature spontanée"
 topPicto = ""
 topRubrique = "Candidature spontanée"
-weight = 100
+weight = 1
 
 +++
 ## L'entreprise
@@ -28,7 +28,7 @@ Notre équipe est distribuée dans cinq villes différentes, et nous travaillons
 
 ## Candidater
 
-**Les candidatures se font obligatoirement via le formulaire ci-dessous - pas de mails, merci ! Si vous avez des questions en revanche, contactez nous à** [**recrutement@datactivist.coop**](mailto:recrutement@datactivist.coop)**.**
+**Les candidatures se font obligatoirement via le formulaire ci-dessous - pas de mails, merci ! Si vous avez des questions en revanche, contactez-nous à** [**recrutement@datactivist.coop**](mailto:recrutement@datactivist.coop)**.**
 
 Les candidatures seront évaluées par les associé⋅e⋅s de Datactivist, et un retour sera fait à l'ensemble des candidats.
 
