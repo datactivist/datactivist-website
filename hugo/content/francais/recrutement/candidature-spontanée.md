@@ -32,4 +32,4 @@ Notre équipe est distribuée dans cinq villes différentes, et nous travaillons
 
 Les candidatures seront évaluées par les associé⋅e⋅s de Datactivist, et un retour sera fait à l'ensemble des candidats.
 
-<script src="[https://static.airtable.com/js/embed/embed_snippet_v1.js](https://static.airtable.com/js/embed/embed_snippet_v1.js "https://static.airtable.com/js/embed/embed_snippet_v1.js")"></script><iframe class="airtable-embed airtable-dynamic-height" src="[https://airtable.com/embed/shrYhLRmQOkH6gJxf?backgroundColor=orange](https://airtable.com/embed/shrYhLRmQOkH6gJxf?backgroundColor=orange "https://airtable.com/embed/shrYhLRmQOkH6gJxf?backgroundColor=orange")" frameborder="0" onmousewheel="" width="100%" height="3797" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrYhLRmQOkH6gJxf?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="3797" style="background: transparent; border: 1px solid #ccc;"></iframe>
