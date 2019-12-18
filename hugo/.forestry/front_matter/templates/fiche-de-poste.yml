@@ -26,3 +26,5 @@ fields:
 - type: file
   name: topPicto
   label: topPicto
+pages:
+- hugo/content/francais/recrutement/candidature-spontanée.md
