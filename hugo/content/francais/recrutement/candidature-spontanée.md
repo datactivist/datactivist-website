@@ -1,12 +1,13 @@
 ---
-date = "2019-12-18"
-image = "/uploads/48239462607_1b8839ce5c_w.jpg"
-longTitle = "Vous aimeriez travailler avec nous ? Faites nous signe !"
-postes = ["Candidature spontanée"]
-title = "Candidature spontanée"
-topPicto = ""
-topRubrique = "Candidature spontanée"
-weight = 1
+date: 19 décembre 2019
+image: "/uploads/48239462607_1b8839ce5c_w.jpg"
+longTitle: Vous aimeriez travailler avec nous ? Faites nous signe !
+postes:
+- Candidature spontanée"
+title: Candidature spontanée
+topPicto: ""
+topRubrique: "Candidature spontanée"
+weight: 1
 ---
 
 ## L'entreprise
