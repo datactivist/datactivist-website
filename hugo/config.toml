@@ -76,3 +76,6 @@ button = "Bloquer le suivi"
 message = "Aucune donnée de navigation ne sera conservée."
 [markup.goldmark.renderer]
 unsafe= true
+## Config deprecated in hugo, still expected by forestry (2019-12-19)
+## Possible options "yaml", "toml" or "json"
+metaDataFormat = "yaml"
