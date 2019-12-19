@@ -28,3 +28,4 @@ fields:
   label: topPicto
 pages:
 - hugo/content/francais/recrutement/candidature-spontanée.md
+- hugo/content/francais/stagiaire.md
