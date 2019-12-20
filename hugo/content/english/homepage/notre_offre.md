@@ -31,7 +31,7 @@ tabs:
     - "Improve quality and interoperability of open data"
     - "Break down the barriers to data reuse by social science and computer science"
     - "Work with re-users to set up a demand-driven open data strategy."
-    - "<a href='#reuse-data' class='tabs-menu-link'>_**---> Reuse open data**_</a>"
+    - "<a href='#reuse-data' class='tabs-menu-link'>***---> Reuse open data***</a>"
 
   - "Reuse data":
     - Train and acculturate to data
@@ -42,7 +42,7 @@ tabs:
     - Get useful datasets for your business, and find alternative sources of data
     - Lean on computer research and social science to increase the efficiency of open data
     - experiment and provide a methodological support for open data reuse
-    - "<a href='#open-data' class='tabs-menu-link'>_**---> Open data**_</a>"
+    - "<a href='#open-data' class='tabs-menu-link'>***---> Open data***</a>"
 
 ---
 
