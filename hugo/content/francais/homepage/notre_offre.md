@@ -31,7 +31,7 @@ tabs:
     - "Améliorer la qualité et l'interopérabilité des données ouvertes"
     - "Identifier et lever les verrous à la réutilisation par la recherche en sciences sociales et en informatique"
     - "Travailler avec les réutilisateurs et mettre en place une stratégie d'open data guidée par la demande"
-    - "<a href='#reutiliser-des-donnees' class='tabs-menu-link'>_**---> Réutiliser des données ouvertes**_</a>"
+    - "<a href='#reutiliser-des-donnees' class='tabs-menu-link'>***---> Réutiliser des données ouvertes***</a>"
 
   - "Réutiliser des données":
     - Acculturer et former aux données
@@ -42,7 +42,7 @@ tabs:
     - Obtenir les données utiles à votre activité, trouver des sources alternatives de données
     - S'appuyer sur la recherche en informatique et en sciences sociales pour augmenter l'utilité des données ouvertes
     - Expérimenter et fournir un appui méthodologique à la réutilisation de données ouvertes
-    - "<a href='#ouvrir-des-donnees' class='tabs-menu-link'>_**---> Ouvrir des données**_</a>"
+    - "<a href='#ouvrir-des-donnees' class='tabs-menu-link'>***---> Ouvrir des données***</a>"
 
 ---
 
