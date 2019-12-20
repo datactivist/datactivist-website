@@ -22,7 +22,7 @@ pictos:
     alt: "Picto ampoule"
 
 tabs:
-  - title: "Open data"
+  - tabtitle: "Open data"
     items:
       - "Define and implement an open data strategy"
       - "Raise awareness among stakeholders and decision makers about data and open data culture"
@@ -33,7 +33,7 @@ tabs:
       - "Break down the barriers to data reuse by social science and computer science"
       - "Work with re-users to set up a demand-driven open data strategy."
       - "<a href='#reuse-data' class='tabs-menu-link'>***---> Reuse open data***</a>"
-  - title: "Reuse data"
+  - tabtitle: "Reuse data"
     items:
       - Train and acculturate to data
       - Identify relevant open data deposits 
