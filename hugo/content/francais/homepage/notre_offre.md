@@ -22,7 +22,7 @@ pictos:
     alt: "Picto ampoule"
 
 tabs:
-  - title: "Ouvrir des données"
+  - tabtitle: "Ouvrir des données"
     items:
       - "Définir et mettre en œuvre une stratégie d'open data"
       - "Sensibiliser les acteurs et les décideurs à la culture des données et de leur ouverture"
@@ -33,8 +33,8 @@ tabs:
       - "Identifier et lever les verrous à la réutilisation par la recherche en sciences sociales et en informatique"
       - "Travailler avec les réutilisateurs et mettre en place une stratégie d'open data guidée par la demande"
       - "<a href='#reutiliser-des-donnees' class='tabs-menu-link'>***---> Réutiliser des données ouvertes***</a>"
-  - title: "Réutiliser des données"
-    items:    
+  - tabtitle: "Réutiliser des données"
+    items:
       - Acculturer et former aux données
       - Identifier des gisements de données ouvertes pertinents
       - Qualifier les bénéfices de la réutilisation de données

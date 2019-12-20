@@ -27,15 +27,13 @@
         <div class="tabs-content panel">
           {{ .Content }}
           {{ range .Params.tabs }}
-          {{ range $tab := . }}
-          <div id="{{ .title | urlize }}" class="tabs-content-item">
+          <div id="{{ .tabtitle | urlize }}" class="tabs-content-item">
             <ul>
               {{ range .items }}
               <li>{{ . | markdownify }}</li>
               {{ end }}
             </ul>
           </div>
-          {{ end }}
           {{ end }}
           <div class="txtcenter"><a href="{{.Params.linkTo}}" class="button--danger pll prl">{{.Params.button}}</a></div>
         </div>
