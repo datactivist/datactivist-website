@@ -17,11 +17,9 @@
       <div class="center tabs js-tabs">  
         <nav class="tabs-menu">
           {{ range $index, $val := .Params.tabs }}
-          {{ range $key, $value := . }}
-          <a href="#{{ $key | urlize }}" class="tabs-menu-link {{ if eq $index 0 }} is-active {{ end }}">
-            {{ $key }}
+          <a href="#{{ .tabtitle | urlize }}" class="tabs-menu-link {{ if eq $index 0 }} is-active {{ end }}">
+            {{ .tabtitle }}
           </a>
-          {{ end }}
           {{ end }}
         </nav>
         <div class="tabs-content panel">
