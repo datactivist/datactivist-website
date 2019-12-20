@@ -22,27 +22,28 @@ pictos:
     alt: "Picto ampoule"
 
 tabs:
-  - "Open data":
-    - "Define and implement an open data strategy"
-    - "Raise awareness among stakeholders and decision makers about data and open data culture"
-    - "Map your data and make out the ones that can be open"
-    - "Set up the organisation for data opening, and implement internal processes"
-    - "Adapt information systems to open data requirements "
-    - "Improve quality and interoperability of open data"
-    - "Break down the barriers to data reuse by social science and computer science"
-    - "Work with re-users to set up a demand-driven open data strategy."
-    - "<a href='#reuse-data' class='tabs-menu-link'>***---> Reuse open data***</a>"
-
-  - "Reuse data":
-    - Train and acculturate to data
-    - Identify relevant open data deposits 
-    - Describe the benefits of a data reuse
-    - Process a strategy and set a course of action on open data
-    - Enrich your data by crossings with open datasets
-    - Get useful datasets for your business, and find alternative sources of data
-    - Lean on computer research and social science to increase the efficiency of open data
-    - experiment and provide a methodological support for open data reuse
-    - "<a href='#open-data' class='tabs-menu-link'>***---> Open data***</a>"
+  - title: "Open data"
+    items:
+      - "Define and implement an open data strategy"
+      - "Raise awareness among stakeholders and decision makers about data and open data culture"
+      - "Map your data and make out the ones that can be open"
+      - "Set up the organisation for data opening, and implement internal processes"
+      - "Adapt information systems to open data requirements "
+      - "Improve quality and interoperability of open data"
+      - "Break down the barriers to data reuse by social science and computer science"
+      - "Work with re-users to set up a demand-driven open data strategy."
+      - "<a href='#reuse-data' class='tabs-menu-link'>***---> Reuse open data***</a>"
+  - title: "Reuse data"
+    items:
+      - Train and acculturate to data
+      - Identify relevant open data deposits 
+      - Describe the benefits of a data reuse
+      - Process a strategy and set a course of action on open data
+      - Enrich your data by crossings with open datasets
+      - Get useful datasets for your business, and find alternative sources of data
+      - Lean on computer research and social science to increase the efficiency of open data
+      - experiment and provide a methodological support for open data reuse
+      - "<a href='#open-data' class='tabs-menu-link'>***---> Open data***</a>"
 
 ---
 

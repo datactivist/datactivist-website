@@ -27,10 +27,10 @@
         <div class="tabs-content panel">
           {{ .Content }}
           {{ range .Params.tabs }}
-          {{ range $key, $value := . }}
-          <div id="{{ $key | urlize }}" class="tabs-content-item">
+          {{ range $tab := . }}
+          <div id="{{ .title | urlize }}" class="tabs-content-item">
             <ul>
-              {{ range $value }}
+              {{ range .items }}
               <li>{{ . | markdownify }}</li>
               {{ end }}
             </ul>
