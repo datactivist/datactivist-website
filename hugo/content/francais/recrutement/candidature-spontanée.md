@@ -5,11 +5,11 @@ longTitle: Vous aimeriez travailler avec nous ? Faites nous signe !
 postes:
 - Candidature spontanée
 title: Candidature spontanée
-topPicto: ""
-topRubrique: "Candidature spontanée"
+topPicto: ''
+topRubrique: Candidature spontanée
 weight: 1
----
 
+---
 ## L'entreprise
 
 Datactivist est une jeune société coopérative, fondée il y a 3 ans, et spécialisée dans la conception et la mise en œuvre de stratégies d'ouverture et de réutilisation de données, la formation et la médiation, à destination des acteurs publics, privés mais aussi des ONG. Nous comptons aujourd’hui huit salarié⋅e⋅s qui mettent en commun leurs compétences et leur savoir-faire pour progresser ensemble et faire durer l’entreprise.
@@ -28,8 +28,8 @@ Notre équipe est distribuée dans cinq villes différentes, et nous travaillons
 
 ## Candidater
 
-**Les candidatures se font obligatoirement via le formulaire ci-dessous - pas de mails, merci ! Si vous avez des questions en revanche, contactez-nous à [recrutement@datactivist.coop](mailto:recrutement@datactivist.coop)**.
+**Les candidatures se font obligatoirement via le formulaire ci-dessous - pas de mails, merci ! Si vous avez des questions en revanche, contactez-nous à** [**recrutement@datactivist.coop**](mailto:recrutement@datactivist.coop).
 
-Les candidatures seront évaluées par les associé⋅e⋅s de Datactivist, et un retour sera fait à l'ensemble des candidats.
+Les candidatures seront évaluées par les associé⋅e⋅s de Datactivist ; nous vous recontacterons si une opportunité se présente.
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrYhLRmQOkH6gJxf?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="3797" style="background: transparent; border: 1px solid #ccc;"></iframe>
