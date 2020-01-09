@@ -7,3 +7,4 @@ title = "Cartographier dans OpenStreetMap avec les field papers"
 weight = nil
 
 +++
+Les fields papers permettent à quiconque de contribuer à OpenStreetMap en annotant une carte imprimée d'une zone. Ces annotations peuvent être simplement importées dans OSM pour atteindre un haut niveau de détail. Magalie vous explique ici comment faire ! 
