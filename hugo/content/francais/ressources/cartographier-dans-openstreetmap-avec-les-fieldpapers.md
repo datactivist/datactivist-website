@@ -1,11 +1,10 @@
 +++
-date = 2019-04-18T22:00:00Z
-draft = true
-image = "/uploads/field.png"
-link = "https://medium.com/datactivist/commande-publique-ouverte-locale-une-initiative-mondiale-pour-partager-les-bonnes-pratiques-et-9bcb78ec01e3"
-tags = ["prez"]
-title = "Cartographier dans OpenStreetMap avec les fieldpapers"
+date = 2019-12-03T23:00:00Z
+image = "https://miro.medium.com/max/1472/1*ovX3O8R_BK0eRKwgxF8X4g.png"
+link = "https://medium.com/datactivist/construire-des-tableaux-de-bord-dynamiques-au-service-de-lopen-data-et-de-la-collectivit%C3%A9-ec514020c027"
+tags = ["blog"]
+title = "Construire des tableaux de bord dynamiques au service de l’open data et de la collectivité : l’exemple d’Issy-les-Moulineaux"
 weight = 300
 
 +++
-Les fields papers permettent à quiconque de contribuer à OpenStreetMap en annotant une carte imprimée d'une zone. Ces annotations peuvent être simplement importées dans OSM pour atteindre un haut niveau de détail. Magalie vous explique ici comment faire !
+L’objet de cet article est de détailler la méthodologie employée et les différentes difficultés rencontrées pour permettre à d’autres administrations de comprendre quelles sont les étapes nécessaires pour un projet de tableau de bord en se concentrant sur les aspects de formatage des données.
