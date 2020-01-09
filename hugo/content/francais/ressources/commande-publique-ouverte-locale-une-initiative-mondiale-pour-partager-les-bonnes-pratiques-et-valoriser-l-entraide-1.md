@@ -1,11 +1,10 @@
 +++
-date = 2019-10-02T00:00:00Z
-draft = true
-image = "https://miro.medium.com/max/2498/1*9qlNYRJnEM7s9tJJkPNYpQ.png"
+date = 2019-04-18T22:00:00Z
+image = "/uploads/Capture d’écran 2020-01-09 à 16.32.04.png"
 link = "https://medium.com/datactivist/commande-publique-ouverte-locale-une-initiative-mondiale-pour-partager-les-bonnes-pratiques-et-9bcb78ec01e3"
-tags = ["blog"]
-title = "Commande publique ouverte locale : une initiative mondiale pour partager les bonnes pratiques et valoriser l’entraide"
+tags = ["prez"]
+title = "Cartographier dans OpenStreetMap avec les field papers"
 weight = 300
 
 +++
-L’initiative pour une commande publique ouverte locale, LOCI, cherche à valoriser les initiatives locales en matière de commande publique ouverte. Focus sur quelques exemples et les engagements de la ville de Paris pour approfondir l'ouverture des données de la commande publique.
+Les fields papers permettent à quiconque de contribuer à OpenStreetMap en annotant une carte imprimée d'une zone. Ces annotations peuvent être simplement importées dans OSM pour atteindre un haut niveau de détail. Magalie vous explique ici comment faire !
