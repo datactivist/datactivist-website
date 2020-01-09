@@ -20,3 +20,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- hugo/content/francais/ressources/cartographier-dans-openstreetmap-avec-les-field-papers.md
