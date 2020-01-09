@@ -2,7 +2,7 @@
 date = 2019-11-27T23:00:00Z
 image = "/uploads/Capture d’écran 2019-12-06 à 16.18.47.png"
 link = "https://datactivist.coop/infolab_poitiers/facto_sandwich/#1"
-tags = ["présentation"]
+tags = ["prez"]
 title = "Factualité / Factfullness ou comment corriger ses mauvaises intuitions par les données"
 weight = 300
 
