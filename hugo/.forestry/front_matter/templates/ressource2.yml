@@ -1,0 +1,22 @@
+---
+label: ressource2
+hide_body: false
+fields:
+- type: textarea
+  name: title
+  label: title
+- type: textarea
+  name: link
+  label: link
+- type: file
+  name: image
+  label: image
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: tags
+  label: tags
+- type: number
+  name: weight
+  label: weight
