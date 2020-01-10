@@ -1,0 +1,22 @@
+---
+label: ressourceok
+hide_body: false
+fields:
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: weight
+  label: weight
+- type: file
+  name: image
+  label: image
+- type: textarea
+  name: link
+  label: link
