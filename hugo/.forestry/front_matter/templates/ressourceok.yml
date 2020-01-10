@@ -22,3 +22,5 @@ fields:
   default: []
   label: tags
   description: '3 options : blog, prez, publication'
+pages:
+- hugo/content/francais/ressources/guide-d-organisation-d-un-sprint-data.md
