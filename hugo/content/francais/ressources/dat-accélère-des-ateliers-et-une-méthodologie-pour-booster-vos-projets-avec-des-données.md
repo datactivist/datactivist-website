@@ -1,6 +1,5 @@
 +++
 date = 2019-11-11T23:00:00Z
-draft = true
 image = "/uploads/dat.png"
 link = "https://medium.com/datactivist/datacc%C3%A9l%C3%A8re-des-ateliers-et-une-m%C3%A9thodologie-pour-booster-les-projets-avec-les-donn%C3%A9es-9b40776891a4"
 tags = ["blog"]
