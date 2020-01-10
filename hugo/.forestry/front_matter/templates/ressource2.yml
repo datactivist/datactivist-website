@@ -1,6 +1,6 @@
 ---
-label: ressource2
-hide_body: false
+label: ressource
+hide_body: true
 fields:
 - type: textarea
   name: title
