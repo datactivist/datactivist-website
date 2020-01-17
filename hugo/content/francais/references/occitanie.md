@@ -25,15 +25,14 @@ topPicto: "/images/clock.svg"
 
 ## Approche adoptée
 
-* Formation et ateliers avec les 7 services pilotes pour partager la stratégie et collecter des données
-
-* Prototypage des tableaux de bord avec les services
-
-* Cartographie des données à utiliser
-
-* Structuration et formatage et publication de 50 jeux de données qui alimentent les tableaux de bord
-
-* Rédaction d’un guide méthodologique, publié sous la forme d’un billet de blog
+* Sensibilisation à l'open data en comité directeur, accompagnement à la désignation des référents open data
+* Définition collective d'une charte régionale de l'open data
+* Accompagnement stratégique vers une politique régionale exemplaire d'ouverture des données
+* Cartographie "grosses mailles" des données ouvrables par la région
+* Entretiens avec les producteurs de données et les référents
+* Production d'éléments de communication
+* Animation interne de l'ouverture des données
+* Benchmark des solutions de portail
 
 
 ![Picto Soleil loupe](/images/search-sun.svg)
@@ -41,5 +40,5 @@ topPicto: "/images/clock.svg"
  ## Résultats obtenus
 
 * Mars 2018 : premières retombées presse au démarrage de la mission dans la [Gazette des Communes](https://www.lagazettedescommunes.com/555166/loccitanie-batit-sa-strategie-de-la-donnee-en-general-et-de-lopendata-en-particulier/) du fait de l’ambition forte du projet
-> * Octobre 2018 : constitution d'un réseau interne d’une quarantaine de correspondants, sensibilisation de toutes les directions à l'open data, un [portail](https://data.laregion.fr) lancé avec plus de 120 jeux de données
-> * Novembre 2019 : [remise d'un trophée open data pour les territoires](https://www.lagazettedescommunes.com/649397/trophees-de-lopendata-pour-les-territoires-2019-les-huit-laureats/) pour l'accompagnement des collectivités locales de la région dans l’ouverture
+* Octobre 2018 : constitution d'un réseau interne d’une quarantaine de correspondants, sensibilisation de toutes les directions à l'open data, un [portail](https://data.laregion.fr) lancé avec plus de 120 jeux de données
+* Novembre 2019 : [remise d'un trophée open data pour les territoires](https://www.lagazettedescommunes.com/649397/trophees-de-lopendata-pour-les-territoires-2019-les-huit-laureats/) pour l'accompagnement des collectivités locales de la région dans l’ouverture
