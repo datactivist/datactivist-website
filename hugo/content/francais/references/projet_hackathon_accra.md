@@ -2,7 +2,7 @@
 title: Conception et animation d'un hackathon au Ghana
 longTitle: Conception et animation d'un Hackathon au Ghana sur l'utilisation des données
   géospatiales pour le développement de l'agriculture.
-image: "/images/logos/Day_1_kit_participant.jpg"
+image: uploads/Hackathon_Ghana.jpg
 date: 2019-10-27
 projects:
 - cooperation_internationale
