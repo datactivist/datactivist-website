@@ -1,0 +1,31 @@
+---
+label: Template Reference Client
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: longTitle
+  label: longTitle
+- type: file
+  name: image
+  label: image
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: projects
+  label: projects
+- type: text
+  name: weight
+  label: weight
+- type: text
+  name: topQuestion
+  label: topQuestion
+- type: text
+  name: topAnswer
+  label: topAnswer
+- type: file
+  name: topPicto
+  label: topPicto
