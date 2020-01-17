@@ -67,6 +67,6 @@ Guide réalisé à l'issue de la Conférence Pagof Tunis #2018
 
 ### Mobilités
 
-🇫🇷**/** Sensibilisation sur les enjeux de l’open data transports
+🇫🇷/ **Sensibilisation sur les enjeux de l’open data transports**
 
 [https://datactivist.coop/idfmobilites/slides.pdf](https://datactivist.coop/idfmobilites/slides.pdf "https://datactivist.coop/idfmobilites/slides.pdf")
