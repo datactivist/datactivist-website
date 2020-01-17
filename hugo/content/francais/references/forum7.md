@@ -15,6 +15,7 @@ draft: true
 
 [https://datactivist.coop/dataliteracy/#2](https://datactivist.coop/dataliteracy/#2 "https://datactivist.coop/dataliteracy/#2")
 
+
 ### Dataviz
 
 🇫🇷/ **Visualiser les chiffres : rigueur - lecture - message** 
@@ -24,6 +25,7 @@ draft: true
 🇫🇷/ **Panorama des formats et des outils de data visualisation**
 
 [https://datactivist.coop/dataweek/dataviz/#1](https://datactivist.coop/dataweek/dataviz/#1 "https://datactivist.coop/dataweek/dataviz/#1")
+
 
 ### Datascience
 
@@ -42,12 +44,13 @@ R : le couteau suisse des données
 Advanced session   
 [https://joelgombin.github.io/scpocodingweek/slides/#1](https://joelgombin.github.io/scpocodingweek/slides/#1 "https://joelgombin.github.io/scpocodingweek/slides/#1")
 
-###  Open Gov
 
+###  Open Gov
   
 🇫🇷/ **Guide des bonnes pratiques et expériences réussies du gouvernement ouvert en Afrique francophone**  
 Guide réalisé à l'issue de la Conférence Pagof Tunis #2018  
 [https://datactivist.coop/guide_pagof/](https://datactivist.coop/guide_pagof/ "https://datactivist.coop/guide_pagof/")
+
 
 ### Culture
 
@@ -60,6 +63,7 @@ Guide réalisé à l'issue de la Conférence Pagof Tunis #2018
 🇫🇷/ **L’ouverture des données publiques culturelles en pratique** 
 
 [https://datactivist.coop/ministere-culture/jour2.html#1](https://datactivist.coop/ministere-culture/jour2.html#1 "https://datactivist.coop/ministere-culture/jour2.html#1")
+
 
 ### Mobilités
 
