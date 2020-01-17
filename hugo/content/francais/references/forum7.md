@@ -8,16 +8,17 @@ projects:
 weight: "300"
 
 ---
+Les productions de Datactivist sont librement réutilisables selon les termes de la licence [Creative Commons 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr).
+
 ### Data Literacy
 
-🇫🇷/ **Formation à la culture générale des données** 
+🇫🇷/ **Formation à la culture générale des données**
 
 [https://datactivist.coop/dataliteracy/#2](https://datactivist.coop/dataliteracy/#2 "https://datactivist.coop/dataliteracy/#2")
 
-
 ### Dataviz
 
-🇫🇷/ **Visualiser les chiffres : rigueur - lecture - message** 
+🇫🇷/ **Visualiser les chiffres : rigueur - lecture - message**
 
 [https://datactivist.coop/ensad-dataviz/#1](https://datactivist.coop/ensad-dataviz/#1 "https://datactivist.coop/ensad-dataviz/#1")
 
@@ -25,44 +26,39 @@ weight: "300"
 
 [https://datactivist.coop/dataweek/dataviz/#1](https://datactivist.coop/dataweek/dataviz/#1 "https://datactivist.coop/dataweek/dataviz/#1")
 
-
 ### Datascience
 
 🇫🇷/ **Les essentiels de la data science**
 
 R : le couteau suisse des données
 
-[https://datactivist.coop/numa_R/jour1.html#1](https://datactivist.coop/numa_R/jour1.html#1 "https://datactivist.coop/numa_R/jour1.html#1")   
-  
+[https://datactivist.coop/numa_R/jour1.html#1](https://datactivist.coop/numa_R/jour1.html#1 "https://datactivist.coop/numa_R/jour1.html#1")
+
 🇺🇸🇬🇧/ **R for beginners (in English)**  
 [https://sylvainlapoix.github.io/scpo_Rnoob/slides/SciencesPo_R4Beginner.html](https://sylvainlapoix.github.io/scpo_Rnoob/slides/SciencesPo_R4Beginner.html "https://sylvainlapoix.github.io/scpo_Rnoob/slides/SciencesPo_R4Beginner.html")
 
-  
 🇺🇸🇬🇧/ **R and data science for public policies**
 
-Advanced session   
+Advanced session  
 [https://joelgombin.github.io/scpocodingweek/slides/#1](https://joelgombin.github.io/scpocodingweek/slides/#1 "https://joelgombin.github.io/scpocodingweek/slides/#1")
 
+### Open Gov
 
-###  Open Gov
-  
 🇫🇷/ **Guide des bonnes pratiques et expériences réussies du gouvernement ouvert en Afrique francophone**  
 Guide réalisé à l'issue de la Conférence Pagof Tunis #2018  
 [https://datactivist.coop/guide_pagof/](https://datactivist.coop/guide_pagof/ "https://datactivist.coop/guide_pagof/")
-
 
 ### Culture
 
 (Module de formation de 2 jours destiné aux agents au Ministère de la Culture)
 
-🇫🇷/ **Comprendre les enjeux de l’ouverture des données publiques culturelles** 
+🇫🇷/ **Comprendre les enjeux de l’ouverture des données publiques culturelles**
 
 [https://datactivist.coop/ministere-culture/jour1.html#1](https://datactivist.coop/ministere-culture/jour1.html#1 "https://datactivist.coop/ministere-culture/jour1.html#1")
 
-🇫🇷/ **L’ouverture des données publiques culturelles en pratique** 
+🇫🇷/ **L’ouverture des données publiques culturelles en pratique**
 
 [https://datactivist.coop/ministere-culture/jour2.html#1](https://datactivist.coop/ministere-culture/jour2.html#1 "https://datactivist.coop/ministere-culture/jour2.html#1")
-
 
 ### Mobilités
 
