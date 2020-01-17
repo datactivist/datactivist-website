@@ -8,6 +8,7 @@ postes:
 - Consultant
 topRubrique: Descriptif du poste
 topPicto: "/images/noun_job.svg"
+draft: true
 
 ---
 ![Picto coop](/images/noun_cocreations.svg)
