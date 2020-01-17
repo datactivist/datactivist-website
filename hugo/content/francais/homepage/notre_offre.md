@@ -32,8 +32,8 @@ tabs:
     sociales et en informatique
   - Travailler avec les réutilisateurs et mettre en place une stratégie d'open data
     guidée par la demande
-  - "<a href='#reutiliser-des-donnees' class='tabs-menu-link'>**---> Réutiliser des
-    données ouvertes**</a>"
+  - "<b><a href='#reutiliser-des-donnees' class='tabs-menu-link'>---> Réutiliser des
+    données ouvertes</a></b>"
 - tabtitle: Réutiliser des données
   items:
   - Acculturer et former aux données
