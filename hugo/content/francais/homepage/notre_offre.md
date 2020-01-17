@@ -47,7 +47,7 @@ tabs:
     l'utilité des données ouvertes
   - Expérimenter et fournir un appui méthodologique à la réutilisation de données
     ouvertes
-  - "<a href='#ouvrir-des-donnees' class='tabs-menu-link'>***---> Ouvrir des données***</a>"
+  - "<b><a href='#ouvrir-des-donnees' class='tabs-menu-link'>---> Ouvrir des données</a></b>"
 
 ---
 **Nous pouvons vous aider à :**
