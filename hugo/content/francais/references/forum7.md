@@ -1,6 +1,6 @@
 ---
 title: Notre catalogue de formation
-image: "/images/logos/logos_04-square.png"
+image: "/images/logos/logo_training_512px.png"
 date: 2018-09-17T14:35:39.000+00:00
 projects:
 - Formation
