@@ -6,7 +6,6 @@ projects:
 - Formation
 - entreprises
 weight: "300"
-draft: true
 
 ---
 ### Data Literacy
