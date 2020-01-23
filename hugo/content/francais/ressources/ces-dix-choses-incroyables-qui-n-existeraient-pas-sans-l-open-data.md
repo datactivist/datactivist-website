@@ -1,6 +1,6 @@
 +++
 date = 2019-06-23T22:00:00Z
-image = ""
+image = "/uploads/Capture d’écran 2020-01-23 à 14.53.29-2.png"
 link = "https://datactivist.coop/dataweek/#1"
 tags = ["prez"]
 title = "Ces dix choses incroyables qui n’existeraient pas sans l’open data"
