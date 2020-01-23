@@ -23,4 +23,5 @@ fields:
   label: tags
   description: '3 options : blog, prez, publication'
 pages:
+- hugo/content/francais/ressources/ces-dix-choses-incroyables-qui-n-existeraient-pas-sans-l-open-data.md
 - hugo/content/francais/ressources/guide-d-organisation-d-un-sprint-data.md
