@@ -1,5 +1,6 @@
 +++
 date = 2020-01-14T03:00:00Z
+draft = true
 image = "/uploads/RATP_DEV_carto_donnees.png"
 longTitle = "Réalisation d'une cartographie de données de la mobilité en Île de France."
 projects = []
@@ -35,7 +36,3 @@ A terme, c’est un modèle complet d’analyse des déplacements qui pourra exp
 * Entretiens avec les producteurs de données pour collecter des informations supplémentaires sur les données ;
 
 * Synthèse et restitution de la cartographie des données et recommandations pour une exploitation.
-
-
-
-
