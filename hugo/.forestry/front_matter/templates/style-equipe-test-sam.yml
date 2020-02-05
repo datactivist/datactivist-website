@@ -30,5 +30,7 @@ fields:
   - type: text
     name: email
     label: email
+  config:
+    labelField: name
 pages:
 - hugo/content/francais/nos-partenaires.md
