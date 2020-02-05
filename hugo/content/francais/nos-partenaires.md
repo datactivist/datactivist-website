@@ -3,8 +3,6 @@ date = 2020-02-04T23:00:00Z
 title = "Nos partenaires"
 type = "block_team"
 weight = 300
-[menu.main]
-weight = 7
 [[items]]
 email = "https://www.afd.fr/fr"
 image = "/uploads/Logo-AFD.jpg"
