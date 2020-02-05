@@ -16,3 +16,4 @@ name = "Agence Régionale du Livre PACA"
 text = "Créée en 2003, l'Agence régionale du Livre Provence-Alpes-Côte d'Azur soutient et valorise le secteur du livre et de la lecture. Elle s'adresse à l'ensemble des professionnels du domaine : auteurs, éditeurs, libraires, bibliothécaires, associations, collectivités et réseaux.\nDatactivist a préparé et animé une intervention sur les diagnostics territoriaux et réalisé un diagnostic temporel métropolitain sur les horaires d'ouverture des bibliothèques publiques"
 
 +++
+Le développement de Datactivist dépend de ses partenaires
