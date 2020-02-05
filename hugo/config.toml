@@ -55,27 +55,25 @@ footerAlt = "Stickers"
 footerButton = "OK !"
 footerEmail = "hello@datactivist.coop"
 footerImage = "images/stickers.png"
-footerNewsletter = "Entrez votre email (pas de spam, promis !)"
 footerMentionsLegales = "/fr/mentionslegales/"
+footerNewsletter = "Entrez votre email (pas de spam, promis !)"
+[markup.goldmark.renderer]
+metaDataFormat = "yaml"
+unsafe = true
 [params]
 logo = "/images/datactivist_logo.svg"
 logoWhite = "/images/datactivist_logo-white.svg"
+[params.matomo]
+disableSRI = true
+id = 1
+url = "https://matomo.datactivist.coop"
+[params.matomo.block]
+button = "Bloquer le suivi"
+message = "Aucune donnée de navigation ne sera conservée."
+[params.matomo.track]
+button = "Autoriser le suivi"
+message = "J'autorise Datactivist à enregistrer des données de navigation à des fins statistiques."
 [taxonomies]
 poste = "postes"
 project = "projects"
 tag = "tags"
-[params.matomo]
-url = "https://matomo.datactivist.coop"
-id = 1
-disableSRI = true
-[params.matomo.track]
-button = "Autoriser le suivi"
-message = "J'autorise Datactivist à enregistrer des données de navigation à des fins statistiques."
-[params.matomo.block]
-button = "Bloquer le suivi"
-message = "Aucune donnée de navigation ne sera conservée."
-[markup.goldmark.renderer]
-unsafe= true
-## Config deprecated in hugo, still expected by forestry (2019-12-19)
-## Possible options "yaml", "toml" or "json"
-metaDataFormat = "yaml"
