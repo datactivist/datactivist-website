@@ -41,6 +41,10 @@ items:
     image: "/images/allyson_hex.png"
     text : "est titulaire d'un master Expertise du politique et Affaires publiques. Dans le prolongement de son mémoire, il travaille sur la mise en place des politiques publiques d'open data, notamment au Brésil."
     email: "allyson@datactivist.coop"
+  - name: "Julia Dumont"
+    image: "/uploads/julia_hex.png"
+    text : "Professeure d'Histoire-Géographie et formatrice en numérique pendant 10 ans, elle a cherché à montrer aux élèves et aux enseignants le potentiel des données comme matériau pédagogique. Croyant fermement au pouvoir émancipateur des données, elle aimerait contribuer à la démocratisation de leurs usages pour favoriser l'émergence d'une société apprenante."
+    email: "julia@datactivist.coop"
 
 ---
 
