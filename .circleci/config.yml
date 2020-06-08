@@ -17,7 +17,7 @@ jobs:
       # 2. delete the public folder and the corresponding submodule
       - run: rm -rf .git/modules/hugo/public/ .gitmodules hugo/public && git rm -r --cached hugo/public
       # 3. add git submodule
-      - run: git submodule add -b master git@github.com:datactivist/datactivist.github.io.git hugo/public
+      - run: touch .gitmodules && git submodule add -b master git@github.com:datactivist/datactivist.github.io.git hugo/public
       # 4. build with hugo
       - run: cd hugo && HUGO_ENV=production hugo -v
       # 5. test with Htmlproofer
