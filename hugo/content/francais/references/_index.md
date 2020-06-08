@@ -6,6 +6,6 @@ txturl: Toutes les références
 menu:
   main:
     weight: 4
-draft: true
+draft: false
 
 ---

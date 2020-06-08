@@ -1,10 +1,11 @@
 +++
-date = 2020-06-07T22:00:00Z
-image = "/uploads/1_cpyw6kdbb2qqklgxifporw.jpeg"
-link = "https://medium.com/datactivist/archivistes-professionnels-de-lopen-data-nous-n-avons-pas-le-m%C3%AAme-maillot-mais-nous-avons-la-67fcbced1238"
+date = 2017-11-30T23:00:00Z
+draft = false
+image = "/uploads/odi2.png"
+link = "https://medium.com/datactivist/standards-de-donn%C3%A9es-ouvertes-enseignements-dun-workshop-%C3%A0-londres-3616a5e0fb20"
 tags = ["blog"]
-title = "Archivistes, professionnels de l’open data : nous n’avons pas le même maillot mais nous avons la même passion"
+title = "Standards de données ouvertes : enseignements d’un workshop à Londres"
 weight = 300
 
 +++
-Après un parcours en collectivités territoriales sur des projets d’archivage électronique avant de se diriger vers la gouvernance  des données, Anne-Laure a choisi pour ce billet de présenter six points communs entre les archives et l’open data.
+Les promesses de la standardisation sont bien connues mais que se passe-t-il quand on standardise des données ? Les données sont-elles aussi facilement réutilisées qu’anticipé ? Comment les standards peuvent-ils évoluer pour prendre en compte les retours des usagers ? Suite à un meetup à Londres, voici les histoires et les enseignements de 5 projets de standardisation dans des contextes variés et à différents niveaux de maturité.
