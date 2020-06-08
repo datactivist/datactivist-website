@@ -7,6 +7,6 @@ menu:
   main:
     name: Ressources
     weight: 5
-draft: true
+draft: false
 
 ---
