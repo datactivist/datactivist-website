@@ -5,7 +5,7 @@ date: 2020-01-17T03:00:00.000+00:00
 projects:
 - Formation
 weight: "300"
-
+draft: true
 ---
 Les productions de Datactivist sont librement réutilisables selon les termes de la licence [Creative Commons 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr).
 
