@@ -4,6 +4,15 @@ type: block_team
 date: 2018-09-17T16:35:39.000+02:00
 weight: "300"
 items:
+- name: Anne-Laure Donzel
+  image: ''
+  text: 'est archiviste de formation. Elle a été chargée de projets d''archivage de
+    données et déléguée à la protection des données dans des collectivités, dont,
+    dernièrement à la Région Bretagne. Elle s''intéresse particulièrement aux questions
+    juridiques et au cycle de vie des données, de leur production à leur réutilisation. '
+  email: anne-laure@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
 - name: Samuel Goëta
   image: "/images/samuel_hex.png"
   text: est sociologue. Sa thèse entre dans les coulisses de l'open data et interroge
