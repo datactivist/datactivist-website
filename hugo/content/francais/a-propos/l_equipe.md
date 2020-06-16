@@ -4,15 +4,6 @@ type: block_team
 date: 2018-09-17T16:35:39.000+02:00
 weight: "300"
 items:
-- name: Anne-Laure Donzel
-  image: ''
-  text: 'est archiviste de formation. Elle a été chargée de projets d''archivage de
-    données et déléguée à la protection des données dans des collectivités, dont,
-    dernièrement à la Région Bretagne. Elle s''intéresse particulièrement aux questions
-    juridiques et au cycle de vie des données, de leur production à leur réutilisation. '
-  email: anne-laure@datactivist.coop
-  Nous croyons au savoir ouvert: ''
-  'We believe in open knowledge ': ''
 - name: Samuel Goëta
   image: "/images/samuel_hex.png"
   text: est sociologue. Sa thèse entre dans les coulisses de l'open data et interroge
@@ -84,6 +75,15 @@ items:
     à la démocratisation de leurs usages pour favoriser l'émergence d'une société
     apprenante.
   email: julia@datactivist.coop
+- name: Anne-Laure Donzel
+  image: ''
+  text: 'est archiviste de formation. Elle a été chargée de projets d''archivage de
+    données et déléguée à la protection des données dans des collectivités, dont,
+    dernièrement à la Région Bretagne. Elle s''intéresse particulièrement aux questions
+    juridiques et au cycle de vie des données, de leur production à leur réutilisation. '
+  email: anne-laure@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
 
 ---
 Les membres de l’équipe que nous avons constituée sont tous et toutes marqués, dans leur trajectoire, par le fait d’avoir noué une relation personnelle forte à la donnée, en souhaitant la mettre au service du bien commun et du plus grand nombre, que ce soit au travers de leurs choix professionnels ou de leurs engagements personnels, qui sont souvent entremêlés. La donnée sera un outil d’empowerment ou ne sera pas.
