@@ -76,7 +76,7 @@ items:
     apprenante.
   email: julia@datactivist.coop
 - name: Anne-Laure Donzel
-  image: ''
+  image: "/uploads/anne-laure.png"
   text: 'est archiviste de formation. Elle a été chargée de projets d''archivage de
     données et déléguée à la protection des données dans des collectivités, dont,
     dernièrement à la Région Bretagne. Elle s''intéresse particulièrement aux questions
