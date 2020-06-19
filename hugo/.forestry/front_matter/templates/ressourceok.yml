@@ -24,5 +24,6 @@ fields:
   description: '3 options : blog, prez, publication'
 pages:
 - hugo/content/francais/ressources/ces-dix-choses-incroyables-qui-n-existeraient-pas-sans-l-open-data.md
+- hugo/content/francais/ressources/data-humanism-ou-l-art-d-explorer-par-le-visuel-la-complexite-des-donnees.md
 - hugo/content/francais/ressources/guide-d-organisation-d-un-sprint-data.md
 - hugo/content/francais/ressources/panorama-des-formats-et-des-outils-de-data-visualisation.md
