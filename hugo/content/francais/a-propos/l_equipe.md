@@ -81,7 +81,7 @@ items:
     données et déléguée à la protection des données dans des collectivités, dont,
     dernièrement à la Région Bretagne. Elle s''intéresse particulièrement aux questions
     juridiques et au cycle de vie des données, de leur production à leur réutilisation. '
-  email: anne-laure@datactivist.coop
+  email: annelaure@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 - text: Depuis 1999, elle assume différentes fonctions de développement et d’accompagnement
