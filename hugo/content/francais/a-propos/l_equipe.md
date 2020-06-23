@@ -48,7 +48,7 @@ items:
     l'a mené à s'investir plus particulièrement dans le sujet des transports.
   email: etienne@datactivist.coop
 - name: Magalie Dartus
-  image: "/uploads/magalie_site2.png"
+  image: "/uploads/magalie.png"
   text: Archéologue pendant une quinzaine d'année, elle a dirigé des opérations de
     fouille en France et à l’étranger avant de se reconvertir dans la géomatique.
     Ses centres d’intérêts professionnels la poussent désormais vers l’open data et
