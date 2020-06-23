@@ -84,15 +84,16 @@ items:
   email: anne-laure@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
-- text: "Depuis 1999, elle assume différentes fonctions de développement et d’accompagnement
-    de projets dans le champ culturel et l’économie sociale et solidaire. \nForte
-    de cette expérience complétée par un master 2 en gestion, elle bâtit son parcours
+- text: Depuis 1999, elle assume différentes fonctions de développement et d’accompagnement
+    de projets dans le champ culturel et l’économie sociale et solidaire. Forte de
+    cette expérience complétée par un master 2 en gestion, elle bâtit son parcours
     et ses enseignements en défendant des projets singuliers, innovants et porteurs
-    de sens."
-  email: ''
+    de sens.
+  email: stephanie@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
   name: Stéphanie Trichard
+  image: "/uploads/stephanie.png"
 
 ---
 Les membres de l’équipe que nous avons constituée sont tous et toutes marqués, dans leur trajectoire, par le fait d’avoir noué une relation personnelle forte à la donnée, en souhaitant la mettre au service du bien commun et du plus grand nombre, que ce soit au travers de leurs choix professionnels ou de leurs engagements personnels, qui sont souvent entremêlés. La donnée sera un outil d’empowerment ou ne sera pas.
