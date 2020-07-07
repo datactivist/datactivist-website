@@ -1,5 +1,6 @@
 +++
 date = 2017-11-30T23:00:00Z
+draft = true
 image = "/uploads/capture-d-ecran-2020-07-07-a-11-30-25.png"
 link = "https://www.lagazettedescommunes.com/687344/mieux-que-des-smart-cities-des-villes-numeriques-ouvertes-et-humaines/?fbclid=IwAR08gYFQ7phYpkDJPh9SLifaBdRGz7cDAFqjafajXALI5Jcyn87eU59XX-Y"
 tags = ["blog"]
