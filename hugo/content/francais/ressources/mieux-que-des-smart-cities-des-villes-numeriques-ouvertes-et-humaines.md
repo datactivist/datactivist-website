@@ -1,11 +1,10 @@
 +++
 date = 2017-11-30T23:00:00Z
-draft = true
-image = "/uploads/odi2.png"
-link = "https://medium.com/datactivist/standards-de-donn%C3%A9es-ouvertes-enseignements-dun-workshop-%C3%A0-londres-3616a5e0fb20"
+image = "/uploads/capture-d-ecran-2020-07-07-a-11-30-25.png"
+link = "https://www.lagazettedescommunes.com/687344/mieux-que-des-smart-cities-des-villes-numeriques-ouvertes-et-humaines/?fbclid=IwAR08gYFQ7phYpkDJPh9SLifaBdRGz7cDAFqjafajXALI5Jcyn87eU59XX-Y"
 tags = ["blog"]
 title = "Mieux que des smart cities : des villes numériques ouvertes et humaines !"
 weight = 300
 
 +++
-Les promesses de la standardisation sont bien connues mais que se passe-t-il quand on standardise des données ? Les données sont-elles aussi facilement réutilisées qu’anticipé ? Comment les standards peuvent-ils évoluer pour prendre en compte les retours des usagers ? Suite à un meetup à Londres, voici les histoires et les enseignements de 5 projets de standardisation dans des contextes variés et à différents niveaux de maturité.
+Dans cette tribune dans La Gazette des Communes, Joël Gombin constate que les projets de smart city sont souvent dépolitisés, relevant “simplement” d’un souci de “bonne gestion”. À quoi pourraient ressembler des politiques de transition numérique des villes, répondant aux enjeux économiques, sociaux et écologiques actuels ?
