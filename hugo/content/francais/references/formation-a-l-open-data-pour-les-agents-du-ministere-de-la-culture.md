@@ -5,6 +5,6 @@ image = ""
 link = ""
 tags = []
 title = "Formation à l'open data pour les agents du Ministère de la Culture"
-weight = nil
+weight = 0
 
 +++
