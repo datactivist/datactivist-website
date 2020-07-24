@@ -20,3 +20,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- hugo/content/francais/references/formation-a-l-open-data-pour-les-agents-du-ministere-de-la-culture.md
