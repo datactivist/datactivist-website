@@ -1,7 +1,7 @@
 +++
 date = 2019-04-18T22:00:00Z
 image = "/uploads/field.png"
-link = "https://medium.com/datactivist/commande-publique-ouverte-locale-une-initiative-mondiale-pour-partager-les-bonnes-pratiques-et-9bcb78ec01e3"
+link = "https://github.com/datactivist/atelier-osm/blob/master/initiation_OSM.pdf"
 tags = ["prez"]
 title = "Cartographier dans OpenStreetMap avec les fieldpapers"
 weight = 300
