@@ -14,13 +14,9 @@ weight = ""
 
 ## Contexte
 
-
-* Issy-les-Moulineaux est une ville pionnière en France en matière d’ouverture de données. Elle a ouvert un portail en 2012, et l’alimente régulièrement en nouvelles données. 
-
-* Dans la plupart des administrations, les différents services maintiennent des tableaux de suivis de leur activité. Problème : ces tableaux sont dans des formats différents selon les services. Chaque année, les indicateurs sont à recalculer, et donc le travail de mise à jour prend du temps. 
-
-* La ville d’Issy-les-Moulineaux s’est donc lancée dans un premier projet de standardisation de données, avec comme objectif concret de construire des tableaux de bord partagés et actualisés automatiquement. 
-
+* Issy-les-Moulineaux est une ville pionnière en France en matière d’ouverture de données. Elle a ouvert un portail en 2012, et l’alimente régulièrement en nouvelles données.
+* Dans la plupart des administrations, les différents services maintiennent des tableaux de suivis de leur activité. Problème : ces tableaux sont dans des formats différents selon les services. Chaque année, les indicateurs sont à recalculer, et donc le travail de mise à jour prend du temps.
+* La ville d’Issy-les-Moulineaux s’est donc lancée dans un premier projet de standardisation de données, avec comme objectif concret de construire des tableaux de bord partagés et actualisés automatiquement.
 * **L'objectif : faciliter la remontée des données, éviter les doublons de saisies, et permettre aux élus, aux agents et aux citoyens d’accéder en toute simplicité à des indicateurs détaillés sur les services de la ville.**
 
 ![Picto outils](/images/tools.svg)
@@ -38,7 +34,7 @@ weight = ""
 ## Résultats obtenus
 
 * La données est apparue comme un réel vecteur de changement de méthode et de partage de l’information, qui bénéficie à toute la collectivité et à ses administrés.
-* Travailler sur cet ensemble de données a permis de mettre en lumière des questions de structuration, de qualité et de manières de collecter la donnée. 
+* Travailler sur cet ensemble de données a permis de mettre en lumière des questions de structuration, de qualité et de manières de collecter la donnée.
 * Une étape significative vers l’émergence d’une culture des données au sein de l’administration.
 
-_Les tableaux de bord sont en cours d’éditorialisation : ils seront publiés prochainement_. 
+_Les tableaux de bord sont en cours d’éditorialisation : ils seront publiés prochainement_.
