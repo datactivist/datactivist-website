@@ -1,6 +1,6 @@
 +++
 date = 2020-08-31T22:00:00Z
-image = "/uploads/culture.png"
+image = "/uploads/culture-1.png"
 longTitle = "Formation à l'open data pour les agents du ministère de la Culture"
 projects = ["Ministères"]
 title = "Formation à l'open data pour les agents du ministère de la Culture"
