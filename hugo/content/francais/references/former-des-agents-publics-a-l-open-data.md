@@ -1,11 +1,10 @@
 +++
 date = ""
-draft = true
-image = "/uploads/tableaux_bord_Issy-1.png"
-longTitle = "Construction de tableaux de bord dynamiques s’alimentant de données provenant du portail open data de la ville d'Issy-les-Moulineaux"
+image = "/uploads/culture.png"
+longTitle = ""
 projects = []
-title = "Former des agents publics à l'open data"
-topAnswer = "4 mois"
+title = "Formation à l'open data pour les agents du ministère de la Culture"
+topAnswer = "2 ans"
 topPicto = ""
 topQuestion = "Durée de l'intervention ![Fleche vers la droite](/images/white-dotted-arrow.svg)"
 weight = ""
@@ -15,27 +14,31 @@ weight = ""
 
 ## Contexte
 
-* Issy-les-Moulineaux est une ville pionnière en France en matière d’ouverture de données. Elle a ouvert un portail en 2012, et l’alimente régulièrement en nouvelles données.
-* Dans la plupart des administrations, les différents services maintiennent des tableaux de suivis de leur activité. Problème : ces tableaux sont dans des formats différents selon les services. Chaque année, les indicateurs sont à recalculer, et donc le travail de mise à jour prend du temps.
-* La ville d’Issy-les-Moulineaux s’est donc lancée dans un premier projet de standardisation de données, avec comme objectif concret de construire des tableaux de bord partagés et actualisés automatiquement.
-* **L'objectif : faciliter la remontée des données, éviter les doublons de saisies, et permettre aux élus, aux agents et aux citoyens d’accéder en toute simplicité à des indicateurs détaillés sur les services de la ville.**
-
-![Picto outils](/images/tools.svg)
+La formation a permis aux agents du Ministère de la Culture de comprendre l’origine de l’open data, ses grands principes et le cadre juridique actuel. Composé de présentations et d’ateliers, les deux modules de formation d'une journée conçus en partenariat avec Stat4Decision mettent en relief l’importance de l’ouverture des données dans la transformation de l’État et présentent des cas issus du domaine de la culture.
 
 ## Approche adoptée
 
-* Formation et ateliers avec les 7 services pilotes pour partager la stratégie et collecter des données
-* Prototypage des tableaux de bord avec les services
-* Cartographie des données à utiliser
-* Structuration et formatage et publication de 50 jeux de données qui alimentent les tableaux de bord
-* Rédaction d’un guide méthodologique, publié sous la forme d’un billet de blog
+* Cette action de formation a été déclinée en deux modules de formations d'une jorunée adaptés aux besoins des publics.
+
+  La première session intitulée "comprendre les enjeux de l’ouverture des données publiques culturelles" portait sur :
+  * Les origines historiques et les grands principes de l’ouverture des données
+  * Le cadre juridique de l’ouverture des données culturelles
+  * Les grands principes de la conception d’une stratégie d'ouverture de données.
+
+  \--> Consultez [le support de formation](https://datactivist.coop/ministere-culture/jour1.html#1)
+
+  La deuxième session intitulée "l’ouverture des données publiques culturelles en pratique" porte sur :
+  * La sélection, la préparation et la diffusion des données ;
+  * Les formats, la complétude, la découvrabilité des données ;
+  * La production d’un jeu de données et de qualité et les enjeux liés au nettoyage
+  * La valorisation des données et le développement des usages.
+
+  \--> Consultez [le support de formation](https://datactivist.coop/ministere-culture/jour2.html#1)
 
 ![Picto Soleil loupe](/images/search-sun.svg)
 
 ## Résultats obtenus
 
-* La données est apparue comme un réel vecteur de changement de méthode et de partage de l’information, qui bénéficie à toute la collectivité et à ses administrés.
-* Travailler sur cet ensemble de données a permis de mettre en lumière des questions de structuration, de qualité et de manières de collecter la donnée.
-* Une étape significative vers l’émergence d’une culture des données au sein de l’administration.
-
-_Les tableaux de bord sont en cours d’éditorialisation : ils seront publiés prochainement_.
+* Sensibilisation à chaque session d’une vingtaine d'agents publics aux grands principes de l’open data et aux enjeux propres ;
+* Organisation de 3 sessions par an ;
+* Accompagnement des personnes formées à la mise en place d'une feuille de route sur l'open data dans leur service ou organisation.
