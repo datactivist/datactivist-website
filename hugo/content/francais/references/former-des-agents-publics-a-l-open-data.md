@@ -20,11 +20,12 @@ La formation a permis aux agents du Ministère de la Culture de comprendre l’o
 
 Cette action de formation a été déclinée en deux modules de formations d'une journée adaptés aux besoins des publics.
 
-La première session intitulée "comprendre les enjeux de l’ouverture des données publiques culturelles" (consultez [le support de formation](https://datactivist.coop/ministere-culture/jour1.html#1)) portait sur :
+La première session intitulée "comprendre les enjeux de l’ouverture des données publiques culturelles" portait sur :
 
 * Les origines historiques et les grands principes de l’ouverture des données
 * Le cadre juridique de l’ouverture des données culturelles
 * Les grands principes de la conception d’une stratégie d'ouverture de données.
+* Pour plus d'infos : consultez [le support de formation](https://datactivist.coop/ministere-culture/jour1.html#1)
 
 La deuxième session intitulée "l’ouverture des données publiques culturelles en pratique" (consultez [le support de formation](https://datactivist.coop/ministere-culture/jour2.html#1)) porte sur :
 
@@ -32,7 +33,7 @@ La deuxième session intitulée "l’ouverture des données publiques culturelle
 * Les formats, la complétude, la découvrabilité des données ;
 * La production d’un jeu de données et de qualité et les enjeux liés au nettoyage
 * La valorisation des données et le développement des usages.
-* 
+* Pour plus d'infos : consultez [le support de formation](https://datactivist.coop/ministere-culture/jour2.html#1)
 
 ![Picto Soleil loupe](/images/search-sun.svg)
 
