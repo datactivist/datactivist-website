@@ -31,4 +31,5 @@ fields:
   label: topPicto
 pages:
 - hugo/content/francais/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux.md
+- hugo/content/francais/references/former-des-agents-publics-a-l-open-data.md
 - hugo/content/francais/references/recherche-et-cartographie-de-données-de-la-mobilité-pour-ratp-dev.md
