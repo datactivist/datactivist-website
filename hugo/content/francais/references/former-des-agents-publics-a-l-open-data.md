@@ -18,7 +18,7 @@ La formation a permis aux agents du Ministère de la Culture de comprendre l’o
 
 ## Approche adoptée
 
-* Cette action de formation a été déclinée en deux modules de formations d'une jorunée adaptés aux besoins des publics.
+* Cette action de formation a été déclinée en deux modules de formations d'une journée adaptés aux besoins des publics.
 
   La première session intitulée "comprendre les enjeux de l’ouverture des données publiques culturelles" portait sur :
   * Les origines historiques et les grands principes de l’ouverture des données
