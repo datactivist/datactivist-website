@@ -1,5 +1,5 @@
 +++
-date = 2019-06-23T22:00:00Z
+date = 2020-09-23T22:00:00Z
 image = "/uploads/capture-d-ecran-2020-10-29-a-16-09-51.png"
 link = "https://datactivist.coop/dwa_ddj_maroc/3-nettoyage/"
 tags = ["prez"]
