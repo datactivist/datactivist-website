@@ -111,9 +111,9 @@ items:
   Nous croyons au savoir ouvert: ''
   text: travaille depuis 15 ans à la croisée des enjeux numériques et des relations
     science-société. Après plusieurs expériences en information scientifique et technique
-    (bibliométrie, brevets…), il a accompagné des institutions scientifiques dans
-    la diffusion des savoirs, a développé des projets de science ouverte et a participé
-    à plusieurs communs numériques.
+    et dans des projets de science ouverte, il est notamment en charge d'accompagner
+    des institutions scientifiques dans la diffusion de leurs savoirs et l'ouverture
+    des données de la recherche.
 
 ---
 Les membres de l’équipe que nous avons constituée sont tous et toutes marqués, dans leur trajectoire, par le fait d’avoir noué une relation personnelle forte à la donnée, en souhaitant la mettre au service du bien commun et du plus grand nombre, que ce soit au travers de leurs choix professionnels ou de leurs engagements personnels, qui sont souvent entremêlés. La donnée sera un outil d’empowerment ou ne sera pas.
