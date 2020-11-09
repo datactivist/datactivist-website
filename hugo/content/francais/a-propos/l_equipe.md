@@ -112,7 +112,7 @@ items:
   text: travaille depuis 15 ans à la croisée des enjeux numériques et des relations
     science-société. Après plusieurs expériences en information scientifique et technique
     et dans des projets de science ouverte, il est notamment en charge d'accompagner
-    des institutions scientifiques dans la diffusion de leurs savoirs et l'ouverture
+    des institutions scientifiques dans la diffusion du savoir et l'ouverture
     des données de la recherche.
 
 ---
