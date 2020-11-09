@@ -15,4 +15,4 @@ Voulant **mettre notre expertise au service des producteurs de données ouvertes
 
 La coopérative s'est vite agrandie pour **accompagner des organisations de tout type** (secteur public, entreprises, ONG) dans l’ouverture de leurs données, l’utilisation de données ouvertes et les demandes d’ouverture de données.
 
-**Pure player de l'open data**, nous accompagnons nos clients à travers des activités de conseil allant de la définition à la mise en œuvre opérationnelle d'une stratégie open data, de formation replaçant l’ouverture des données dans le contexte général des révolutivons des données et de la data science, et de médiation pour accompagner la réutilisation de données par un public de spécialistes ou de novices.
+**Pure player de l'open data**, nous accompagnons nos clients à travers des activités de conseil allant de la définition à la mise en œuvre opérationnelle d'une stratégie open data, de formation replaçant l’ouverture des données dans le contexte général des révolutions des données et de la data science, et de médiation pour accompagner la réutilisation de données par un public de spécialistes ou de novices.

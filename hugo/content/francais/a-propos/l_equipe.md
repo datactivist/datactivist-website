@@ -98,12 +98,22 @@ items:
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
   name: Emeline Vandeven
-  text: Emeline Vandeven est juriste spécialisée en droit de la commande publique.
-    Au cours des 10 dernières années, elle a été acheteur au sein de collectivités
-    territoriales et services de l'Etat (CNIL, PFRA) ainsi que consultante juridique
-    à la DAJ de Bercy. Elle est notamment en charge d'accompagner les acteurs publics
-    dans l'ouverture des données de la commande publique
+  text: est juriste spécialisée en droit de la commande publique. Au cours des 10
+    dernières années, elle a été acheteur au sein de collectivités territoriales et
+    services de l'Etat (CNIL, PFRA) ainsi que consultante juridique à la DAJ de Bercy.
+    Elle est notamment en charge d'accompagner les acteurs publics dans l'ouverture
+    des données de la commande publique.
   image: "/uploads/emeline-site.png"
+- name: Antoine Blanchard
+  image: "/uploads/antoine.png"
+  email: antoine@datactivi.st
+  'We believe in open knowledge ': ''
+  Nous croyons au savoir ouvert: ''
+  text: travaille depuis 15 ans à la croisée des enjeux numériques et des relations
+    science-société. Après plusieurs expériences en information scientifique et technique
+    et dans des projets de science ouverte, il est notamment en charge d'accompagner
+    des institutions scientifiques dans la diffusion du savoir et l'ouverture
+    des données de la recherche.
 
 ---
 Les membres de l’équipe que nous avons constituée sont tous et toutes marqués, dans leur trajectoire, par le fait d’avoir noué une relation personnelle forte à la donnée, en souhaitant la mettre au service du bien commun et du plus grand nombre, que ce soit au travers de leurs choix professionnels ou de leurs engagements personnels, qui sont souvent entremêlés. La donnée sera un outil d’empowerment ou ne sera pas.
