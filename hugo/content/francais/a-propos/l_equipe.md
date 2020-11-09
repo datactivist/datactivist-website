@@ -106,9 +106,9 @@ items:
   image: "/uploads/emeline-site.png"
 - name: Antoine Blanchard
   image: "/uploads/antoine.png"
-  email: antoine@datactivi.st
-  'We believe in open knowledge ': ''
+  email: antoine@datactivist.coop
   Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
   text: travaille depuis 15 ans à la croisée des enjeux numériques et des relations
     science-société. Après plusieurs expériences en information scientifique et technique
     et dans des projets de science ouverte, il est notamment en charge d'accompagner
