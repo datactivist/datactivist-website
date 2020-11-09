@@ -105,7 +105,7 @@ items:
     dans l'ouverture des données de la commande publique
   image: "/uploads/emeline-site.png"
 - name: Antoine Blanchard
-  image: ''
+  image: "/uploads/antoine.png"
   email: antoine@datactivi.st
   'We believe in open knowledge ': ''
   Nous croyons au savoir ouvert: ''
