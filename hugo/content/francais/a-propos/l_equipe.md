@@ -104,6 +104,19 @@ items:
     à la DAJ de Bercy. Elle est notamment en charge d'accompagner les acteurs publics
     dans l'ouverture des données de la commande publique
   image: "/uploads/emeline-site.png"
+- name: Antoine Blanchard
+  image: ''
+  email: antoine@datactivi.st
+  'We believe in open knowledge ': ''
+  Nous croyons au savoir ouvert: ''
+  text: travaille depuis 15 ans à la croisée de l'innovation numérique et des relations
+    science-société. Après plusieurs expériences en information scientifique et technique
+    (bibliométrie, brevets…), il co-fonde Deuxième labo pour accompagner les institutions
+    scientifiques dans la diffusion des savoirs. Il a ainsi publié plusieurs plaidoyers
+    sur la visibilité de la recherche française et l'ouverture des données de l'ANR.
+    Sa dernière expérience au sein du Service innovation de l'université de Bordeaux
+    l'a conduit à développer des projets de science ouverte, à s'engager dans un projet
+    Erasmus+ sur l'innovation ouverte et à participer à plusieurs communs numériques.
 
 ---
 Les membres de l’équipe que nous avons constituée sont tous et toutes marqués, dans leur trajectoire, par le fait d’avoir noué une relation personnelle forte à la donnée, en souhaitant la mettre au service du bien commun et du plus grand nombre, que ce soit au travers de leurs choix professionnels ou de leurs engagements personnels, qui sont souvent entremêlés. La donnée sera un outil d’empowerment ou ne sera pas.
