@@ -109,7 +109,7 @@ items:
   email: antoine@datactivi.st
   'We believe in open knowledge ': ''
   Nous croyons au savoir ouvert: ''
-  text: travaille depuis 15 ans à la croisée de l'innovation numérique et des relations
+  text: travaille depuis 15 ans à la croisée des enjeux numériques et des relations
     science-société. Après plusieurs expériences en information scientifique et technique
     (bibliométrie, brevets…), il co-fonde Deuxième labo pour accompagner les institutions
     scientifiques dans la diffusion des savoirs. Il a ainsi publié plusieurs plaidoyers
