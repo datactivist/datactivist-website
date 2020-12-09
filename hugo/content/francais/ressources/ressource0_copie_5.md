@@ -1,14 +1,12 @@
 ---
-title: "Lorem ipsum"
-link: "https://datactivist.coop"
-image: "/images/photo-actu.jpg"
-date: 2018-09-17T16:35:39+02:00
-tags: ["publication"]
-draft: true
-weight: 300
----
+title: Ces 10 choses incroyables qui n'existeraient pas sans l'open data
+link: https://app.livestorm.co/le-wagon-7/ces-10-choses-incroyables-qui-nexisteraient-pas-sans-lopen-data/
+image: "/uploads/capture-d-ecran-du-2020-12-09-21-36-54.png"
+date: 2018-09-17T16:35:39.000+02:00
+tags:
+- webinar
+- présentation
+weight: "300"
 
-Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+Joël Gombin présente pour le Wagon des cas d'usage de l'open data. Une introduction pédagogique à l'open data, dont on peut également récupérer \[le support\]([https://datactivist.coop/lewagon/](https://datactivist.coop/lewagon/ "https://datactivist.coop/lewagon/")).
