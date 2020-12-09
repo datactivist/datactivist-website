@@ -6,7 +6,7 @@ date: 2020-12-09T00:00:00+01:00
 tags:
 - webinar
 - présentation
-weight: "310"
+weight: "10"
 
 ---
 Joël Gombin présente pour le Wagon des cas d'usage de l'open data. Une introduction pédagogique à l'open data, dont on peut également récupérer \[le support\]([https://datactivist.coop/lewagon/](https://datactivist.coop/lewagon/ "https://datactivist.coop/lewagon/")).
