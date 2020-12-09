@@ -9,4 +9,4 @@ tags:
 weight: "10"
 
 ---
-Joël Gombin présente pour le Wagon des cas d'usage de l'open data. Une introduction pédagogique à l'open data, dont on peut également récupérer \[le support\]([https://datactivist.coop/lewagon/](https://datactivist.coop/lewagon/ "https://datactivist.coop/lewagon/")).
+Joël Gombin présente pour le Wagon des cas d'usage de l'open data. Une introduction pédagogique à l'open data, dont on peut également récupérer [le support](https://datactivist.coop/lewagon/ "le support").
