@@ -63,10 +63,10 @@ items:
   text: holds a Masters in Policital expertise and Public affairs. He works on the
     development of public policies of open data, in particular in Brazil.
   email: allyson@datactivist.coop
-  - name: Antoine Blanchard
+- name: Antoine Blanchard
   image: "/uploads/antoine.png"
-  email: antoine@datactivist.coop
   text: has been active for 15 years at the interface between digital issues, and science and society. Having worked in the field of scientific and technical information, with several open science projects under his belt, he is in charge of supporting research organizations in their outreach and open data strategies.
+  email: antoine@datactivist.coop
 
 ---
 All members of the team we gathered are marked, in their path, by having developped a strong personal link with data, that they wish to serve general good and everyone's interest. Data will be an empowerment tool or won't be.
