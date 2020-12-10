@@ -4,16 +4,6 @@ type: block_team
 date: 2018-09-17T16:35:39.000+02:00
 weight: "300"
 items:
-- name: 'Justine Banuls '
-  image: "/uploads/justine.png"
-  text: 'Après une spécialisation en droit public, Justine a rejoint Datactivist entant
-    qu''alternante dans le cadre du Master 2 Droit algorithmique et gouvernance des
-    données de l''Université de Nice. Dans le prolongement de son mémoire portant
-    sur la donnée entant que bien commun, Justine travaille maintenant pour la transparence
-    algorithmique au sein des administrations. '
-  email: justine@datactivist.coop
-  Nous croyons au savoir ouvert: ''
-  'We believe in open knowledge ': ''
 - name: Samuel Goëta
   image: "/images/samuel_hex.png"
   text: est sociologue. Sa thèse entre dans les coulisses de l'open data et interroge
@@ -124,6 +114,16 @@ items:
     et dans des projets de science ouverte, il est notamment en charge d'accompagner
     des institutions scientifiques dans la diffusion du savoir et l'ouverture des
     données de la recherche.
+- name: 'Justine Banuls '
+  image: "/uploads/justine.png"
+  text: 'Après une spécialisation en droit public, Justine a rejoint Datactivist entant
+    qu''alternante dans le cadre du Master 2 Droit algorithmique et gouvernance des
+    données de l''Université de Nice. Dans le prolongement de son mémoire portant
+    sur la donnée entant que bien commun, Justine travaille maintenant pour la transparence
+    algorithmique au sein des administrations. '
+  email: justine@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
 
 ---
 Les membres de l’équipe que nous avons constituée sont tous et toutes marqués, dans leur trajectoire, par le fait d’avoir noué une relation personnelle forte à la donnée, en souhaitant la mettre au service du bien commun et du plus grand nombre, que ce soit au travers de leurs choix professionnels ou de leurs engagements personnels, qui sont souvent entremêlés. La donnée sera un outil d’empowerment ou ne sera pas.
