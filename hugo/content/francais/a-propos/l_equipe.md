@@ -62,7 +62,7 @@ items:
     qualité des données ouvertes, au bénéfice des producteurs et des réutilisateurs.
   email: mathieu@datactivist.coop
 - name: Allyson Pallisser
-  image: "/images/allyson_hex.png"
+  image: "/uploads/ally.png"
   text: est titulaire d'un master Expertise du politique et Affaires publiques. Dans
     le prolongement de son mémoire, il travaille sur la mise en place des politiques
     publiques d'open data, notamment au Brésil.
