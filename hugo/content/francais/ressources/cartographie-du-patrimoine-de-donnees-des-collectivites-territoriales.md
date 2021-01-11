@@ -4,6 +4,6 @@ image = "/uploads/carto_donnees-v2.jpeg"
 link = "https://airtable.com/shrgaLtdXiBqLcxil"
 tags = ["banque des territoires", "territoires", "données", "cartographie"]
 title = "Cartographie du patrimoine de données des collectivités territoriales"
-weight = 350
+weight = 9
 
 +++
