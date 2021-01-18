@@ -15,7 +15,7 @@ Le site www.datactivist.coop est la propriété exclusive de la SCOP Datactivist
 
 **Datactivist**
 
-SCOP au capital de capital variable 
+SCOP au capital de capital variable
 
 Gérant : Joël Gombin
 
@@ -25,19 +25,20 @@ Immatriculée au Registre du Commerce et des Sociétés d'Aix-en-Provence sous l
 
 Numéro de TVA intracommunautaire : FR70 823 798 871
 
-Adresse de courrier électronique : hello@datactivist.coop 
- 
+Adresse de courrier électronique : hello@datactivist.coop
+
 Directeur de la  publication : Joël Gombin
 
 Contactez le responsable de la publication : joel@datactivist.coop
 
- 
 HÉBERGEMENT
 
 Le site est hébergé par [Github](https://github.com/), et généré en [Hugo](https://gohugo.io/). Le thème Datacthemist a été créé par [Pierre-Alain Leboucher](https://peh4.com/#/).
 
 MATOMO
 
-Ce site utilise [Matomo](https://fr.matomo.org/) pour analyser sa fréquentation. Vous pouvez désactiver ce suivi ci-dessous. 
+Ce site utilise [Matomo](https://fr.matomo.org/) pour analyser sa fréquentation. Vous pouvez désactiver ce suivi ci-dessous.
 
 {{< matomo-optout >}}
+
+Pour toutes vos questions concernant vos données personnelles et Datactivist : [dpo@datactivist.coop](mailto:dpo@datactivist.coop)
