@@ -37,4 +37,6 @@ weight = ""
 * Travailler sur cet ensemble de données a permis de mettre en lumière des questions de structuration, de qualité et de manières de collecter la donnée.
 * Une étape significative vers l’émergence d’une culture des données au sein de l’administration.
 
-_Les tableaux de bord sont en cours d’éditorialisation : ils seront publiés prochainement_.
+_Les tableaux de bord peuvent être explorés à cette adresse :_ [https://data.issy.com/pages/tableaux-de-bord-issy/](https://data.issy.com/pages/tableaux-de-bord-issy/ "https://data.issy.com/pages/tableaux-de-bord-issy/")
+
+![](/uploads/issy_tableaudebord.png)
