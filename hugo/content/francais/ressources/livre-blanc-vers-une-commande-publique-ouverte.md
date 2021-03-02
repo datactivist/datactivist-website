@@ -1,7 +1,7 @@
 +++
 date = 2019-06-23T22:00:00Z
 image = "/uploads/capture-d-ecran-2021-02-12-a-13-21-47.png"
-link = ": https://datactivist.coop/scope-occitanie/"
+link = "https://datactivist.coop/scope-occitanie/"
 tags = []
 title = "Livre blanc \"Vers une commande publique ouverte\""
 weight = "300"
