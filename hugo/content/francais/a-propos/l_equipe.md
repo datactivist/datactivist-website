@@ -4,13 +4,13 @@ type: block_team
 date: 2018-09-17T16:35:39.000+02:00
 weight: "300"
 items:
-- name: Guillaume Martin
+- name: Diane Thierry
   image: ''
-  text: Guillaume Martin est spécialisé en stratégie numérique publique. Il a porté
-    plusieurs projets d’envergures à la Métropole Européenne de Lille dans le domaine
-    de la ville intelligente et de l’inclusion numérique. Depuis 2019, il travaille
-    particulièrement sur l’amélioration des politiques publiques par l’ouverture et
-    l’exploitation de données. Il a rejoint Datactivist en 2021.
+  text: "Après une licence d'Economie-Gestion à l'Université de Nantes et \npassionnée
+    par l'économétrie qui lie les domaines de l'économie et des mathématiques, elle
+    se lance dans un master d'analyse de données dans cette même université. Elle
+    intègre Datactivist dans le cadre d'un stage de fin d'études en mars 2021 et découvre
+    peu à peu l'importance et les enjeux de l'open data."
   email: ''
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
@@ -132,6 +132,16 @@ items:
     sur la donnée entant que bien commun, Justine travaille maintenant pour la transparence
     algorithmique au sein des administrations. '
   email: justine@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
+- name: Guillaume Martin
+  image: ''
+  text: Guillaume Martin est spécialisé en stratégie numérique publique. Il a porté
+    plusieurs projets d’envergures à la Métropole Européenne de Lille dans le domaine
+    de la ville intelligente et de l’inclusion numérique. Depuis 2019, il travaille
+    particulièrement sur l’amélioration des politiques publiques par l’ouverture et
+    l’exploitation de données. Il a rejoint Datactivist en 2021.
+  email: ''
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 draft: true
