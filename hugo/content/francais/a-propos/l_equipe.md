@@ -144,13 +144,13 @@ items:
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 - name: Diane Thierry
-  image: ''
+  image: "/uploads/site_diane02.png"
   text: "Après une licence d'Economie-Gestion à l'Université de Nantes et \npassionnée
     par l'économétrie qui lie les domaines de l'économie et des mathématiques, elle
     se lance dans un master d'analyse de données dans cette même université. Elle
     intègre Datactivist dans le cadre d'un stage de fin d'études en mars 2021 et découvre
     peu à peu l'importance et les enjeux de l'open data."
-  email: ''
+  email: diane@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 
