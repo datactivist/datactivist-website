@@ -4,13 +4,12 @@ type: block_team
 date: 2018-09-17T16:35:39.000+02:00
 weight: "300"
 items:
-- name: Diane Thierry
+- name: Anthony Gigerich
   image: ''
-  text: "Après une licence d'Economie-Gestion à l'Université de Nantes et \npassionnée
-    par l'économétrie qui lie les domaines de l'économie et des mathématiques, elle
-    se lance dans un master d'analyse de données dans cette même université. Elle
-    intègre Datactivist dans le cadre d'un stage de fin d'études en mars 2021 et découvre
-    peu à peu l'importance et les enjeux de l'open data."
+  text: Actuellement en Master 2 Intelligence Artificielle et Apprentissage Automatique
+    à l'université d'Aix-Marseille, Anthony a rejoint Datactivist en tant que stagiaire
+    sous l'encadrement de Mathieu. Son principal rôle est d'aider ce dernier à développer
+    différents outils permettant d'améliorer l'accessibilité aux données.
   email: ''
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
@@ -141,6 +140,16 @@ items:
     de la ville intelligente et de l’inclusion numérique. Depuis 2019, il travaille
     particulièrement sur l’amélioration des politiques publiques par l’ouverture et
     l’exploitation de données. Il a rejoint Datactivist en 2021.
+  email: ''
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
+- name: Diane Thierry
+  image: ''
+  text: "Après une licence d'Economie-Gestion à l'Université de Nantes et \npassionnée
+    par l'économétrie qui lie les domaines de l'économie et des mathématiques, elle
+    se lance dans un master d'analyse de données dans cette même université. Elle
+    intègre Datactivist dans le cadre d'un stage de fin d'études en mars 2021 et découvre
+    peu à peu l'importance et les enjeux de l'open data."
   email: ''
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
