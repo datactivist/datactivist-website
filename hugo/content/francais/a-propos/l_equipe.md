@@ -135,12 +135,12 @@ items:
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 - name: Anthony Gigerich
-  image: ''
+  image: "/uploads/site_anthony01.png"
   text: Actuellement en Master 2 Intelligence Artificielle et Apprentissage Automatique
     à l'université d'Aix-Marseille, Anthony a rejoint Datactivist en tant que stagiaire
     sous l'encadrement de Mathieu. Son principal rôle est d'aider ce dernier à développer
     différents outils permettant d'améliorer l'accessibilité aux données.
-  email: ''
+  email: anthony@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 - name: Diane Thierry
