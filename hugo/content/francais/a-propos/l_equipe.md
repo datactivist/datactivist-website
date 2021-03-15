@@ -4,15 +4,6 @@ type: block_team
 date: 2018-09-17T16:35:39.000+02:00
 weight: "300"
 items:
-- name: Anthony Gigerich
-  image: ''
-  text: Actuellement en Master 2 Intelligence Artificielle et Apprentissage Automatique
-    à l'université d'Aix-Marseille, Anthony a rejoint Datactivist en tant que stagiaire
-    sous l'encadrement de Mathieu. Son principal rôle est d'aider ce dernier à développer
-    différents outils permettant d'améliorer l'accessibilité aux données.
-  email: ''
-  Nous croyons au savoir ouvert: ''
-  'We believe in open knowledge ': ''
 - name: Samuel Goëta
   image: "/images/samuel_hex.png"
   text: est sociologue. Sa thèse entre dans les coulisses de l'open data et interroge
@@ -134,12 +125,21 @@ items:
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 - name: Guillaume Martin
-  image: ''
+  image: "/uploads/site_gui.png"
   text: Guillaume Martin est spécialisé en stratégie numérique publique. Il a porté
     plusieurs projets d’envergures à la Métropole Européenne de Lille dans le domaine
     de la ville intelligente et de l’inclusion numérique. Depuis 2019, il travaille
     particulièrement sur l’amélioration des politiques publiques par l’ouverture et
     l’exploitation de données. Il a rejoint Datactivist en 2021.
+  email: guillaume@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
+- name: Anthony Gigerich
+  image: ''
+  text: Actuellement en Master 2 Intelligence Artificielle et Apprentissage Automatique
+    à l'université d'Aix-Marseille, Anthony a rejoint Datactivist en tant que stagiaire
+    sous l'encadrement de Mathieu. Son principal rôle est d'aider ce dernier à développer
+    différents outils permettant d'améliorer l'accessibilité aux données.
   email: ''
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
@@ -153,7 +153,6 @@ items:
   email: ''
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
-draft: true
 
 ---
 Les membres de l’équipe que nous avons constituée sont tous et toutes marqués, dans leur trajectoire, par le fait d’avoir noué une relation personnelle forte à la donnée, en souhaitant la mettre au service du bien commun et du plus grand nombre, que ce soit au travers de leurs choix professionnels ou de leurs engagements personnels, qui sont souvent entremêlés. La donnée sera un outil d’empowerment ou ne sera pas.
