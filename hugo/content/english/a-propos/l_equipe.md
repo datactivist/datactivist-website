@@ -63,9 +63,21 @@ items:
   text: holds a Masters in Policital expertise and Public affairs. He works on the
     development of public policies of open data, in particular in Brazil.
   email: allyson@datactivist.coop
+- name: Julia Dumont
+  image: "/images/julia_hex.png"
+  text: History and Geography teacher and also digital trainer for teachers for 10
+    years, she used data as educational material. Firmly believing in the emancipatory
+    power of data, she contributes to the democratization of their uses to promote
+    the emergence of a learning society.
+  email: julia@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
 - name: Antoine Blanchard
   image: "/uploads/antoine.png"
-  text: has been active for 15 years at the interface between digital issues, and science and society. Having worked in the field of scientific and technical information, with several open science projects under his belt, he is in charge of supporting research organizations in their outreach and open data strategies.
+  text: has been active for 15 years at the interface between digital issues, and
+    science and society. Having worked in the field of scientific and technical information,
+    with several open science projects under his belt, he is in charge of supporting
+    research organizations in their outreach and open data strategies.
   email: antoine@datactivist.coop
 
 ---
