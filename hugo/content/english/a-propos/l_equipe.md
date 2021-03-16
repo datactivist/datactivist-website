@@ -4,16 +4,6 @@ type: block_team
 date: 2018-09-17T14:35:39.000+00:00
 weight: "300"
 items:
-- name: Diane Thierry
-  image: "/uploads/site_diane02.png"
-  text: 'After a degree in Economics-Management at the University of Nantes and passionate
-    by econometrics which links economics and mathematics, she embarked on a master''s
-    degree in data analysis at the same university. She joined Datactivist as part
-    of an end-of-studies internship in March 2021 and gradually discovers the importance
-    and challenges of open data. '
-  email: diane@datactivist.coop
-  Nous croyons au savoir ouvert: ''
-  'We believe in open knowledge ': ''
 - name: Samuel Goëta
   image: "/images/samuel_hex.png"
   text: is a researcher in social science. His PhD dissertation looks at the hidden
@@ -96,6 +86,16 @@ items:
     Lille (France). Since 2019, he worked particularly on improving public policies
     with data. He joined Datactivist in 2021.
   email: guillaume@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
+- name: Diane Thierry
+  image: "/uploads/site_diane02.png"
+  text: 'After a degree in Economics-Management at the University of Nantes and passionate
+    by econometrics which links economics and mathematics, she embarked on a master''s
+    degree in data analysis at the same university. She joined Datactivist as part
+    of an end-of-studies internship in March 2021 and gradually discovers the importance
+    and challenges of open data. '
+  email: diane@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 
