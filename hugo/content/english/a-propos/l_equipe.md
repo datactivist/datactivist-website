@@ -4,15 +4,6 @@ type: block_team
 date: 2018-09-17T14:35:39.000+00:00
 weight: "300"
 items:
-- name: Guillaume Martin
-  image: "/uploads/site_gui.png"
-  text: Guillaume Martin is specialized on digital strategy for administrations and
-    cities. He was in charge of several smart city projects for the metropolis of
-    Lille (France). Since 2019, he worked particularly on improving public policies
-    with data. He joined Datactivist in 2021.
-  email: guillaume@datactivist.coop
-  Nous croyons au savoir ouvert: ''
-  'We believe in open knowledge ': ''
 - name: Samuel Goëta
   image: "/images/samuel_hex.png"
   text: is a researcher in social science. His PhD dissertation looks at the hidden
@@ -88,6 +79,15 @@ items:
     with several open science projects under his belt, he is in charge of supporting
     research organizations in their outreach and open data strategies.
   email: antoine@datactivist.coop
+- name: Guillaume Martin
+  image: "/uploads/site_gui.png"
+  text: Guillaume Martin is specialized on digital strategy for administrations and
+    cities. He was in charge of several smart city projects for the metropolis of
+    Lille (France). Since 2019, he worked particularly on improving public policies
+    with data. He joined Datactivist in 2021.
+  email: guillaume@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
 
 ---
 All members of the team we gathered are marked, in their path, by having developped a strong personal link with data, that they wish to serve general good and everyone's interest. Data will be an empowerment tool or won't be.
