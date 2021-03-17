@@ -4,6 +4,14 @@ type: block_team
 date: 2018-09-17T14:35:39.000+00:00
 weight: "300"
 items:
+- name: Anne-Laure Donzel
+  image: "/uploads/anne-laure.png"
+  text: "She has a record manager and archivist formation. She was in charge of several
+    digital preservation projects in public sector. She also was data protection officer.\nShe
+    is particulary interested in lifecycle management, data protection and GLAM projects. "
+  email: annelaure@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
 - name: Samuel Goëta
   image: "/images/samuel_hex.png"
   text: is a researcher in social science. His PhD dissertation looks at the hidden
