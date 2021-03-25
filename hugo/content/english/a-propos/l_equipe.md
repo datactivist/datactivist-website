@@ -4,6 +4,15 @@ type: block_team
 date: 2018-09-17T14:35:39.000+00:00
 weight: "300"
 items:
+- name: Stéphanie Trichard
+  image: "/uploads/stephanie.png"
+  text: Since 1999, she has assumed various positions in the development and support
+    of projects in the cultural field and in the social and solidarity economy. With
+    this experience and a master's degree in management, she has built her career
+    and her teaching by defending unique, innovative and meaningful projects.
+  email: stephanie@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
 - name: Samuel Goëta
   image: "/images/samuel_hex.png"
   text: is a researcher in social science. His PhD dissertation looks at the hidden
