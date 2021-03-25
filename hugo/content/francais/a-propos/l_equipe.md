@@ -65,9 +65,8 @@ items:
   image: "/uploads/ally.png"
   text: est titulaire d’un master Expertise du politique et Affaires publiques à l’Université
     de Nice. Chez Datactivist il aide des acteurs divers dans ses démarches d’ouverture
-    et réutilisation des données, tant en France quant à l’étranger. Allyson s’intéresse
-    spécialement par le rôle de la data dans la construction des villes intelligentes
-    et humaines.
+    et réutilisation des données en France et à l’étranger. Allyson s’intéresse spécialement
+    par le rôle de la data dans la construction des villes intelligentes et humaines.
   email: allyson@datactivist.coop
 - name: Julia Dumont
   image: "/images/julia_hex.png"
