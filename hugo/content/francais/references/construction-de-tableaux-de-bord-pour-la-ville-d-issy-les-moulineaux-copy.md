@@ -20,7 +20,8 @@ weight = "300"
 
 ## Approche adoptée
 
-Datactivist a accompagné l’organisation d’un événement permettant à l’ensemble des acteurs du secteur de construire un futur souhaitable partagé. Il s'est tenu à Toulouse le 4 juin 2019 et a notamment réuni des acheteurs publics, des éditeurs de profils d’acheteurs, des représentants d’entreprises candidates aux marchés publics, des représentants institutionnels (DAJ, Etalab, SGAR, collectivités territoriales...) ainsi que des experts (juridiques, techniques, des données ouvertes...)
+* Datactivist a accompagné l’organisation d’un événement permettant à l’ensemble des acteurs du secteur de construire un futur souhaitable partagé. Il s'est tenu à Toulouse le 4 juin 2019 et a notamment réuni des acheteurs publics, des éditeurs de profils d’acheteurs, des représentants d’entreprises candidates aux marchés publics, des représentants institutionnels (DAJ, Etalab, SGAR, collectivités territoriales...) ainsi que des experts (juridiques, techniques, des données ouvertes...)
+
 
 * Les objectifs de l’événement étaient :
   * Réunir des acteurs issus de divers secteurs et peu habitués à communiquer ensemble autour des enjeux économiques et techniques liés à l’ouverture des données de marché.
