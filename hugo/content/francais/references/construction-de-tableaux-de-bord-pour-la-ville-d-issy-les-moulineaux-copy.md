@@ -35,5 +35,3 @@ Datactivist a accompagné l’organisation d’un événement permettant à l’
 * Plus de 50 participants au forum sur la commande publique en Occitanie
 * Reprise de l'évènement dans _Le Moniteur_, média de référence sur la commande publique, à travers [un article](https://www.lemoniteur.fr/article/la-difficile-ouverture-des-donnees-de-la-commande-publique.2041825) et [une tribune](https://www.lemoniteur.fr/article/acheteurs-publics-osez-une-commande-publique-plus-ouverte.2128174)
 * La production d'un livre blanc de référence "Vers une commande publique ouverte" qui synthétise les obstacles à l'ouverture des données de la commande publique, présente 5 futurs souhaitables et propose 8 préconisations. A consulter à l'adresse suivante : [https://datactivist.coop/scope-occitanie](https://datactivist.coop/scope-occitanie "https://datactivist.coop/scope-occitanie")
-
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="[https://aperi.tube/videos/embed/fd8f466c-21e2-4a39-8e8d-75a0b1de5120](https://datactivist.coop/scope-occitanie "https://datactivist.coop/scope-occitanie")" frameborder="0" allowfullscreen></iframe>
