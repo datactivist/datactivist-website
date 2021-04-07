@@ -4,7 +4,7 @@ draft = true
 image = "/uploads/tableaux_bord_Issy-1.png"
 longTitle = "Construction de tableaux de bord dynamiques s’alimentant de données provenant du portail open data de la ville d'Issy-les-Moulineaux"
 projects = ["collectivites"]
-title = "Construction de tableaux de bord pour la ville d'Issy les Moulineaux-(copy)"
+title = "Événement SCOPE Consult \t"
 topAnswer = "4 mois"
 topPicto = ""
 topQuestion = "Durée de l'intervention ![Fleche vers la droite](/images/white-dotted-arrow.svg)"
@@ -15,29 +15,26 @@ weight = "300"
 
 ## Contexte
 
-* Issy-les-Moulineaux est une ville pionnière en France en matière d’ouverture de données. Elle a ouvert un portail en 2012, et l’alimente régulièrement en nouvelles données.
-* Dans la plupart des administrations, les différents services maintiennent des tableaux de suivis de leur activité. Problème : ces tableaux sont dans des formats différents selon les services. Chaque année, les indicateurs sont à recalculer, et donc le travail de mise à jour prend du temps.
-* La ville d’Issy-les-Moulineaux s’est donc lancée dans un premier projet de standardisation de données, avec comme objectif concret de construire des tableaux de bord partagés et actualisés automatiquement.
-* **L'objectif : faciliter la remontée des données, éviter les doublons de saisies, et permettre aux élus, aux agents et aux citoyens d’accéder en toute simplicité à des indicateurs détaillés sur les services de la ville.**
+* Le projet SCOPE (Source de la Commande publique Ouverte Pour les Entreprises), lauréat en 2017 d’un financement PIA, avait pour ambition de créer à l’échelle d’une région une plateforme ouverte de diffusion et d’échange d’informations relatives aux marchés publics d’Occitanie. Cette ambition concrète est pensée en lien avec une vision prospective de l’ouverture des données des consultations.
 
 ![Picto outils](/images/tools.svg)
 
 ## Approche adoptée
 
-* Formation et ateliers avec les 7 services pilotes pour partager la stratégie et collecter des données
-* Prototypage des tableaux de bord avec les services
-* Cartographie des données à utiliser
-* Structuration et formatage et publication de 50 jeux de données qui alimentent les tableaux de bord
-* Rédaction d’un guide méthodologique, publié sous la forme d’un billet de blog
+Datactivist a accompagné l’organisation d’un événement permettant à l’ensemble des acteurs du secteur de construire un futur souhaitable partagé. Il s'est tenu à Toulouse le 4 juin 2019 et a notamment réuni des acheteurs publics, des éditeurs de profils d’acheteurs, des représentants d’entreprises candidates aux marchés publics, des représentants institutionnels (DAJ, Etalab, SGAR, collectivités territoriales...) ainsi que des experts (juridiques, techniques, des données ouvertes...)
+
+* Les objectifs de l’événement étaient :
+  * Réunir des acteurs issus de divers secteurs et peu habitués à communiquer ensemble autour des enjeux économiques et techniques liés à l’ouverture des données de marché.
+  * Dans une atmosphère collaborative et constructive, donner la possibilité aux différentes parties prenantes d’exprimer leurs intérêts et réticences sur l’ouverture des données des dossiers de consultation et sur les standards de publication de ces données.
+  * Identifier et cartographier les points de tensions qui freinent le consensus et la prise de décision entre les différents acteurs.
+  * Faire entrevoir de nouvelles perspectives d’entente et de collaboration entre les différentes parties prenantes en matière de politique de partage de données et de développement économique.
 
 ![Picto Soleil loupe](/images/search-sun.svg)
 
 ## Résultats obtenus
 
-* La données est apparue comme un réel vecteur de changement de méthode et de partage de l’information, qui bénéficie à toute la collectivité et à ses administrés.
-* Travailler sur cet ensemble de données a permis de mettre en lumière des questions de structuration, de qualité et de manières de collecter la donnée.
-* Une étape significative vers l’émergence d’une culture des données au sein de l’administration.
+* Plus de 50 participants au forum sur la commande publique en Occitanie
+* Reprise de l'évènement dans _Le Moniteur_, média de référence sur la commande publique, à travers [un article](https://www.lemoniteur.fr/article/la-difficile-ouverture-des-donnees-de-la-commande-publique.2041825) et [une tribune](https://www.lemoniteur.fr/article/acheteurs-publics-osez-une-commande-publique-plus-ouverte.2128174)
+* La production d'un livre blanc de référence "Vers une commande publique ouverte" qui synthétise les obstacles à l'ouverture des données de la commande publique, présente 5 futurs souhaitables et propose 8 préconisations. A consulter à l'adresse suivante : [https://datactivist.coop/scope-occitanie](https://datactivist.coop/scope-occitanie "https://datactivist.coop/scope-occitanie")
 
-_Les tableaux de bord peuvent être explorés à cette adresse :_ [https://data.issy.com/pages/tableaux-de-bord-issy/](https://data.issy.com/pages/tableaux-de-bord-issy/ "https://data.issy.com/pages/tableaux-de-bord-issy/")
-
-![](/uploads/issy_tableaudebord.png)
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="[https://aperi.tube/videos/embed/fd8f466c-21e2-4a39-8e8d-75a0b1de5120](https://datactivist.coop/scope-occitanie "https://datactivist.coop/scope-occitanie")" frameborder="0" allowfullscreen></iframe>
