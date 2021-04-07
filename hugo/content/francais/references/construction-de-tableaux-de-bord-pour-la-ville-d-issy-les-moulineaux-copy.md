@@ -1,6 +1,5 @@
 +++
 date = 2019-07-31T22:00:00Z
-draft = true
 image = "/uploads/tableaux_bord_Issy-1.png"
 longTitle = "Construction de tableaux de bord dynamiques s’alimentant de données provenant du portail open data de la ville d'Issy-les-Moulineaux"
 projects = ["collectivites"]
