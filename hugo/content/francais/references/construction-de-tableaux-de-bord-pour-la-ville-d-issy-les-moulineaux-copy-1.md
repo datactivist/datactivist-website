@@ -2,9 +2,9 @@
 date = 2019-07-31T22:00:00Z
 draft = true
 image = "/uploads/tableaux_bord_Issy-1.png"
-longTitle = "Construction de tableaux de bord dynamiques s’alimentant de données provenant du portail open data de la ville d'Issy-les-Moulineaux"
+longTitle = "Organisation et animation de la Dataweek"
 projects = ["collectivites"]
-title = "Construction de tableaux de bord pour la ville d'Issy les Moulineaux-(copy)"
+title = "Organisation et animation de la Dataweek"
 topAnswer = "4 mois"
 topPicto = ""
 topQuestion = "Durée de l'intervention ![Fleche vers la droite](/images/white-dotted-arrow.svg)"
