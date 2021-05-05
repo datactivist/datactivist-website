@@ -4,15 +4,6 @@ type: block_team
 date: 2018-09-17T14:35:39.000+00:00
 weight: "300"
 items:
-- name: 'Justine Banuls '
-  image: "/uploads/justine.png"
-  text: "After an administrative law second university cycle, Justine joined Datactivist
-    on a work-study basis, in parallel with a Master’s 2 in Nice, specialised in algorithmic
-    law and data governance.\nIn line with her thesis on data as a common, Justine
-    is currently striving for algorithmic transparency in the public administration. "
-  email: justine@datactivist.coop
-  Nous croyons au savoir ouvert: ''
-  'We believe in open knowledge ': ''
 - name: Samuel Goëta
   image: "/images/samuel_hex.png"
   text: is a researcher in social science. His PhD dissertation looks at the hidden
@@ -105,6 +96,15 @@ items:
     with several open science projects under his belt, he is in charge of supporting
     research organizations in their outreach and open data strategies.
   email: antoine@datactivist.coop
+- name: 'Justine Banuls '
+  image: "/uploads/justine.png"
+  text: "After an administrative law second university cycle, Justine joined Datactivist
+    on a work-study basis, in parallel with a Master’s 2 in Nice, specialised in algorithmic
+    law and data governance.\nIn line with her thesis on data as a common, Justine
+    is currently striving for algorithmic transparency in the public administration. "
+  email: justine@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
 - name: Guillaume Martin
   image: "/uploads/site_gui.png"
   text: Guillaume Martin is specialized on digital strategy for administrations and
