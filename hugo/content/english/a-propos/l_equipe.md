@@ -98,10 +98,9 @@ items:
   email: antoine@datactivist.coop
 - name: 'Justine Banuls '
   image: "/uploads/justine.png"
-  text: "After an administrative law second university cycle, Justine joined Datactivist
-    on a work-study basis, in parallel with a Master’s 2 in Nice, specialised in algorithmic
-    law and data governance.\nIn line with her thesis on data as a common, Justine
-    is currently striving for algorithmic transparency in the public administration. "
+  text: |-
+    After an administrative law second university cycle, Justine joined Datactivist on a work-study basis, in parallel with a Master’s 2 in Nice, specialised in algorithmic law and data governance.
+    In line with her thesis on data as a common, Justine is currently striving for algorithmic transparency in the public administration.
   email: justine@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
