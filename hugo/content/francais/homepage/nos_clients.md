@@ -17,6 +17,7 @@ images:
 - CFI: "/images/logos/logos_10.png"
 - Open Contracting Partnership: "/images/logos/logos_11.png"
 - Open Government Partnership: "/images/logos/logos_12.png"
+draft: true
 
 ---
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrTeVVWV1gqdLBAb?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
