@@ -30,6 +30,7 @@ fields:
   name: topPicto
   label: topPicto
 pages:
+- hugo/content/francais/references/actions-de-cooperation-du-programme-smart-city-au-bresil-pour-l-afd-copy.md
 - hugo/content/francais/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux-copy-1.md
 - hugo/content/francais/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux-copy.md
 - hugo/content/francais/references/construction-de-tableaux-de-bord-pour-la-ville-d-issy-les-moulineaux.md
