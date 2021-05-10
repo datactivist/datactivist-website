@@ -1,6 +1,5 @@
 +++
 date = 2021-05-09T22:00:00Z
-draft = true
 image = "/uploads/tableaux_bord_Issy-1.png"
 longTitle = "Accompagnement open data du Conseil départemental de Haute-Garonne"
 projects = ["collectivites"]
