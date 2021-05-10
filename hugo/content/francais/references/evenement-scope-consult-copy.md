@@ -1,11 +1,11 @@
 +++
 date = 2019-07-31T22:00:00Z
 draft = true
-image = "/uploads/tableaux_bord_Issy-1.png"
-longTitle = "Construction de tableaux de bord dynamiques s’alimentant de données provenant du portail open data de la ville d'Issy-les-Moulineaux"
-projects = ["collectivites"]
-title = "Événement SCOPE Consult \t-(copy)"
-topAnswer = "4 mois"
+image = ""
+longTitle = "Accompagnement de l’Agence de Mutualisation des Universités et Établissements (AMUE) dans sa stratégie open data"
+projects = ["administrations"]
+title = "Accompagnement open data"
+topAnswer = "12 mois"
 topPicto = ""
 topQuestion = "Durée de l'intervention ![Fleche vers la droite](/images/white-dotted-arrow.svg)"
 weight = "300"
@@ -15,25 +15,23 @@ weight = "300"
 
 ## Contexte
 
-* Le projet SCOPE (Source de la Commande publique Ouverte Pour les Entreprises), lauréat en 2017 d’un financement PIA, avait pour ambition de créer à l’échelle d’une région une plateforme ouverte de diffusion et d’échange d’informations relatives aux marchés publics d’Occitanie. Cette ambition concrète est pensée en lien avec une vision prospective de l’ouverture des données des consultations.
+* Datactivist accompagne l’Agence de Mutualisation des Universités et Établissements (AMUE) dans sa stratégie open data. Le projet comporte quelques objectifs spécifiques, comme animer et coordonner une stratégie commune pour les Universités ; outiller ces établissements techniquement d’un portail mutualisé ; et enfin, sensibiliser et former les agents en charge du projet. La sensibilisation a été choisie comme prioritaire pour le démarrage du projet.
 
 ![Picto outils](/images/tools.svg)
 
 ## Approche adoptée
 
-* Datactivist a accompagné l’organisation d’un événement permettant à l’ensemble des acteurs du secteur de construire un futur souhaitable partagé. Il s'est tenu à Toulouse le 4 juin 2019 et a notamment réuni des acheteurs publics, des éditeurs de profils d’acheteurs, des représentants d’entreprises candidates aux marchés publics, des représentants institutionnels (DAJ, Etalab, SGAR, collectivités territoriales...) ainsi que des experts (juridiques, techniques, des données ouvertes...)
+Deux approches ont été choisies, la production de documents de sensibilisation à l’ouverture des données et la réalisation d’un événement d’un jour dans le même objectif :
 
-
-* Les objectifs de l’événement étaient :
-  * Réunir des acteurs issus de divers secteurs et peu habitués à communiquer ensemble autour des enjeux économiques et techniques liés à l’ouverture des données de marché.
-  * Dans une atmosphère collaborative et constructive, donner la possibilité aux différentes parties prenantes d’exprimer leurs intérêts et réticences sur l’ouverture des données des dossiers de consultation et sur les standards de publication de ces données.
-  * Identifier et cartographier les points de tensions qui freinent le consensus et la prise de décision entre les différents acteurs.
-  * Faire entrevoir de nouvelles perspectives d’entente et de collaboration entre les différentes parties prenantes en matière de politique de partage de données et de développement économique.
+* Structuration de l’événement, définition du programme et des temps forts ;
+* Sélection et prise de contact avec des intervenants extérieurs ;
+* Accompagnement lors de l’événement ;
+* Production des slides, supports de formation et d’un livret dans le but de sensibiliser ces acteurs.
 
 ![Picto Soleil loupe](/images/search-sun.svg)
 
 ## Résultats obtenus
 
-* Plus de 50 participants au forum sur la commande publique en Occitanie
-* Reprise de l'évènement dans _Le Moniteur_, média de référence sur la commande publique, à travers [un article](https://www.lemoniteur.fr/article/la-difficile-ouverture-des-donnees-de-la-commande-publique.2041825) et [une tribune](https://www.lemoniteur.fr/article/acheteurs-publics-osez-une-commande-publique-plus-ouverte.2128174)
-* La production d'un livre blanc de référence "Vers une commande publique ouverte" qui synthétise les obstacles à l'ouverture des données de la commande publique, présente 5 futurs souhaitables et propose 8 préconisations. A consulter à l'adresse suivante : [https://datactivist.coop/scope-occitanie](https://datactivist.coop/scope-occitanie "https://datactivist.coop/scope-occitanie")
+* Réalisation d’un événement de sensibilisation à l’open data, définition d’un programme et des temps forts ;
+* Construction d’une feuille de route open data pour l’enseignement supérieur ;
+* Production d’un livrable intitulé « les essentiels d’une démarche d’ouverture des données ».
