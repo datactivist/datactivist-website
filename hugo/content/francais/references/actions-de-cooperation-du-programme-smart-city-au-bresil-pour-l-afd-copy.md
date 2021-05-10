@@ -1,6 +1,5 @@
 +++
 date = 2021-01-31T23:00:00Z
-draft = true
 image = ""
 longTitle = "Cycle d’ateliers de co-construction pour faire émerger trois projets autour de la donnée ouverte"
 projects = ["cooperation_internationale"]
