@@ -1,6 +1,5 @@
 +++
 date = 2019-07-31T22:00:00Z
-draft = true
 image = ""
 longTitle = "Accompagnement de l’Agence de Mutualisation des Universités et Établissements (AMUE) dans sa stratégie open data"
 projects = ["administrations"]
