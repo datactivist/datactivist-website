@@ -63,10 +63,11 @@ items:
   email: mathieu@datactivist.coop
 - name: Allyson Pallisser
   image: "/uploads/ally.png"
-  text: est titulaire d’un master Expertise du politique et Affaires publiques à l’Université
-    de Nice. Chez Datactivist il aide des acteurs divers dans ses démarches d’ouverture
-    et réutilisation des données en France et à l’étranger. Allyson s’intéresse spécialement
-    par le rôle de la data dans la construction des villes intelligentes et humaines.
+  text: est titulaire d’un master Expertise du politique et Affaires publiques de
+    l’Université de Nice. Chez Datactivist il aide des acteurs divers dans leurs démarches
+    d’ouverture et de réutilisation des données en France et à l’étranger. Allyson
+    s’intéresse spécialement au rôle de la data dans la construction des villes intelligentes
+    et durables.
   email: allyson@datactivist.coop
 - name: Julia Dumont
   image: "/images/julia_hex.png"
