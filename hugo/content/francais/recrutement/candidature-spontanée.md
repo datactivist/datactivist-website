@@ -8,7 +8,6 @@ title: Candidature spontanée
 topPicto: ''
 topRubrique: Candidature spontanée
 weight: 1
-draft: true
 
 ---
 ## L'entreprise
