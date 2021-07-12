@@ -1,6 +1,6 @@
 +++
 date = 2019-07-31T22:00:00Z
-image = "/uploads/logo_amue.png"
+image = "/uploads/scope.png"
 longTitle = "Evenement SCOPE Consult"
 projects = ["collectivites"]
 title = "Événement SCOPE Consult \t"
