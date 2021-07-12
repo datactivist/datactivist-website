@@ -1,6 +1,6 @@
 +++
 date = 2019-07-31T22:00:00Z
-image = "/uploads/tableaux_bord_Issy-1.png"
+image = "/uploads/dataweek.png"
 longTitle = "Organisation et animation de la Dataweek"
 projects = ["collectivites"]
 title = "Organisation et animation de la Dataweek"
