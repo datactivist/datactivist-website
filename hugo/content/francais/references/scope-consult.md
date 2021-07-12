@@ -1,7 +1,7 @@
 +++
 date = 2019-07-31T22:00:00Z
-image = "/uploads/tableaux_bord_Issy-1.png"
-longTitle = "Construction de tableaux de bord dynamiques s’alimentant de données provenant du portail open data de la ville d'Issy-les-Moulineaux"
+image = "/uploads/logo_amue.png"
+longTitle = "Evenement SCOPE Consult"
 projects = ["collectivites"]
 title = "Événement SCOPE Consult \t"
 topAnswer = "4 mois"
