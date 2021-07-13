@@ -1,6 +1,6 @@
 +++
 date = 2021-05-09T22:00:00Z
-image = "/uploads/hg.png"
+image = "/uploads/hg-1.png"
 longTitle = "Accompagnement open data du Conseil départemental de Haute-Garonne"
 projects = ["collectivites"]
 title = "Accompagnement open data du Conseil départemental de Haute-Garonne"

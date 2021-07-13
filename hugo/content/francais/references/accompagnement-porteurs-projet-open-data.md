@@ -1,6 +1,6 @@
 +++
 date = 2021-01-31T23:00:00Z
-image = "/uploads/odeon3.png"
+image = "/uploads/odeon3-1.png"
 longTitle = "Cycle d’ateliers de co-construction pour faire émerger trois projets autour de la donnée ouverte"
 projects = ["cooperation_internationale"]
 title = "Accompagnement de porteurs de projets open data"
