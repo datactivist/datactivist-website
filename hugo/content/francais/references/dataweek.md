@@ -1,6 +1,5 @@
 +++
 date = 2019-07-31T22:00:00Z
-draft = true
 image = "/uploads/dataweek.png"
 longTitle = "Organisation et animation de la Dataweek"
 projects = ["collectivites"]
@@ -15,29 +14,26 @@ weight = "300"
 
 ## Contexte
 
-* Issy-les-Moulineaux est une ville pionnière en France en matière d’ouverture de données. Elle a ouvert un portail en 2012, et l’alimente régulièrement en nouvelles données.
-* Dans la plupart des administrations, les différents services maintiennent des tableaux de suivis de leur activité. Problème : ces tableaux sont dans des formats différents selon les services. Chaque année, les indicateurs sont à recalculer, et donc le travail de mise à jour prend du temps.
-* La ville d’Issy-les-Moulineaux s’est donc lancée dans un premier projet de standardisation de données, avec comme objectif concret de construire des tableaux de bord partagés et actualisés automatiquement.
-* **L'objectif : faciliter la remontée des données, éviter les doublons de saisies, et permettre aux élus, aux agents et aux citoyens d’accéder en toute simplicité à des indicateurs détaillés sur les services de la ville.**
+Le Secrétariat général pour les affaires régionales PACA, a créé au printemps 2018, un groupe de travail régional réunissant les services de l’État en Provence Alpes Côte d’Azur. Une des actions proposées par ce groupe de travail était d’organiser un événement des services de l’État. L’objectif était double : concrétiser le travail préparatoire du CRIGE sur l’opération de « moissonnage » des données ouvertes des services de l’État, et soutenir les entreprises, startups, laboratoires, étudiants, en les encourageant à développer de nouveaux services innovants, commerciaux ou non.
 
 ![Picto outils](/images/tools.svg)
 
 ## Approche adoptée
 
-* Formation et ateliers avec les 7 services pilotes pour partager la stratégie et collecter des données
-* Prototypage des tableaux de bord avec les services
-* Cartographie des données à utiliser
-* Structuration et formatage et publication de 50 jeux de données qui alimentent les tableaux de bord
-* Rédaction d’un guide méthodologique, publié sous la forme d’un billet de blog
+  
+L’approche de l’événement choisi était un format fédérateur dans la mesure où, durant les quatre jours, la Dataweek a permis à une multiplicité d’organismes (publiques et privés) d’être sur place, ainsi qu’à des acteurs des différents champs. L’approche choisie comprenait:
+
+* Une journée formation, avec le partage des “meilleures pratiques” en open data de Datactivist et des collectivités territoriales présentes ;
+* Une journée des conférences, où des tables rondes ont discuté des multiples thèmes autour de l’open data avec la participation d’une série de structures, comme l’INSEE, le projet ODEON, l’Agence locale de l’énergie et du climat et autres ;
+* Enfin, lors de deux dernières journées de Dataweek, un hackathon a rassemblé les développeurs de la région dans l’objectif de proposer une application à partir des données des institutions participantes. Plus de quatre-vingts personnes ont participé à l’événement divisé en huit équipes.
 
 ![Picto Soleil loupe](/images/search-sun.svg)
 
 ## Résultats obtenus
 
-* La données est apparue comme un réel vecteur de changement de méthode et de partage de l’information, qui bénéficie à toute la collectivité et à ses administrés.
-* Travailler sur cet ensemble de données a permis de mettre en lumière des questions de structuration, de qualité et de manières de collecter la donnée.
-* Une étape significative vers l’émergence d’une culture des données au sein de l’administration.
-
-_Les tableaux de bord peuvent être explorés à cette adresse :_ [https://data.issy.com/pages/tableaux-de-bord-issy/](https://data.issy.com/pages/tableaux-de-bord-issy/ "https://data.issy.com/pages/tableaux-de-bord-issy/")
-
-![](/uploads/issy_tableaudebord.png)
+* Huit projets ambitieux présentés en session de clôture ;
+* Une utilisation concrète des données ;
+* Pour les agents : un rapprochement des réutilisateurs des données ;
+* Partage des savoirs-faire et bonnes pratiques en matière d’ouverture des données entre agents de l’État ;
+* Une action de sensibilisation et d’acculturation au travail de la donnée ;
+* Une rencontre avec des entrepreneurs locaux et réutilisateurs de données.
