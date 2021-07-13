@@ -1,5 +1,6 @@
 +++
 date = 2019-07-31T22:00:00Z
+draft = true
 image = "/uploads/dataweek.png"
 longTitle = "Organisation et animation de la Dataweek"
 projects = ["collectivites"]
