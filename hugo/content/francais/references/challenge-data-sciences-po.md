@@ -1,6 +1,6 @@
 +++
 date = 2019-07-31T22:00:00Z
-image = "/uploads/challenge-data.jpeg"
+image = "/uploads/challenge-data-1.jpeg"
 longTitle = "Challenge Data à Sciences Po Saint-Germain-en-Laye"
 projects = ["collectivites"]
 title = "Challenge Data à Sciences Po Saint-Germain-en-Laye"
