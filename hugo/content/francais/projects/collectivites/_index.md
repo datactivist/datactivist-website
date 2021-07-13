@@ -1,4 +1,5 @@
 ---
-title: "Collectivités Locales"
+title: Collectivités Territoriales
 color: "#173541"
+
 ---
