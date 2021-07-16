@@ -1,5 +1,5 @@
 ---
-title: Accompagnement de la Région Occitanie sur l'open data et l'animation territoriale
+title: Région Occitanie - Accompagnement de l'ouverture des données et animation territoriale
 longTitle: Assistance à maitrise d’ouvrage de la région Occitanie sur l’ouverture
   des données et l'animation territoriale de l'open data.
 image: "/images/logos/occitanie-square.png"
