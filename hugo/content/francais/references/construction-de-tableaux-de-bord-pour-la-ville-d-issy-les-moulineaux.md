@@ -33,7 +33,7 @@ weight = "300"
 
 ## Résultats obtenus
 
-* La données est apparue comme un réel vecteur de changement de méthode et de partage de l’information, qui bénéficie à toute la collectivité et à ses administrés.
+* La donnée est apparue comme un réel vecteur de changement de méthode et de partage de l’information, qui bénéficie à toute la collectivité et à ses administrés.
 * Travailler sur cet ensemble de données a permis de mettre en lumière des questions de structuration, de qualité et de manières de collecter la donnée.
 * Une étape significative vers l’émergence d’une culture des données au sein de l’administration.
 

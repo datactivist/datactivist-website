@@ -1,5 +1,5 @@
 ---
-title: Conception et animation d'un hackathon au Ghana
+title: AFD - Conception et animation d'un hackathon au Ghana
 longTitle: Conception et animation d'un Hackathon au Ghana sur l'utilisation des données
   géospatiales pour le développement de l'agriculture.
 image: "/uploads/Hackathon_Ghana.jpg"
