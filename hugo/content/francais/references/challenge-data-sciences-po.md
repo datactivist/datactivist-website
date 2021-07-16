@@ -3,7 +3,7 @@ date = 2019-07-31T22:00:00Z
 image = "/uploads/challenge-data-1.jpeg"
 longTitle = "Challenge Data à Sciences Po Saint-Germain-en-Laye"
 projects = ["collectivites"]
-title = "Challenge Data à Sciences Po Saint-Germain-en-Laye"
+title = "Sciences Po Saint-Germain-en-Laye - Challenge Data "
 topAnswer = "4 mois"
 topPicto = ""
 topQuestion = "Durée de l'intervention ![Fleche vers la droite](/images/white-dotted-arrow.svg)"
@@ -14,7 +14,7 @@ weight = "300"
 
 ## Contexte
 
-Le Challenge Data est l’opportunité pour les étudiant.e.s de l’IEP d’une immersion totale dans le travail de design de services ou de politiques publiques utilisant des données. Il prend la forme d’un séminaire participatif de cinq jours en équipe, associée à des ateliers pratiques animés par des experts (open data, design de services).
+Le Challenge Data est l’opportunité pour les étudiant.e.s de l’IEP d’une immersion totale dans le travail de design de services ou de politiques publiques utilisant des données. Il prend la forme d’un séminaire participatif de cinq jours en équipe, associé à des ateliers pratiques animés par des experts (open data, design de services).
 
 L’équipe de Datactivist accompagne les étudiant.e.s tout au long du challenge dans une exploration d’usages, mais aussi de cadres législatifs ou applicatifs qui façonnent le travail des données dans un environnement public ou privé. L’objectif est de développer la culture générale de ces futurs leaders à la data literacy.
 
