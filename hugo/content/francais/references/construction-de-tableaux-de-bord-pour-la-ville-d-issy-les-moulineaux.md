@@ -1,9 +1,9 @@
 +++
 date = 2019-07-31T22:00:00Z
 image = "/uploads/tableaux_bord_Issy-1.png"
-longTitle = "Construction de tableaux de bord dynamiques s’alimentant de données provenant du portail open data de la ville d'Issy-les-Moulineaux"
+longTitle = " Ville d'Issy les Moulineaux - Construction de tableaux de bord dynamiques s’alimentant de données provenant du portail open data de la ville d'Issy-les-Moulineaux"
 projects = ["collectivites"]
-title = "Construction de tableaux de bord pour la ville d'Issy les Moulineaux"
+title = " Ville d'Issy les Moulineaux - Construction de tableaux de bord"
 topAnswer = "4 mois"
 topPicto = ""
 topQuestion = "Durée de l'intervention ![Fleche vers la droite](/images/white-dotted-arrow.svg)"
