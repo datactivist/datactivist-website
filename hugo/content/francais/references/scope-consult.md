@@ -1,9 +1,9 @@
 +++
 date = 2019-07-31T22:00:00Z
 image = "/uploads/scope-1.png"
-longTitle = "Evenement SCOPE Consult"
+longTitle = "Préfecture de région Occitanie - Événement SCOPE Consult \t"
 projects = ["collectivites"]
-title = "Événement SCOPE Consult \t"
+title = "Préfecture de région Occitanie - Événement SCOPE Consult \t"
 topAnswer = "4 mois"
 topPicto = ""
 topQuestion = "Durée de l'intervention ![Fleche vers la droite](/images/white-dotted-arrow.svg)"
