@@ -3,7 +3,7 @@ date = 2021-01-31T23:00:00Z
 image = "/uploads/odeon3-1.png"
 longTitle = "Cycle d’ateliers de co-construction pour faire émerger trois projets autour de la donnée ouverte"
 projects = ["cooperation_internationale"]
-title = "Accompagnement de porteurs de projets open data"
+title = "Avitem - Accompagnement de porteurs de projets open data"
 topAnswer = "2 ans"
 topPicto = ""
 topQuestion = "Durée de l'intervention ![Fleche vers la droite](/images/white-dotted-arrow.svg)"
@@ -21,7 +21,7 @@ Dans le cadre du projet ODEON, les ateliers de Dat’accélère visaient répond
 ## Approche adoptée
 
 * La méthodologie du parcours d’évaluation du potentiel data a comporté trois phases principales. Selon les projets et les situations, ces phases ont correspondu au découpage des trois ateliers et se sont étendues entre les différents ateliers. Les animateurs ont guidé les porteurs de projet selon le niveau d’avancement des groupes.
-* La première phase pour comprendre les besoins data du projet à partir de l’élaboration d’une « Wanted Data Liste » ;
+* La première phase pour comprendre les besoins data du projet à partir de l’élaboration d’une « Wanted Data List » ;
 * Ensuite, la collecte et l’évaluation des données ;
 * En enfin, un plan de route open data pour faire le sourcing des données et constituer un plan à suivre.
 
