@@ -95,7 +95,7 @@ items:
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
   name: Stéphanie Trichard
-  image: "/uploads/stephanie-2.png"
+  image: "/uploads/stephaniesite.png"
 - email: emeline@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
