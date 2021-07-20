@@ -83,7 +83,7 @@ items:
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 - name: Stéphanie Trichard
-  image: "/uploads/stephanie.png"
+  image: "/uploads/image1.png"
   text: Since 1999, she has assumed various positions in the development and support
     of projects in the cultural field and in the social and solidarity economy. With
     this experience and a master's degree in management, she has built her career
