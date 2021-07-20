@@ -123,6 +123,15 @@ items:
   email: diane@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
+- name: Anthony Gigerich
+  image: "/uploads/site_anthony01.png"
+  text: 'Currently in the last year of his Master in Artificial Intelligence and Automatic
+    Learning at Aix-Marseille University, Anthony joined Datactivist as an internship
+    under the supervision of Mathieu. His main role is to help him develop various
+    tools to improve data accessibility. '
+  email: anthony@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
 
 ---
 All members of the team we gathered are marked, in their path, by having developped a strong personal link with data, that they wish to serve general good and everyone's interest. Data will be an empowerment tool or won't be.
