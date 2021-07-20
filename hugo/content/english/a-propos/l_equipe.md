@@ -134,6 +134,14 @@ items:
   email: anthony@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
+- name: Emeline Vandeven
+  image: "/uploads/emeline-site.png"
+  text: Emeline Vandeven is a lawyer in public procurement. She worked for 10 years
+    in french administrations (CNIL, DAJ Bercy). She helps public purchasers to open
+    data of public procurement.
+  email: emeline@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
 
 ---
 All members of the team we gathered are marked, in their path, by having developped a strong personal link with data, that they wish to serve general good and everyone's interest. Data will be an empowerment tool or won't be.
