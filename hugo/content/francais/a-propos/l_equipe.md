@@ -69,23 +69,6 @@ items:
     s’intéresse spécialement au rôle de la data dans la construction des villes intelligentes
     et durables.
   email: allyson@datactivist.coop
-- name: Julia Dumont
-  image: "/images/julia_hex.png"
-  text: Professeure d'Histoire-Géographie et formatrice en numérique pendant 10 ans,
-    elle a démontré aux élèves et aux enseignants le potentiel des données comme matériau
-    pédagogique. Croyant fermement au pouvoir émancipateur des données, elle contribue
-    à la démocratisation de leurs usages pour favoriser l'émergence d'une société
-    apprenante.
-  email: julia@datactivist.coop
-- name: Anne-Laure Donzel
-  image: "/uploads/anne-laure.png"
-  text: 'est archiviste de formation. Elle a été chargée de projets d''archivage de
-    données et déléguée à la protection des données dans des collectivités, dont,
-    dernièrement à la Région Bretagne. Elle s''intéresse particulièrement aux questions
-    juridiques et au cycle de vie des données, de leur production à leur réutilisation. '
-  email: annelaure@datactivist.coop
-  Nous croyons au savoir ouvert: ''
-  'We believe in open knowledge ': ''
 - text: Depuis 1999, elle assume différentes fonctions de développement et d’accompagnement
     de projets dans le champ culturel et l’économie sociale et solidaire. Forte de
     cette expérience complétée par un master 2 en gestion, elle bâtit son parcours
@@ -96,6 +79,23 @@ items:
   'We believe in open knowledge ': ''
   name: Stéphanie Trichard
   image: "/uploads/image1.png"
+- name: Anne-Laure Donzel
+  image: "/uploads/anne-laure.png"
+  text: 'est archiviste de formation. Elle a été chargée de projets d''archivage de
+    données et déléguée à la protection des données dans des collectivités, dont,
+    dernièrement à la Région Bretagne. Elle s''intéresse particulièrement aux questions
+    juridiques et au cycle de vie des données, de leur production à leur réutilisation. '
+  email: annelaure@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
+- name: Julia Dumont
+  image: "/images/julia_hex.png"
+  text: Professeure d'Histoire-Géographie et formatrice en numérique pendant 10 ans,
+    elle a démontré aux élèves et aux enseignants le potentiel des données comme matériau
+    pédagogique. Croyant fermement au pouvoir émancipateur des données, elle contribue
+    à la démocratisation de leurs usages pour favoriser l'émergence d'une société
+    apprenante.
+  email: julia@datactivist.coop
 - email: emeline@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
@@ -106,16 +106,6 @@ items:
     Elle est notamment en charge d'accompagner les acteurs publics dans l'ouverture
     des données de la commande publique.
   image: "/uploads/emeline-site.png"
-- name: Antoine Blanchard
-  image: "/uploads/antoine.png"
-  email: antoine@datactivist.coop
-  Nous croyons au savoir ouvert: ''
-  'We believe in open knowledge ': ''
-  text: travaille depuis 15 ans à la croisée des enjeux numériques et des relations
-    science-société. Après plusieurs expériences en information scientifique et technique
-    et dans des projets de science ouverte, il est notamment en charge d'accompagner
-    des institutions scientifiques dans la diffusion du savoir et l'ouverture des
-    données de la recherche.
 - name: 'Justine Banuls '
   image: "/uploads/justine.png"
   text: 'Après une spécialisation en droit public, Justine a rejoint Datactivist entant
@@ -126,6 +116,16 @@ items:
   email: justine@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
+- name: Antoine Blanchard
+  image: "/uploads/antoine.png"
+  email: antoine@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
+  text: travaille depuis 15 ans à la croisée des enjeux numériques et des relations
+    science-société. Après plusieurs expériences en information scientifique et technique
+    et dans des projets de science ouverte, il est notamment en charge d'accompagner
+    des institutions scientifiques dans la diffusion du savoir et l'ouverture des
+    données de la recherche.
 - name: Guillaume Martin
   image: "/uploads/site_gui.png"
   text: Guillaume Martin est spécialisé en stratégie numérique publique. Il a porté
