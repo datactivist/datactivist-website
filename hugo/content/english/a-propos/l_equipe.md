@@ -60,8 +60,10 @@ items:
   email: mathieu@datactivist.coop
 - name: Allyson Pallisser
   image: "/images/allyson_hex.png"
-  text: holds a Masters in Policital expertise and Public affairs. He works on the
-    development of public policies of open data, in particular in Brazil.
+  text: holds a master's degree in Political Expertise and Public Affairs. At Datactivist
+    he helps various players in their efforts to open and reuse data, in France and
+    abroad. Allyson is particularly interested in the role of data in building smart
+    and sustainable cities.
   email: allyson@datactivist.coop
 - name: Julia Dumont
   image: "/images/julia_hex.png"
