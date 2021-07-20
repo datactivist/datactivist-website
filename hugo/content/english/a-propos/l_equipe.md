@@ -65,13 +65,13 @@ items:
     abroad. Allyson is particularly interested in the role of data in building smart
     and sustainable cities.
   email: allyson@datactivist.coop
-- name: Julia Dumont
-  image: "/images/julia_hex.png"
-  text: History and Geography teacher and also digital trainer for teachers for 10
-    years, she used data as educational material. Firmly believing in the emancipatory
-    power of data, she contributes to the democratization of their uses to promote
-    the emergence of a learning society.
-  email: julia@datactivist.coop
+- name: Stéphanie Trichard
+  image: "/uploads/image1.png"
+  text: Since 1999, she has assumed various positions in the development and support
+    of projects in the cultural field and in the social and solidarity economy. With
+    this experience and a master's degree in management, she has built her career
+    and her teaching by defending unique, innovative and meaningful projects.
+  email: stephanie@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 - name: Anne-Laure Donzel
@@ -82,13 +82,29 @@ items:
   email: annelaure@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
-- name: Stéphanie Trichard
-  image: "/uploads/image1.png"
-  text: Since 1999, she has assumed various positions in the development and support
-    of projects in the cultural field and in the social and solidarity economy. With
-    this experience and a master's degree in management, she has built her career
-    and her teaching by defending unique, innovative and meaningful projects.
-  email: stephanie@datactivist.coop
+- name: Julia Dumont
+  image: "/images/julia_hex.png"
+  text: History and Geography teacher and also digital trainer for teachers for 10
+    years, she used data as educational material. Firmly believing in the emancipatory
+    power of data, she contributes to the democratization of their uses to promote
+    the emergence of a learning society.
+  email: julia@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
+- name: Emeline Vandeven
+  image: "/uploads/emeline-site.png"
+  text: Emeline Vandeven is a lawyer in public procurement. She worked for 10 years
+    in french administrations (CNIL, DAJ Bercy). She helps public purchasers to open
+    data of public procurement.
+  email: emeline@datactivist.coop
+  Nous croyons au savoir ouvert: ''
+  'We believe in open knowledge ': ''
+- name: 'Justine Banuls '
+  image: "/uploads/justine.png"
+  text: |-
+    After an administrative law second university cycle, Justine joined Datactivist on a work-study basis, in parallel with a Master’s 2 in Nice, specialised in algorithmic law and data governance.
+    In line with her thesis on data as a common, Justine is currently striving for algorithmic transparency in the public administration.
+  email: justine@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 - name: Antoine Blanchard
@@ -98,14 +114,6 @@ items:
     with several open science projects under his belt, he is in charge of supporting
     research organizations in their outreach and open data strategies.
   email: antoine@datactivist.coop
-- name: 'Justine Banuls '
-  image: "/uploads/justine.png"
-  text: |-
-    After an administrative law second university cycle, Justine joined Datactivist on a work-study basis, in parallel with a Master’s 2 in Nice, specialised in algorithmic law and data governance.
-    In line with her thesis on data as a common, Justine is currently striving for algorithmic transparency in the public administration.
-  email: justine@datactivist.coop
-  Nous croyons au savoir ouvert: ''
-  'We believe in open knowledge ': ''
 - name: Guillaume Martin
   image: "/uploads/site_gui.png"
   text: Guillaume Martin is specialized on digital strategy for administrations and
@@ -132,14 +140,6 @@ items:
     under the supervision of Mathieu. His main role is to help him develop various
     tools to improve data accessibility. '
   email: anthony@datactivist.coop
-  Nous croyons au savoir ouvert: ''
-  'We believe in open knowledge ': ''
-- name: Emeline Vandeven
-  image: "/uploads/emeline-site.png"
-  text: Emeline Vandeven is a lawyer in public procurement. She worked for 10 years
-    in french administrations (CNIL, DAJ Bercy). She helps public purchasers to open
-    data of public procurement.
-  email: emeline@datactivist.coop
   Nous croyons au savoir ouvert: ''
   'We believe in open knowledge ': ''
 
